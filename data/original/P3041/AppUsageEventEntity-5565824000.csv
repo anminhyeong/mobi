@@ -1,0 +1,527 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1556582599684,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556582638980,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556582639321,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556582639334,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556582640485,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556582641002,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556582641233,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556582903185,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556582936395,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556582936497,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556582936509,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556582938619,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556582938639,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556582938646,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556582997473,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556582997532,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556582997565,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583006188,Galaxy Wearable,com.samsung.android.app.watchmanager,False,NONE,False
+1556583040350,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556583238368,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556583238391,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556583238430,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583241003,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556583245242,갤러리,com.sec.android.gallery3d,True,NONE,True
+1556583245244,토스,viva.republica.toss,False,NONE,False
+1556583245298,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556583245299,원터치알림,com.wr.alrim,False,NONE,False
+1556583297337,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556583297424,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583297427,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556583358109,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556583358570,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556583360887,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556583360922,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556583454661,Google,com.google.android.googlequicksearchbox,True,NONE,True
+1556583538595,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556583538606,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556583538673,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583539618,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556583539837,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556583540274,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556583597381,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556583597432,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583597459,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556583661402,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556583661851,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556583663915,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556583663926,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556583899309,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583899330,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556583901684,날씨,com.sec.android.daemonapp,True,NONE,False
+1556584199938,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556584199953,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556584200027,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556584201004,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556584201755,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556584212328,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556584298225,Google,com.google.android.googlequicksearchbox,True,NONE,True
+1556584496366,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556584496457,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556584496460,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556584498677,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556584498702,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556584498709,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556584504673,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556584504752,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556584565378,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556584565833,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556584567852,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556584567867,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556584594296,이메일,com.samsung.android.email.provider,False,NONE,False
+1556584594740,이메일,com.samsung.android.email.provider,False,NONE,False
+1556584594752,이메일,com.samsung.android.email.provider,False,NONE,False
+1556584594814,이메일,com.samsung.android.email.provider,False,NONE,False
+1556584594827,이메일,com.samsung.android.email.provider,False,NONE,False
+1556584594847,이메일,com.samsung.android.email.provider,False,NONE,False
+1556584961618,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556585383005,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556585518189,Android Services Library,com.google.android.ext.services,True,NONE,False
+1556585518190,T map,com.skt.skaf.l001mtm091,False,NONE,False
+1556585518194,스마트카드 서비스,com.sktelecom.smartcard.SmartcardService,True,NONE,False
+1556585518194,Context Service,com.samsung.android.providers.context,True,NONE,False
+1556585518196,시스템 UI,com.android.systemui,True,NONE,False
+1556585578187,ABC Logger,kaist.iclab.abclogger,False,NONE,False
+1556585624766,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556585624767,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556585645540,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556585699323,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556585699345,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556585952346,원스토어,com.skt.skaf.A000Z00040,True,NONE,True
+1556585953367,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556585953379,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556585998774,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556585998784,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556585998837,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556585999998,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556586000415,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556586000806,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556586010357,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556586010431,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556586074178,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556586074627,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556586076612,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556586076627,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556586690189,Android Services Library,com.google.android.ext.services,True,NONE,False
+1556586690190,T map,com.skt.skaf.l001mtm091,False,NONE,False
+1556586690191,스마트카드 서비스,com.sktelecom.smartcard.SmartcardService,True,NONE,False
+1556586690191,Context Service,com.samsung.android.providers.context,True,NONE,False
+1556586690192,시스템 UI,com.android.systemui,True,NONE,False
+1556586750178,ABC Logger,kaist.iclab.abclogger,False,NONE,False
+1556586846044,영웅문S,com.linkzen.app,False,NONE,False
+1556586846045,Gmail,com.google.android.gm,True,NONE,True
+1556586846066,갤러리,com.sec.android.gallery3d,True,NONE,True
+1556586846067,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556587165028,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556587165029,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556587212070,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556587782251,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556588006348,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556588006348,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556588006353,Gmail,com.google.android.gm,True,NONE,True
+1556588047495,Smart​Things,com.samsung.android.oneconnect,False,NONE,False
+1556588194363,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588194913,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588194926,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588194955,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588194974,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588195015,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588195043,이메일,com.samsung.android.email.provider,False,NONE,False
+1556588469592,SoundAlive,com.sec.android.app.soundalive,True,NONE,False
+1556588579357,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556588579397,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556588630755,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556588632255,OK Cashbag,com.skmc.okcashbag.home_google,False,NONE,False
+1556588723835,Paco,com.pacoapp.paco,False,NONE,False
+1556588834212,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556588834212,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556588875347,Smart​Things,com.samsung.android.oneconnect,False,NONE,False
+1556588876585,키즈 홈 인스톨러,com.samsung.android.kidsinstaller,True,NONE,False
+1556588879427,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556588879696,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556588879727,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556588880820,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556588881005,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556588881785,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556588885542,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556588888603,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556588888668,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556588888709,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556588936608,Google,com.google.android.googlequicksearchbox,True,NONE,True
+1556588937216,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556588937658,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556588940150,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556588940172,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556588944345,Samsung Music,com.sec.android.app.music,False,NONE,False
+1556588951696,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556588952029,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556588963645,Samsung Pay (Watch plug-in),com.samsung.android.samsungpay.gear,False,NONE,False
+1556588963757,Galaxy Wearable,com.samsung.android.app.watchmanager,False,NONE,False
+1556588966994,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556588967007,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556589028297,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556589028716,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589033514,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589033521,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589061238,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556589061579,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589062138,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589062156,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589062161,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589062786,메시지,com.samsung.android.messaging,True,NONE,True
+1556589062786,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556589062786,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556589065448,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589065701,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556589065920,안드로이드 시스템,android,True,NONE,False
+1556589066917,OK Cashbag,com.skmc.okcashbag.home_google,False,NONE,False
+1556589066917,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556589066917,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556589066920,OK Cashbag,com.skmc.okcashbag.home_google,False,NONE,False
+1556589070361,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589070380,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556589070406,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556589070436,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589070798,뱅크샐러드,com.rainist.banksalad2,False,NONE,False
+1556589071313,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589071827,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589071827,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589071828,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589073605,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589073642,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589073937,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589073946,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589073971,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589073992,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589076949,OK Cashbag,com.skmc.okcashbag.home_google,False,NONE,False
+1556589079326,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589079342,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589079994,Samsung Pass 자동 완성,com.samsung.android.samsungpassautofill,True,NONE,True
+1556589088183,딩굴 키보드,com.dingulHangul.dingulHangulKeyboard_dinki,False,NONE,False
+1556589109340,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589109358,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589111313,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589111360,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589113213,Edge screen,com.samsung.android.app.cocktailbarservice,True,NONE,True
+1556589113354,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589113375,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556589113682,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556589113688,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556589114785,설정메시지,com.wsomacp,True,NONE,False
+1556589115281,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556589115299,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589119319,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556589119688,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589120670,안드로이드 시스템,android,True,NONE,False
+1556589121686,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589121699,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589178926,시계,com.sec.android.app.clockpackage,True,NONE,True
+1556589179140,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556589179167,SoundAlive,com.sec.android.app.soundalive,True,NONE,False
+1556589179170,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556589180071,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556589180860,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1556589187417,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1556589187488,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589194065,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589194105,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589194107,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589195897,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556589198450,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589198477,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589295492,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556589295782,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589296951,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589296964,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589296982,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589301102,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589301263,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556589301938,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589301970,KAIST 전자식복무관리시스템,m.kaist.ac.kr.krep,False,NONE,False
+1556589301974,KAIST 전자식복무관리시스템,m.kaist.ac.kr.krep,False,MOVE_TO_FOREGROUND,False
+1556589311739,KAIST 전자식복무관리시스템,m.kaist.ac.kr.krep,False,MOVE_TO_BACKGROUND,False
+1556589311767,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589317197,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556589317561,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589318189,안드로이드 시스템,android,True,NONE,False
+1556589318758,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589318766,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589428795,카카오톡,com.kakao.talk,False,NONE,False
+1556589434818,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556589435144,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589436122,카카오톡,com.kakao.talk,False,NONE,False
+1556589437597,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556589438016,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589440316,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589440328,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589467653,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556589467842,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589469005,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589469039,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589469042,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589470252,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589470389,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556589471098,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589471132,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589471397,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589471408,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589471432,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589471454,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589472940,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589472952,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589474219,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589474235,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589475092,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589475105,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589482268,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589482288,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589483812,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589483826,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589501346,키즈 홈 인스톨러,com.samsung.android.kidsinstaller,True,NONE,False
+1556589541834,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589541854,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589547302,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589547341,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589562482,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556589562883,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589563528,안드로이드 시스템,android,True,NONE,False
+1556589564121,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589564130,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589587806,Samsung Pay (Watch plug-in),com.samsung.android.samsungpay.gear,False,NONE,False
+1556589619517,Galaxy Wearable,com.samsung.android.app.watchmanager,False,NONE,False
+1556589619767,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556589639924,메시지,com.samsung.android.messaging,True,NONE,True
+1556589699444,OK Cashbag,com.skmc.okcashbag.home_google,False,NONE,False
+1556589731596,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556589731945,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589733106,메시지,com.samsung.android.messaging,True,NONE,True
+1556589737231,설정메시지,com.wsomacp,True,NONE,False
+1556589738018,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556589738045,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589738064,메시지,com.samsung.android.messaging,True,USER_INTERACTION,True
+1556589738074,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556589747506,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556589747574,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556589749354,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556589749369,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589755911,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589756947,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589758461,이메일,com.samsung.android.email.provider,False,NONE,False
+1556589759325,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589759329,이메일,com.samsung.android.email.provider,False,USER_INTERACTION,False
+1556589759350,이메일,com.samsung.android.email.provider,False,MOVE_TO_FOREGROUND,False
+1556589802766,빅스비 홈,com.samsung.android.app.spage,True,NONE,True
+1556589817747,카카오톡,com.kakao.talk,False,NONE,False
+1556589824960,이메일,com.samsung.android.email.provider,False,MOVE_TO_BACKGROUND,False
+1556589824975,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556589825940,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556589825973,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589826265,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589826277,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589826299,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589826322,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589827695,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589827718,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556589851639,메시지,com.samsung.android.messaging,True,NONE,True
+1556589855206,메시지,com.samsung.android.messaging,True,NONE,True
+1556589855373,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556589855402,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556589856637,설정메시지,com.wsomacp,True,NONE,False
+1556589864494,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556589956063,원스토어,com.skt.skaf.A000Z00040,True,NONE,True
+1556590097601,카카오톡,com.kakao.talk,False,NONE,False
+1556590104187,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556590104250,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556590159491,Galaxy Wearable,com.samsung.android.app.watchmanager,False,NONE,False
+1556590160806,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556590162930,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556590162955,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556590164085,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556590171857,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556590172413,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556590173919,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556590175020,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556590175719,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556590177673,Samsung Accessory Service,com.samsung.accessory,False,NONE,False
+1556590190603,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556590197324,티머니	갤럭시워치,com.tmoney.gear,False,NONE,False
+1556590200337,Samsung Pay (Watch plug-in),com.samsung.android.samsungpay.gear,False,NONE,False
+1556590200380,Samsung Pay,com.samsung.android.spay,False,NONE,False
+1556590203090,메시지,com.samsung.android.messaging,True,NONE,True
+1556590222846,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556590223256,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556590224300,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556590224309,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556590228026,안드로이드 시스템,android,True,NONE,False
+1556590307120,카카오톡,com.kakao.talk,False,NONE,False
+1556590309912,카카오톡,com.kakao.talk,False,NONE,False
+1556590315380,카카오톡,com.kakao.talk,False,NONE,False
+1556590365500,카카오톡,com.kakao.talk,False,NONE,False
+1556590411770,카카오톡,com.kakao.talk,False,NONE,False
+1556590414937,카카오톡,com.kakao.talk,False,NONE,False
+1556590493237,Google,com.google.android.googlequicksearchbox,True,NONE,True
+1556590496788,Samsung Pass 자동 완성,com.samsung.android.samsungpassautofill,True,NONE,True
+1556590552261,설정메시지,com.wsomacp,True,NONE,False
+1556590659244,Google,com.google.android.googlequicksearchbox,True,NONE,True
+1556590675243,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556590675507,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556590676489,카카오톡,com.kakao.talk,False,NONE,False
+1556590676490,원스토어,com.skt.skaf.A000Z00040,True,NONE,True
+1556590676491,Samsung Health,com.sec.android.app.shealth,False,NONE,False
+1556590676491,메시지,com.samsung.android.messaging,True,NONE,True
+1556590679268,음성 녹음,com.sec.android.app.voicenote,False,NONE,False
+1556590679302,원터치알림,com.wr.alrim,False,NONE,False
+1556590680595,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556590681020,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556590682982,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556590683012,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556590809532,카카오톡,com.kakao.talk,False,NONE,False
+1556590979535,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556590979535,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556591045153,차단된 번호 스토리지,com.android.providers.blockednumber,True,NONE,False
+1556591045156,사용자 사전,com.android.providers.userdictionary,True,NONE,False
+1556591081960,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556591082323,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591083115,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591083149,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556591083152,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556591083776,카카오톡,com.kakao.talk,False,NONE,False
+1556591084189,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556591084308,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556591084892,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556591084919,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591086789,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591086806,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591087274,Samsung Pass 자동 완성,com.samsung.android.samsungpassautofill,True,NONE,True
+1556591096547,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591096570,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591098456,Paco,com.pacoapp.paco,False,NONE,False
+1556591098671,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556591099042,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591099751,안드로이드 시스템,android,True,NONE,False
+1556591100600,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591100623,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591130500,음성 녹음,com.sec.android.app.voicenote,False,NONE,False
+1556591130997,Samsung DeX,com.sec.android.desktopmode.uiservice,True,NONE,False
+1556591131023,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1556591131027,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1556591131104,T전화,com.skt.prod.dialer,True,NONE,True
+1556591131340,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556591131630,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1556591225720,T연락처,com.skt.prod.phonebook,False,NONE,False
+1556591227663,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556591228052,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1556591228088,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556591228655,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591228682,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591229372,Samsung Accessory Service,com.samsung.accessory,False,NONE,False
+1556591229912,Samsung Accessory Service,com.samsung.accessory,False,NONE,False
+1556591230959,Samsung Accessory Service,com.samsung.accessory,False,NONE,False
+1556591231835,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591231851,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591235291,Samsung Accessory Service,com.samsung.accessory,False,NONE,False
+1556591237822,Samsung Pay (Watch plug-in),com.samsung.android.samsungpay.gear,False,NONE,False
+1556591237866,Samsung Pay,com.samsung.android.spay,False,NONE,False
+1556591261492,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556591264406,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556591265101,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591265808,Paco,com.pacoapp.paco,False,NONE,False
+1556591271135,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556591271164,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591271169,메시지,com.samsung.android.messaging,True,USER_INTERACTION,True
+1556591271188,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556591272512,설정메시지,com.wsomacp,True,NONE,False
+1556591282641,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556591282692,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591284048,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591284078,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556591285649,Edge screen,com.samsung.android.app.cocktailbarservice,True,NONE,True
+1556591285849,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556591285882,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556591301622,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556591301639,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556591302642,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556591302681,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591306040,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591306056,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591306799,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591306812,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591307691,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591307704,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591332351,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591332371,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591334527,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591334542,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591366465,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591366482,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591368368,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591368382,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591370279,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591370303,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591371433,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591371447,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591498134,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591498149,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591552130,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591552151,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591553405,카카오톡,com.kakao.talk,False,NONE,False
+1556591610059,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591610078,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556591613065,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556591613103,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556591614826,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556591615176,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556591615742,안드로이드 시스템,android,True,NONE,False
+1556591616166,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591616172,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591722841,카카오톡,com.kakao.talk,False,NONE,False
+1556591729505,카카오톡,com.kakao.talk,False,NONE,False
+1556591733701,음성 녹음,com.sec.android.app.voicenote,False,NONE,False
+1556591834334,T연락처,com.skt.prod.phonebook,False,NONE,False
+1556591835128,Galaxy Wearable,com.samsung.android.app.watchmanager,False,NONE,False
+1556591883907,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556591893444,설정메시지,com.wsomacp,True,NONE,False
+1556591928036,메시지,com.samsung.android.messaging,True,NONE,True
+1556591934133,Gear S PlugIn,com.samsung.android.gearoplugin,False,NONE,False
+1556591939103,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556591939446,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556591939593,Samsung Accessory Service,com.samsung.accessory,False,NONE,False
+1556591940712,카카오톡,com.kakao.talk,False,NONE,False
+1556591940712,카카오톡,com.kakao.talk,False,NONE,False
+1556591940713,메시지,com.samsung.android.messaging,True,NONE,True
+1556591941928,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556591941945,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556591941950,메시지,com.samsung.android.messaging,True,USER_INTERACTION,True
+1556591941962,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556591975725,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556591987341,Google Services Framework,com.google.android.gsf,True,NONE,False
+1556592035065,메시지,com.samsung.android.messaging,True,NONE,True
+1556592042385,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556592042420,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556592045022,안드로이드 시스템,android,True,SCREEN_NON_INTERACTIVE,False
+1556592045372,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556592046168,안드로이드 시스템,android,True,NONE,False
+1556592046847,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556592046850,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556592071051,Samsung DeX,com.sec.android.desktopmode.uiservice,True,NONE,False
+1556592147913,안드로이드 시스템,android,True,SCREEN_INTERACTIVE,False
+1556592148181,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556592149324,메시지,com.samsung.android.messaging,True,NONE,True
+1556592151979,안드로이드 시스템,android,True,KEYGUARD_HIDDEN,False
+1556592151999,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556592152005,메시지,com.samsung.android.messaging,True,USER_INTERACTION,True
+1556592152025,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,True
+1556592153365,설정메시지,com.wsomacp,True,NONE,False
+1556592153838,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,True
+1556592153883,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_FOREGROUND,False
+1556592155512,첫화면 상식,com.firstscreen.commonsense,False,MOVE_TO_BACKGROUND,False
+1556592155525,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1556592156445,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1556592156473,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556592156730,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556592156740,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556592156762,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556592156783,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556592158711,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556592158727,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False

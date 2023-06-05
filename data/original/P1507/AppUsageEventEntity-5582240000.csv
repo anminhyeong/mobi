@@ -1,0 +1,2426 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1558226470671,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558226470700,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558226472450,소프트웨어 업데이트,com.wssyncmldm,True,USER_INTERACTION,False
+1558226472451,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558226478520,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558226499194,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558226499528,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558227099492,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558227100049,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558227100052,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558228416235,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558228418724,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558228419208,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228422273,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228423388,전화,com.android.server.telecom,True,USER_INTERACTION,False
+1558228423416,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558228423427,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558228425174,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558228426361,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558228426575,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228427194,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228428479,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228430273,날씨,com.sec.android.daemonapp,True,USER_INTERACTION,True
+1558228438100,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558228439414,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228439772,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1558228442427,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1558228442492,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1558228449244,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1558228449329,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1558228450202,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1558228450248,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1558228450411,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558228452214,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1558228452388,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228453950,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228454183,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228454717,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228454759,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228461392,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228461679,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228463042,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228463484,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558228469203,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558228469297,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228469371,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228469384,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228469445,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228469462,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228483775,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228483845,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228488593,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228488612,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228500936,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228500977,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228508121,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228508174,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558228685567,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558228685791,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558228687249,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558228694638,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558228695216,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558228695219,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558228746284,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558228754999,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558228755147,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558228755730,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558228761096,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558228765770,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558228766043,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1558228766311,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1558228766497,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1558228766761,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1558228766771,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1558228768614,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1558228768764,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558228774053,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558228774076,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558228777432,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558228777471,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558228780705,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558228780735,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558228782864,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558228782978,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558228784990,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558228785000,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558228786442,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558228786459,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558228793308,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558228793377,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558228796272,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558228796303,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558228800546,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558228800833,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228803230,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228803246,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228804257,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228804373,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228808316,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228808358,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228809905,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228809956,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228813223,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228813562,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228819252,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558228819271,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558228825650,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558229560876,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558229561942,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558229562470,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558229562514,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558230693386,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558230694885,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558230695552,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558230701032,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558230701676,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1558230704764,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558230716140,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558230716286,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558230722447,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558230722470,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558230764426,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558231620688,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558231620980,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558231621369,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558231627475,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558231627974,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558231630100,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558231630170,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558231633454,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558231633503,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558231661335,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558231661404,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558231664455,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558231664483,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558231670314,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558231670415,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558231671549,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558231671721,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558231671793,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232284175,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232284987,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232285535,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558232285538,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558232357479,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558232364435,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558232364728,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232365669,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232366224,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558232371472,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558232371474,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558232378096,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558232379260,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558232379373,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232380224,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232387439,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232387779,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232391635,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232391780,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232391889,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558232396547,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558232396574,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558232397668,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558232397884,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232397927,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232418993,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232419131,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232419284,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558232421497,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558232421506,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558232423084,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558232423115,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558232427909,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558232428123,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232430409,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232430424,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232438542,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232438585,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232542106,카카오페이지,com.kakao.page,False,USER_INTERACTION,False
+1558232651410,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232666998,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232667922,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558232668207,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558232668215,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558232749850,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558232751600,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558232751852,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232753036,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558232754429,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558232754657,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558233975913,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558233976829,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558233977238,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558233977243,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558234549833,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558234552006,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558234552427,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558234554240,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558234560593,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558234560612,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558234564471,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558234566172,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558234566317,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558234567075,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558234572703,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558234573037,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235467461,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558235468440,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235468743,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235469357,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558235494729,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558235494826,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558235498197,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558235498351,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235498426,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235499989,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235500095,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558235502049,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558235502101,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235519267,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235520048,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235520259,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558235520262,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558235521216,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558235521360,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558235526034,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558235527480,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558235527689,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235529241,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235530326,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235530935,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235536888,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235538992,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235542828,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235543104,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235548861,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235549523,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235549634,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558235549637,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558235554380,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558235556677,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558235556862,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235557375,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235558302,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558235558717,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235811102,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558235811902,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558235812290,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558235812294,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237738551,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558237747585,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237747937,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558237750639,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558237751563,TVING,net.cj.cjhv.gs.tving,False,USER_INTERACTION,False
+1558237751606,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558237753497,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558237754231,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558237754237,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237795544,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558237798205,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237798696,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558237799518,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558237801188,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558237803085,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558237803273,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558237805321,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558237805601,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558237818418,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558237818730,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237822740,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237822830,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237826339,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237826577,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237827853,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237827890,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237842528,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237842836,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558237882615,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558237883179,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237885418,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237885625,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558237886923,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558237886941,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558237887450,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558237887655,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237887824,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237888474,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558237888475,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237922236,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558237925141,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237926262,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558237932134,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558237938068,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558237938078,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237943691,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558237943707,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558238110206,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558238112173,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558238112503,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558238113136,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558238115324,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558238117058,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558238121316,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558238121443,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558238124643,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558238124660,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558238128496,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558238128569,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558238130036,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558238130206,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238141732,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238141793,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238144218,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238144348,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238147246,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238147264,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238153424,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558238162801,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558238163950,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238164154,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558238180369,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558238180421,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558238182935,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558238182952,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558238193680,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558238193793,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558238195183,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558238195241,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238208272,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558238361205,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238362349,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558238362832,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558238362841,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558238431851,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558238437920,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558238438963,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238440559,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238441580,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1558238441581,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1558238444100,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558238445007,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558238450040,날씨,com.sec.android.daemonapp,True,USER_INTERACTION,True
+1558238452709,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558238452913,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558238461272,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558238461498,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558238461697,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558238477519,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558238478196,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558238478200,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558238507399,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558238509235,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558238509695,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558238510744,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558238515117,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558238517402,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558238517515,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558238518785,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558238518940,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558238518992,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558239001750,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558239002799,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558239003668,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558239003764,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558239422738,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558239425526,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558239426541,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558239432306,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558239437019,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558239447135,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558239675681,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558239676548,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558239677011,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558239677126,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558240739203,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558240740466,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558240740677,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558240742016,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558240743066,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558240743514,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558241875530,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558241876859,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558241878050,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558241915008,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558241915802,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558241915804,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558241921341,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1558241929523,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558241929537,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558241984387,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558241984396,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558241986000,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558241991520,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558242029045,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558242131871,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558242155785,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558242156389,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558242158796,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558242164254,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558242168957,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558242169042,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558242195049,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558242196055,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558242200287,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558242200465,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558242202438,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558242202759,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558242276474,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558242276598,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558242278492,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558242278710,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558242303157,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558242303321,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558242358846,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558242411551,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558242416440,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558242417189,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242417193,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242741290,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242743484,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242743874,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558242744778,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558242750209,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242750227,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242751469,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242752006,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242752415,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242755392,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242755527,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558242755733,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558242762223,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558242788731,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558242789379,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242789384,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242937686,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558242939680,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242940949,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558242940950,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243015313,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243017119,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558243017674,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558243018338,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558243020577,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243020594,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558243127880,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243202662,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558243202881,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558243203322,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558243204211,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558243206066,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558243206917,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558243207157,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558243214979,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558243215562,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243215566,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558243736533,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243745498,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558243745742,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558243746519,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558243747104,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558243748165,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558243751339,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558243752296,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558243752555,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558243758999,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1558243763918,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558243764086,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558243766772,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558243767403,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558243767411,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558244022455,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558244024948,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558244027453,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558244027461,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558244133515,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558244134333,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558244135588,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558244135591,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245098160,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245103411,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1558245107337,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558245111301,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245116077,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558245117269,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558245118705,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558245120660,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558245120683,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558245121577,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558245123182,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558245148230,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558245148894,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558245149602,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558245150420,전화,com.android.server.telecom,True,USER_INTERACTION,False
+1558245154864,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245154903,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558245280210,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245285291,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558245285970,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558245287446,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558245290566,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245290590,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558245297384,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558245300064,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558245301465,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558245301907,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558245305906,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558245306658,전화,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1558245306844,전화,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1558245307124,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558245319456,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558245319975,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558245352134,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558245378384,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558245379080,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558245379816,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558245387913,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558245387945,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558245391515,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558245392037,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558245392133,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558245394398,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558245408545,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246074614,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246075804,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246076704,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558246094053,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558246094530,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246094738,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558246154441,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246155427,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246155605,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246155654,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246236552,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246238507,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246238769,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558246240079,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246241050,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558246241089,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558246241448,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246249144,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246249419,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246249822,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558246253401,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558246254364,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558246254392,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558246268035,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558246268166,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558246271406,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558246271535,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558246276392,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558246276548,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246276631,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558246500417,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246501250,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246501604,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246501630,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246758795,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246760814,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246761501,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558246763390,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246767543,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558246768543,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246776189,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558246776949,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558246778201,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558246778276,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246778284,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246779635,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246779893,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246790766,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246790782,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246830799,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558246832195,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246833697,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558246833698,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558249060014,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558249660790,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558249661395,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250134712,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250138609,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250138945,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250139970,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250140649,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558250148456,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250150297,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558250151005,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250151032,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250151435,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250151576,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250151662,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250151790,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250154540,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250154862,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250155430,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250155996,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250156092,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250161270,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250161280,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250666403,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250668274,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250668776,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250668777,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250722055,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250754147,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250754304,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250755583,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250756762,카카오페이지,com.kakao.page,False,USER_INTERACTION,False
+1558250760839,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250762035,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558250766735,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250766765,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250767794,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250767808,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250767882,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250767910,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250772149,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250772522,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558250790792,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558250791450,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250791453,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250847313,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250849440,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250849697,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250851114,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250851949,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558250852700,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250856662,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250856926,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250860455,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250860532,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250872916,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558250899035,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250900214,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250900220,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250902228,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250902251,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250909237,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250914253,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250914461,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250915340,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250915395,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250917784,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250918256,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250919090,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250919690,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558250921413,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558250922963,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558250923326,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558250925785,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558250925933,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558250934699,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558250936198,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558250936211,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558250936766,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558250936781,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558250941525,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558250946919,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558250951389,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558250954572,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558250992616,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558250994375,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558251094317,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558251099875,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558251100179,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558251157289,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558251157534,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558251158921,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558251159587,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558251159956,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558251162671,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558251167970,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558251168267,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558251177675,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558251177784,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558251180634,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558251180965,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251181146,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251184652,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251197593,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558251198868,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558251206041,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251206757,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558251213340,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558251213536,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558251214228,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558251214877,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558251215244,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558251220902,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558251249110,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558251254484,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558251254763,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251255634,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251256264,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558251257197,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251264925,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251689181,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251689973,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251690335,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558251690343,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558251706048,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558251708084,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558251709203,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251712175,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251713071,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558251713665,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251714311,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251761170,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251761423,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251761894,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558251765483,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558251766213,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558251766253,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558251777952,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558251778093,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558251780572,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558251780595,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558251791468,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558251791522,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558251793083,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558251793265,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251793318,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251797578,안드로이드 시스템,android,True,USER_INTERACTION,False
+1558251804641,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251805325,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251805540,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558251805548,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558251934135,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558251935600,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558251935903,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251937053,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558251937584,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558251938135,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558251938423,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558251956944,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252050905,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558252052593,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558252052828,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558252054958,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558252055061,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558252060427,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558252060517,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558252061720,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558252061771,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558252068110,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252173366,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558252193161,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558252193532,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252194045,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558252196158,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558252196639,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558252196918,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252198539,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558252199264,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252199355,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558252231130,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558252231201,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558252232167,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558252232299,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252232380,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558252982642,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558252983866,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558252984072,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558252984114,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253193165,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253434994,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253435225,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558253436313,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558253436333,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1558253436365,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1558253436937,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558253439331,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1558253602469,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1558253602855,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558253603706,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558253604237,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558253608863,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253608871,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253609495,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253611327,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253611853,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558253613716,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558253614931,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558253620073,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558253620484,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253624992,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253625016,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253628182,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253628208,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253634517,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253634540,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253638012,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253638034,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253643839,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253643869,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253644417,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253644459,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253646492,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253646523,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253647492,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253647517,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253649831,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253649851,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253651293,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253651313,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253652843,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253652866,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253653631,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253653654,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253659857,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253659882,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253660941,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253660961,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253662540,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253662565,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253663008,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253663027,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253664542,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253664569,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253665364,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253665384,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253666977,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253667000,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253667435,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253667454,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253669412,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253669434,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253669923,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253669944,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253671347,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253671368,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253672055,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253672077,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253673340,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253673360,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253673959,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253673980,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253677364,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253677385,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253678507,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253678543,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253689192,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253689258,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253690901,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253690930,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253695015,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253695031,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253696170,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253696203,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253697197,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253697216,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253698173,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253698206,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253699450,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253699460,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253701204,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253701252,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253715400,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253715473,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253813778,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253813825,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253813850,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253813925,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253816018,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558253825702,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253825774,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253837675,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253837728,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253871511,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253872177,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253872179,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253890629,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253903247,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253903990,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253905637,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253906882,카카오뱅크,com.kakaobank.channel,False,USER_INTERACTION,False
+1558253907329,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253907336,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253925584,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253939921,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253940177,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253940976,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253945010,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253945012,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253954044,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558253974788,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558253975045,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558253975756,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558253976886,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558254009817,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558254009894,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558254021348,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558254021398,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558254022964,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558254022994,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254023394,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558254023511,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254026536,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558254026906,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254030772,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254031312,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254040957,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254041061,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254042810,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254042963,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254045895,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254046497,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558254046501,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558254059043,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558254060676,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558254061317,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254062496,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254064190,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254067944,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254068335,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254069976,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254070035,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254073215,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254073517,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254076145,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254076210,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558254079123,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558254079145,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254079385,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558254079502,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254081883,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558254082188,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254084493,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254084715,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254092463,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254092549,카카오 T,com.kakao.taxi,False,MOVE_TO_FOREGROUND,False
+1558254096806,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558254098415,카카오 T,com.kakao.taxi,False,MOVE_TO_BACKGROUND,False
+1558254098894,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558254102292,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558254102491,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254103091,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254103319,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254103417,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254103684,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254109177,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254109402,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254112708,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254113071,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558254141112,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558254141809,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558254142161,안드로이드 시스템,android,True,USER_INTERACTION,False
+1558254142620,CaptivePortalLogin,com.android.captiveportallogin,True,MOVE_TO_FOREGROUND,False
+1558254152251,CaptivePortalLogin,com.android.captiveportallogin,True,MOVE_TO_BACKGROUND,False
+1558254153106,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558254155289,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558254155375,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254160987,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254161058,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558254163183,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558254163234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254164102,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254164133,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254164208,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254164321,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254170146,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254170677,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254204547,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254204763,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254206101,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254206462,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558254206573,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558254210139,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558254246430,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558254250831,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558254251228,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254251954,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254252445,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254252985,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254253210,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254271417,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254271569,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254272800,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254272843,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558254275954,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558254760811,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558254763564,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558254763841,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558254767832,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558254767913,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254867475,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558254871412,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558254871845,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254872202,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254872410,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254872516,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254872802,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254874709,OK Cashbag,com.skmc.okcashbag.home_google,False,USER_INTERACTION,False
+1558254889080,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254889246,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254890623,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254890660,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254897331,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558254899599,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558254900195,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254900615,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254901216,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558254911813,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558254911911,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558254913651,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558254913816,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558254947835,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558255113958,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558255115061,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558255116306,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558255120816,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558255121073,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558255121206,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558255121495,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558255121625,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558255121640,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558255125101,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558255125550,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255129311,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255129370,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255157720,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255157812,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255165471,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558255172684,OK Cashbag,com.skmc.okcashbag.home_google,False,USER_INTERACTION,False
+1558255189795,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558255739796,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558255751730,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255752172,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255778776,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255778986,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255780715,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255780864,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255783533,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255783681,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558255784857,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558255785096,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255786409,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255786447,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558255855562,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558255855657,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558256060278,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558256063025,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558256064307,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256088535,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558256090044,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1558256098613,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256098727,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256100232,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256100306,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558256169623,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558256169676,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558256208331,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256210215,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558256211085,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256214688,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256215607,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256221904,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256221990,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558256230756,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558256230917,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256247688,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256248076,스마트명세서,com.show.greenbill,False,MOVE_TO_FOREGROUND,False
+1558256252555,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256266080,스마트명세서,com.show.greenbill,False,MOVE_TO_BACKGROUND,False
+1558256266306,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256269143,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256269359,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256272333,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256272664,KT 멤버십,com.olleh.android.oc2,False,MOVE_TO_FOREGROUND,False
+1558256274507,KT 멤버십,com.olleh.android.oc2,False,MOVE_TO_BACKGROUND,False
+1558256274535,KT 멤버십,com.olleh.android.oc2,False,MOVE_TO_FOREGROUND,False
+1558256281574,KT 멤버십,com.olleh.android.oc2,False,MOVE_TO_BACKGROUND,False
+1558256281663,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256283210,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256283248,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256284949,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256285147,스마트명세서,com.show.greenbill,False,MOVE_TO_FOREGROUND,False
+1558256296008,스마트명세서,com.show.greenbill,False,MOVE_TO_BACKGROUND,False
+1558256296122,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256297228,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256297263,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256301905,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256301925,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558256305654,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558256305678,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558256309964,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558256309994,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558256312431,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558256312451,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558256313323,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558256313432,코레일톡,com.korail.talk,False,MOVE_TO_FOREGROUND,False
+1558256319211,코레일톡,com.korail.talk,False,MOVE_TO_BACKGROUND,False
+1558256319258,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256320368,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256320402,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256321828,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256337677,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256339616,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256339848,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256356096,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256363787,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256363851,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256365567,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256365636,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256369947,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256371901,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256372260,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256378667,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256379117,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256380772,Briefing,flipboard.boxer.app,True,MOVE_TO_FOREGROUND,True
+1558256381910,Briefing,flipboard.boxer.app,True,MOVE_TO_BACKGROUND,True
+1558256431391,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558256434123,Briefing,flipboard.boxer.app,True,MOVE_TO_BACKGROUND,True
+1558256434144,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256434255,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558256475955,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558256476053,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558256477712,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558256477753,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256479276,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256497182,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256497904,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558256497907,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558256580673,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558256583814,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558256584468,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256586688,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256587970,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256591708,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558256591723,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558256593799,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558256595727,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558256595869,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256596997,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256598958,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558256600808,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256608321,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558256608918,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256628075,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256639118,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256640131,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558256640134,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558256969055,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558256973595,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558256973857,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256974528,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256975248,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558256976131,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558256981208,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558256981488,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558256998733,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558256998849,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257000777,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257000849,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558257007273,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558257007307,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558257009223,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558257009353,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558257016403,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558257016891,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257034984,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257035078,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257059995,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257060099,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257076600,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257076741,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257087425,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257087625,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257093830,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257093893,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257096732,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257096805,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257108679,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257109070,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257111117,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257111231,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257115237,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257115326,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257116444,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257116517,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257119891,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257120060,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257121411,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257121498,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257124578,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257124641,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257127598,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257127717,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257130603,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257130669,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257131769,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257131850,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257137036,안드로이드 시스템,android,True,USER_INTERACTION,False
+1558257137793,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257137937,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558257155723,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558257155877,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558257160229,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558257160283,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558257169973,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558257170228,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257171246,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257171335,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257180717,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257180777,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257183659,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257183709,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257188418,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257189398,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257189417,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558257258399,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257261008,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558257262031,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558257262033,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257277125,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257279908,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558257280904,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257286597,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257288340,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257288364,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558257292624,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257293951,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558257294206,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257295189,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257297909,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1558257318162,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558257325563,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1558257325870,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558257342034,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558257342195,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558257347441,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558257347702,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558257350460,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558257352303,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558257352804,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257356438,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257356826,CaptivePortalLogin,com.android.captiveportallogin,True,MOVE_TO_FOREGROUND,False
+1558257375387,CaptivePortalLogin,com.android.captiveportallogin,True,MOVE_TO_BACKGROUND,False
+1558257375869,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558257377250,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558257377375,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558257378499,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558257378508,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558257379722,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558257379781,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558257384910,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558257385067,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558257392924,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558257392972,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558257403653,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558257403786,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558257418829,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558257920106,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558257921185,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558257921191,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258210799,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258211938,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258212286,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258214383,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258215237,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558258219935,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258222837,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258223071,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558258229337,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558258229991,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258233970,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258234057,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558258234946,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558258236530,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558258237982,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258254420,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258254864,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258257714,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258257906,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558258280889,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558258281966,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558258296082,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558258297362,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558258309598,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558258348038,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558258349502,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558258350838,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558258353415,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558258355733,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558258356174,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558258357779,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558258358602,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258360419,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258361103,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258376638,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258377142,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258377144,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258390024,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258393133,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258393916,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258396412,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258397337,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558258404465,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258404483,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258405176,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258407668,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258410736,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258410747,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258745412,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258748193,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258748492,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258752059,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258752907,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558258756515,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258758639,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558258762991,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258763088,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258777284,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258777426,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558258780478,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558258780550,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258788522,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258788782,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558258799281,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558258799496,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258802753,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258803140,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258807360,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258807662,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258810483,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258810864,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258816076,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258816512,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258817219,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258817312,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258817620,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258817757,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258817935,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258818161,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258825414,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258825520,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258828553,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258828671,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258830553,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258830576,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258830941,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258830961,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258846844,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258847561,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258847569,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258937580,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558258939201,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558258939655,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258940765,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258941782,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558258942821,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258947293,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258947490,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558258949286,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558258949465,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_FOREGROUND,False
+1558258950298,카카오뱅크,com.kakaobank.channel,False,MOVE_TO_BACKGROUND,False
+1558258950802,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558258952246,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558258952575,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558258957529,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558258957592,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558259118183,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558259119212,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259119219,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259274084,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558259274106,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558259275711,전화,com.samsung.android.incallui,True,USER_INTERACTION,False
+1558259288308,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558259292804,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558259317957,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558259323129,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558259323756,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259323766,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259582510,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259584855,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259586331,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259586342,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259591748,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259593425,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259594050,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558259595044,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558259595752,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558259597283,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558259600299,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558259601726,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558259602541,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558259618251,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558259618434,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558259622650,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558259622751,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558259625601,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558259626194,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259626198,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259741850,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259743256,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259745702,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259745714,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259771170,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259780984,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259781402,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259781405,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259858692,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259860312,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259860407,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558259862867,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558259872867,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259873607,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558259873608,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261018183,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261022497,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261022868,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558261024947,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558261026478,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261026538,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261063244,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261064974,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261066873,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261066877,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261086511,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261089002,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261089382,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558261090790,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558261091415,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558261091602,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558261094024,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558261097978,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558261098651,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558261102181,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558261102323,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558261113998,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558261115873,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261115902,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261119940,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558261119994,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558261425017,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558261790143,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558261790330,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558261792351,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558261792934,소프트웨어 업데이트,com.wssyncmldm,True,USER_INTERACTION,False
+1558261792935,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558261793347,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558261796819,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558261797238,카메라,com.sec.android.app.camera,True,MOVE_TO_FOREGROUND,False
+1558261818693,카메라,com.sec.android.app.camera,True,MOVE_TO_BACKGROUND,False
+1558261819285,갤러리,com.sec.android.gallery3d,True,MOVE_TO_FOREGROUND,True
+1558261828786,갤러리,com.sec.android.gallery3d,True,MOVE_TO_BACKGROUND,True
+1558261829338,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558261832837,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558261832978,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558261897108,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558261897970,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558261897972,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558261900208,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558261900243,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558262694762,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558262697930,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558262698686,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558262701412,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558262701751,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558262708015,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558262709500,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558262713611,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558262716890,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558262718566,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262725105,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262725429,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262727098,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262727235,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262728855,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262729393,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558262732702,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558262736233,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558262737215,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558262737263,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558262737824,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558262737950,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558262738020,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558262738144,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558262743698,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558262743916,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558262745654,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558262745716,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262748914,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262749215,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262753022,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262753771,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558262753774,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558262756441,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558262756460,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558262776971,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558262778592,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558262778806,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558262779363,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558262779556,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558262780472,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558262780997,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262781902,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262782748,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558262783277,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262787581,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262787704,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262791166,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262791235,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558262793888,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558262794658,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558262794660,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558262797307,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558262797364,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558263133440,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558263135600,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558263136124,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558263138403,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558263138539,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558263139123,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263145420,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263149327,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263149338,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263163348,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263164990,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263165490,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558263171233,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558263171982,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558263174928,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263174944,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263177228,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263180890,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263181181,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558263195474,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558263196399,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263196818,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263196875,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558263201803,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558263201964,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558263212735,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558263212870,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263215556,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263215607,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263230301,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263230482,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263230533,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263231042,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263236884,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263236927,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263243165,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263243850,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263243853,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263249967,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263251191,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263251461,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263252332,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263252971,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558263254447,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263258667,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263259229,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263259233,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263268229,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263324409,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263324865,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263325537,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263330256,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263332951,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1558263334156,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263334286,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558263335651,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558263335734,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558263338577,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558263338598,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558263339256,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558263339267,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558263340059,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558263340154,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558263409754,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558263409851,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558263411781,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558263411823,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558263416448,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558263417078,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263417090,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263546398,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558263549127,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558263549650,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558263551512,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558263552792,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558263553130,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558263556215,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558263556655,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263560123,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263560174,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263567485,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263567562,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558263576516,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558263952721,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558263953290,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558263954257,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1558264049575,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1558264050159,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558264050265,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558264051911,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558264052030,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558264061133,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558264061262,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558265434810,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1558265435454,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558265435756,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558265436144,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558265453710,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558265453855,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558265458278,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558265458468,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558265466362,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558265466497,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558265467898,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558265468159,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558265468240,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_FOREGROUND,False
+1558265470504,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558265491037,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558266923007,JAM Live,tv.jamlive,False,USER_INTERACTION,False
+1558267208559,JAM Live,tv.jamlive,False,USER_INTERACTION,False
+1558268132654,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558268139113,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558268139114,날씨,com.sec.android.daemonapp,True,USER_INTERACTION,True
+1558268144770,TVING,net.cj.cjhv.gs.tving,False,MOVE_TO_BACKGROUND,False
+1558268144916,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558268146670,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558268146756,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558268160264,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558268160485,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558268163121,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558268163149,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558268176693,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558268176709,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558268195867,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558268195959,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558268199292,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558268199316,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1558268201078,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1558268201175,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558268202568,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558268202596,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558268203941,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558268204473,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558268204476,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558268991211,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558268994634,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558268995007,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558268997459,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558268999172,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558268999233,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558269003001,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558269003200,11번가,com.elevenst,False,MOVE_TO_FOREGROUND,False
+1558269004776,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1558269009245,11번가,com.elevenst,False,MOVE_TO_BACKGROUND,False
+1558269009536,11번가,com.elevenst,False,MOVE_TO_FOREGROUND,False
+1558269012395,11번가,com.elevenst,False,MOVE_TO_BACKGROUND,False
+1558269012477,11번가,com.elevenst,False,MOVE_TO_FOREGROUND,False
+1558269035056,11번가,com.elevenst,False,MOVE_TO_BACKGROUND,False
+1558269035654,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558269035657,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558269564858,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558269567592,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558269568133,11번가,com.elevenst,False,MOVE_TO_FOREGROUND,False
+1558269569514,11번가,com.elevenst,False,MOVE_TO_BACKGROUND,False
+1558269572566,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558269572586,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558269576842,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558269577859,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558269577984,11번가,com.elevenst,False,MOVE_TO_FOREGROUND,False
+1558269578354,11번가,com.elevenst,False,MOVE_TO_BACKGROUND,False
+1558269581320,11번가,com.elevenst,False,MOVE_TO_FOREGROUND,False
+1558269582679,11번가,com.elevenst,False,MOVE_TO_BACKGROUND,False
+1558269582877,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558269584358,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558269584679,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1558269597187,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1558269597569,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558269621800,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558269621902,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558269622860,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558269623297,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558269623300,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558270280080,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558270282752,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558270283176,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558270286801,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558270288133,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558270297569,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558270297584,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558270800044,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558270802523,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558270803276,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558270805674,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558270806432,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558270806937,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558270806999,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558271028876,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558271030538,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558271030938,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558271032526,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558271035367,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558271035383,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558271036237,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558271036965,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558271037133,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558271040350,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558271040648,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558271043239,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558271043303,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558271062181,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558271062758,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558271062761,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558271075877,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558271077962,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558271078402,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558271078948,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558271079484,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558271080267,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1558271081973,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1558271082318,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558271084397,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558271084513,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558271088469,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558271088779,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558271090803,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558271091287,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558271096927,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558271098172,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558271098187,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558272053775,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558272055172,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558272055490,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558272056447,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558272057788,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558272057924,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558272067769,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558272324504,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558272326035,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558272328257,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1558272329225,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558272329597,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272335240,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272335433,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272342949,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272343052,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272381381,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272381519,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272383649,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272383853,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558272385047,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558272385180,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272385498,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272385545,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558272388100,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558272388152,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272397382,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272397406,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1558272397613,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1558272397846,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1558272398057,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1558272398070,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1558272400039,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1558272400151,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558272403858,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558272403884,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558272406345,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558272406734,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272488589,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272488702,알파카,kr.oshare.alpaca,False,MOVE_TO_FOREGROUND,False
+1558272496876,알파카,kr.oshare.alpaca,False,MOVE_TO_BACKGROUND,False
+1558272496945,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272498380,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272498519,알파카,kr.oshare.alpaca,False,MOVE_TO_FOREGROUND,False
+1558272528833,알파카,kr.oshare.alpaca,False,MOVE_TO_BACKGROUND,False
+1558272528910,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558272530066,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558272530097,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272531483,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272531588,알파카,kr.oshare.alpaca,False,MOVE_TO_FOREGROUND,False
+1558272539203,알파카,kr.oshare.alpaca,False,MOVE_TO_BACKGROUND,False
+1558272539257,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272542894,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272543385,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558272543387,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558272558613,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558272560100,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558272560506,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272561417,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272561956,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558272562273,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272564618,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272564751,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272566698,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272566711,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272572145,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272572161,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272573615,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272573641,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272602891,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272602995,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272605436,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272605445,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558272606486,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558272606510,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272607537,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272607560,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272608296,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272608307,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272617659,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272617691,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272623298,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272623313,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272626397,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272626413,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272628767,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272628778,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272631534,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272631576,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272633431,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272633459,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1558272633911,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1558272634068,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558272636555,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558272719515,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558272722880,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558272722890,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558275598678,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558275601129,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558275603494,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558275603501,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558277594728,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558277596191,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558277596373,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558277597497,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558277598085,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558277598613,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558277601748,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558277602122,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558277603400,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558277603401,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558277605388,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558277605572,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558277605681,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558277605708,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558277640765,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558277640940,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558277658407,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558277658427,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558277659901,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558277660137,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558277667783,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558277668277,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558277668281,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558280200157,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558280210485,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558280210691,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558280211621,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558280212181,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558280214724,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558280216540,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558280218938,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558280219768,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558280219769,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558280320572,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558280322277,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558280322558,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558280323738,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558280324513,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558280327540,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558280327959,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558280327962,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558287343651,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558287347234,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558287347513,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558287348726,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558287349535,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558287351237,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558287359034,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558287359218,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558287361887,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558287361925,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558287372206,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558287372422,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558287374157,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558287374626,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558287374630,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558290329483,소프트웨어 업데이트,com.wssyncmldm,True,MOVE_TO_FOREGROUND,False
+1558290329500,소프트웨어 업데이트,com.wssyncmldm,True,MOVE_TO_BACKGROUND,False
+1558290593577,날씨,com.sec.android.daemonapp,True,USER_INTERACTION,True
+1558290598258,소프트웨어 업데이트,com.wssyncmldm,True,MOVE_TO_FOREGROUND,False
+1558290600642,소프트웨어 업데이트,com.wssyncmldm,True,MOVE_TO_BACKGROUND,False
+1558290600746,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558290606341,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558290606666,Puffin,com.cloudmosa.puffin,False,MOVE_TO_FOREGROUND,False
+1558290613939,Puffin,com.cloudmosa.puffin,False,MOVE_TO_BACKGROUND,False
+1558290614119,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558290615389,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558290615422,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558290616948,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558290617106,Puffin,com.cloudmosa.puffin,False,MOVE_TO_FOREGROUND,False
+1558290783558,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558291232980,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558291263526,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558291599785,Puffin,com.cloudmosa.puffin,False,MOVE_TO_BACKGROUND,False
+1558291599878,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558291601769,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558291601897,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558291601963,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558291602470,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558291603180,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558291603181,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297067582,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558297080298,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297080732,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558297082201,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558297083134,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558297083692,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558297083695,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297085004,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558297087221,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297087390,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558297088225,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558297089061,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558297092304,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558297092366,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558297344890,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558297345014,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558297345097,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297345422,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558297345674,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297346658,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558297349436,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558297358440,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558297358714,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558297359298,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558297359827,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558297484141,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558297484412,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558297489541,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558297489816,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558297491293,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558297491408,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558297503674,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558297503896,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558297504964,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558297505173,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558297508493,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558297508515,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558298311065,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558298311979,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558298311984,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558298335540,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558298337336,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558298337780,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558298338613,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558298339258,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558299120497,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558299120624,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558299122277,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558299122413,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558300267631,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558300564104,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558300603577,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558301056013,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558301112248,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558301552146,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558301584851,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558302226342,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558302226917,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1558302228644,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302228685,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302302490,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558302302507,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558302304007,시계,com.sec.android.app.clockpackage,True,USER_INTERACTION,True
+1558302304556,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558302305092,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558302307678,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558302307833,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302309212,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302310045,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302310046,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302639818,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302640969,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302641145,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558302642881,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558302643442,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558302645888,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558302647108,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558302648323,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302648324,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302722411,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302725371,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302725500,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558302726889,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558302727672,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558302727925,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558302730831,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558302731000,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558302732512,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558302732706,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558302732781,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558302732800,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558302796215,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558302796462,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558302798958,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558302799249,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558302801846,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558302801890,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558302808422,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558302811829,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558302812569,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558302812572,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558302814013,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558302814017,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303151355,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303153304,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303153454,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303154022,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303154104,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303156326,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303157589,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303161524,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303162060,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558303163580,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558303164366,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303165633,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558303167142,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558303167178,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303168141,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303168161,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303168210,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303168316,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303172671,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303172890,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303177122,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303177799,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303177804,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303179379,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303179401,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303363747,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303365250,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303365393,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303365982,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303366033,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303369059,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303369537,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303370627,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303371628,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303372101,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303375490,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303375974,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303381161,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303381385,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558303385815,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558303386033,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558303389388,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558303395955,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558303396008,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303396482,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303396529,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303396589,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303396619,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303399382,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303404030,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303404240,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558303423687,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303427236,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558303427402,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_FOREGROUND,False
+1558303431425,지니 뮤직,com.ktmusic.geniemusic,False,MOVE_TO_BACKGROUND,False
+1558303431646,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558303437051,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303442657,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558303442793,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558303446697,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303464154,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558303464894,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303464897,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303487013,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303489081,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303489266,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558303489652,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558303490417,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303492103,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558303504114,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558303504618,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303504625,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303519455,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558303523466,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558303523769,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558303524393,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558303525028,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558303525871,AccuBattery,com.digibites.accubattery,False,MOVE_TO_FOREGROUND,False
+1558303527295,AccuBattery,com.digibites.accubattery,False,MOVE_TO_BACKGROUND,False
+1558303527441,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558303530131,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558303530306,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558303537791,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558303537881,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303538758,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303538771,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303538800,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303538873,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303543902,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303543931,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303550981,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303551036,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303552619,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303552633,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303560275,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303560385,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303561634,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303561667,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303562900,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303562918,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558303566575,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558303566701,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558303569636,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558303569806,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303571254,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303571500,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303571752,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303571784,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303586579,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303586647,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303589104,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303589167,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303613701,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303613755,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303618469,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303618523,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303619160,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303619183,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303627937,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303627983,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303628677,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303628708,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303635118,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303635190,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303649850,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303649917,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303657444,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303657455,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303680816,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303680843,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303682416,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303682627,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303740530,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303740581,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303783559,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303783593,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303806795,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303806814,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303836121,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303836302,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303934658,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303934761,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558303936889,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558303936928,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558304033978,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558304034665,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304034670,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304123067,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304124966,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304126463,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304126467,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304195596,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304197543,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304198065,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304198066,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304375325,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304416872,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304417392,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304417394,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304417487,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304418871,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304419155,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558304419967,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558304425746,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558304434651,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558304434728,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558304457974,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558304458774,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304458777,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304490418,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304491680,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304492628,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304492634,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304532602,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304533642,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558304533775,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558304536042,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558304536632,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558304541059,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558304541062,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558306531958,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558306535944,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558306536447,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558306536450,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558306802446,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558306802450,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558306803926,시계,com.sec.android.app.clockpackage,True,USER_INTERACTION,True
+1558306804851,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1558306807040,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1558306807278,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558306808565,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558306808947,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558306808949,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558307719399,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558307728202,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558307728595,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558307728608,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558307736016,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558307736975,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558307737108,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558307738300,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558307738818,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558307739266,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558307746778,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558307747008,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1558307748169,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1558307748198,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1558307749367,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1558307749443,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1558307755661,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1558307755737,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1558307772303,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1558307772915,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558307772919,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308099456,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308100967,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308102774,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308102777,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308103054,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308104494,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308105302,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308105304,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308129975,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308131190,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308131803,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1558308132581,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1558308137393,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1558308138498,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1558308139353,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308139356,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308150996,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308155828,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308156252,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308156254,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308190556,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308193440,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308193787,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308193789,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308969376,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558308970704,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558308970911,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558308972100,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558308972613,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558308975935,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558308978075,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558308978332,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558308982829,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558308983350,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558308983565,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558308983601,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558308996021,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558308996193,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558308998779,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558308998804,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1558309026222,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1558309027026,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309027033,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309092087,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309094738,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309095335,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309095336,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309145413,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309147108,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309147501,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309147504,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309354831,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309468669,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309468825,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558309470635,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558309473517,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558309475133,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558309475331,카메라,com.sec.android.app.camera,True,MOVE_TO_FOREGROUND,False
+1558309498989,카메라,com.sec.android.app.camera,True,MOVE_TO_BACKGROUND,False
+1558309499785,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309499787,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309537413,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309539615,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309540099,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309540101,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309604774,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309606185,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309606720,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309606722,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309704808,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309758584,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309759026,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309759028,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309759234,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558309760457,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558309760647,카메라,com.sec.android.app.camera,True,MOVE_TO_FOREGROUND,False
+1558309763214,카메라,com.sec.android.app.camera,True,MOVE_TO_BACKGROUND,False
+1558309767010,카메라,com.sec.android.app.camera,True,MOVE_TO_FOREGROUND,False
+1558309770225,카메라,com.sec.android.app.camera,True,MOVE_TO_BACKGROUND,False
+1558309770874,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1558309772601,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1558309772636,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558309773454,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558309773466,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558309773493,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558309773541,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558309777890,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558309777984,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1558309781442,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1558309781628,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309798457,카카오뱅크,com.kakaobank.channel,False,USER_INTERACTION,False
+1558309799743,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309800207,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1558309807922,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1558309808096,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309812846,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309813228,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309815955,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309816133,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309825062,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309825238,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309826259,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309826309,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309840873,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309840969,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309853225,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309853289,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309867829,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309867923,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309873194,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309873310,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309874650,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309874671,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309878799,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309878946,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309893003,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309893040,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309895973,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309896007,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309913962,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309913986,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309936206,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309936265,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309939000,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309939028,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309941815,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309941843,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309943100,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309943142,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309947095,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309947139,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309950390,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309950412,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309951044,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558309963173,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558309970340,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309970432,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558309971276,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1558309973277,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1558309975390,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558309975552,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558309975794,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558309975922,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558309975990,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558309976133,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310001316,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310001389,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310001619,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310001850,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310007791,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310007841,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310013922,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310013992,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310015163,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310015304,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310020201,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1558310021643,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310021880,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310021963,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310022064,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310022110,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310022162,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310082728,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310082840,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310082953,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310083130,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1558310086273,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1558310086513,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310088274,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1558310114708,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310114792,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310117606,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310117831,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310134184,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310134215,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310136290,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310136405,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310141756,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310142425,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310142428,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310182489,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310185171,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310185482,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310185927,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310187584,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1558310215030,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1558310215681,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310215685,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310231944,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310233733,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310234293,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310234295,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310298866,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310303535,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310303973,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310303976,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310389401,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False
+1558310390852,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310391834,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_BACKGROUND,False
+1558310391836,오락_OK캐쉬백,com.skplanet.ocb.locker,False,MOVE_TO_FOREGROUND,False

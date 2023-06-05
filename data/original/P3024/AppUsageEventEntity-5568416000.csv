@@ -1,0 +1,2420 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1556844754268,메시지,com.android.mms,True,USER_INTERACTION,False
+1556845921225,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556845992550,메시지,com.android.mms,True,USER_INTERACTION,False
+1556846103276,시계,com.android.deskclock,True,MOVE_TO_FOREGROUND,True
+1556846103277,시계,com.android.deskclock,True,MOVE_TO_BACKGROUND,True
+1556846103634,시계,com.android.deskclock,True,MOVE_TO_FOREGROUND,True
+1556846114727,시계,com.android.deskclock,True,MOVE_TO_BACKGROUND,True
+1556846114826,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846114835,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846115429,시계,com.android.deskclock,True,USER_INTERACTION,True
+1556846126585,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846126733,Android 시스템,android,True,NONE,False
+1556846127994,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846128017,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556846128556,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556846128598,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556846128623,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556846128649,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556846129344,시계,com.android.deskclock,True,USER_INTERACTION,True
+1556846133560,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1556846140380,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556846140410,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846141154,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846141210,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556846142781,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556846142859,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1556846142996,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1556846143027,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556846143447,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556846143522,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556846200029,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556846200056,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846219145,InCallUI,com.android.incallui,True,USER_INTERACTION,False
+1556846221424,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846221491,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556846229644,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556846229671,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846254362,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846254401,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556846255955,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556846255991,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556846258257,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556846258298,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556846261897,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556846261921,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846263398,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846263684,Android 시스템,android,True,NONE,False
+1556846277107,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846277180,Android 시스템,android,True,NONE,False
+1556846279384,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846279406,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556846281179,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556846281310,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846283402,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846283670,Android 시스템,android,True,NONE,False
+1556846994279,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556846994466,Android 시스템,android,True,NONE,False
+1556846995638,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556846998229,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556846998300,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556846999855,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556846999886,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556847001610,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556847001636,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556847004211,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556847004263,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556847005738,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556847005868,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556847006272,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556847006441,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556847006706,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556847006723,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556847014239,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556847014329,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556847016351,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556847016397,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556847020470,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556847020501,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556847023180,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556847023209,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556847024436,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556847024479,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556847048634,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556847048687,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556847051360,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556847051410,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556847052490,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1556847054578,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556847054606,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556847058549,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556847058581,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556847069328,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556847069348,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556847070703,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556847070772,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556847072173,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556847072591,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556847073138,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556847073172,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556847149262,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556847149594,Android 시스템,android,True,NONE,False
+1556848605430,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556848606783,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556848606803,Android 시스템,android,True,NONE,False
+1556848610419,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556848610770,Android 시스템,android,True,NONE,False
+1556848668769,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556848668800,Android 시스템,android,True,NONE,False
+1556848670410,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556848672078,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556848672111,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556848673698,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556848673735,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556848675943,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556848675991,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556848701451,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556848701473,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556848702290,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556848702330,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556848725229,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556848725536,Android 시스템,android,True,NONE,False
+1556848737456,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556848737484,Android 시스템,android,True,NONE,False
+1556848742319,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556848742627,Android 시스템,android,True,NONE,False
+1556848746833,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556848757664,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556848757690,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556848757718,Android 시스템,android,True,NONE,False
+1556848794844,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556848794913,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556848796288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556848796631,Android 시스템,android,True,NONE,False
+1556849898175,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850176244,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850176260,Android 시스템,android,True,NONE,False
+1556850177279,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850177325,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850190571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850190642,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850192396,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850192793,Android 시스템,android,True,NONE,False
+1556850204985,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850210552,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850210570,Android 시스템,android,True,NONE,False
+1556850212433,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850212476,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850258419,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850258720,Android 시스템,android,True,NONE,False
+1556850258760,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850258914,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850259526,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850261758,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850261815,Android 시스템,android,True,NONE,False
+1556850297050,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850297085,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556850301778,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556850302063,Android 시스템,android,True,NONE,False
+1556850305195,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850312289,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556850312377,Android 시스템,android,True,NONE,False
+1556850313241,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556850313297,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850327569,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850327836,Android 시스템,android,True,NONE,False
+1556850338811,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850390306,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850390324,Android 시스템,android,True,NONE,False
+1556850401446,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850401704,Android 시스템,android,True,NONE,False
+1556850464510,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850464553,Android 시스템,android,True,NONE,False
+1556850466681,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850466998,Android 시스템,android,True,NONE,False
+1556850508089,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850515327,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850515346,Android 시스템,android,True,NONE,False
+1556850520009,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850520387,Android 시스템,android,True,NONE,False
+1556850522486,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850523639,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850523659,Android 시스템,android,True,NONE,False
+1556850593074,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850593400,Android 시스템,android,True,NONE,False
+1556850608258,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850613560,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850613578,Android 시스템,android,True,NONE,False
+1556850619828,메시지,com.android.mms,True,USER_INTERACTION,False
+1556850631911,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850632247,Android 시스템,android,True,NONE,False
+1556850637366,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850665429,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850665446,Android 시스템,android,True,NONE,False
+1556850742830,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850742886,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850745091,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850745422,Android 시스템,android,True,NONE,False
+1556850766458,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556850889018,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850889056,Android 시스템,android,True,NONE,False
+1556850890332,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850890385,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850895022,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850895313,Android 시스템,android,True,NONE,False
+1556850928617,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850928658,Android 시스템,android,True,NONE,False
+1556850929625,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556850930126,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556850936984,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850937051,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556850937908,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556850937935,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556850938689,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556850938759,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851025735,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851026070,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556851029521,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556851029595,0한동,com.sktelecom.ytpoc,False,MOVE_TO_FOREGROUND,False
+1556851050855,0한동,com.sktelecom.ytpoc,False,MOVE_TO_BACKGROUND,False
+1556851050908,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851050966,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851051023,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851208300,메시지,com.android.mms,True,USER_INTERACTION,False
+1556851221337,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851221491,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556851222945,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556851223048,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556851225874,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556851225921,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556851232404,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556851232510,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851232563,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851232685,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851237267,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851237586,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851238293,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851238732,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851238759,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851238805,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851244101,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851244213,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851244275,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851244349,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851246086,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851246114,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556851247421,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556851247468,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851249050,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851249387,Android 시스템,android,True,NONE,False
+1556851924273,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556851924400,Android 시스템,android,True,NONE,False
+1556851925350,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556851927438,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556851927502,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556851929113,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556851929168,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851931790,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851931868,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851952854,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851952895,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556851953683,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556851953719,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556851963066,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556851963094,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556851965881,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556851966262,Android 시스템,android,True,NONE,False
+1556852693362,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556852693537,Android 시스템,android,True,NONE,False
+1556852695175,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556852706451,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556852706542,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556852721960,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556852732064,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556852732166,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556852734021,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556852734066,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556852734897,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556852734916,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556852746528,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556852746573,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556852748496,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556852748536,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556852751064,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556852751104,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556852752475,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556852752533,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556852754323,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556852754347,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556852755872,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556852755917,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556853027056,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556853027700,Android 시스템,android,True,NONE,False
+1556853968990,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556853969008,Android 시스템,android,True,NONE,False
+1556853969903,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556853974743,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556853975139,Android 시스템,android,True,NONE,False
+1556854127058,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556854127087,Android 시스템,android,True,NONE,False
+1556854127783,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556854127824,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556854130922,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556854131184,Android 시스템,android,True,NONE,False
+1556855035750,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556855221566,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556855231303,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556855231386,Android 시스템,android,True,NONE,False
+1556855235891,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556855235926,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556855237985,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556855238015,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556855250560,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556855250612,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556855251770,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556855251803,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556855252937,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556855252984,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556855253933,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556855253977,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556855256560,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556855256597,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556855260427,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556855260485,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556855264704,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556855264773,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556855265453,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556855265474,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556855266863,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556855267115,Android 시스템,android,True,NONE,False
+1556856593259,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556856593367,Android 시스템,android,True,NONE,False
+1556856595628,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556856595940,Android 시스템,android,True,NONE,False
+1556857680553,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556857688488,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556857688643,Android 시스템,android,True,NONE,False
+1556857696524,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556857696559,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556857698626,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556857698661,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556857726993,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556857727039,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556857730408,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556857730489,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556857731339,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556857731437,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556857732437,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556857732746,Android 시스템,android,True,NONE,False
+1556858139624,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556858139696,Android 시스템,android,True,NONE,False
+1556858142366,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556858142403,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858144124,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858144170,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858155561,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858155615,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858156806,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858156852,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858159749,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556858171195,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858171237,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858172418,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858172449,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858182631,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858182683,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858184049,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858184080,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858191092,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858191168,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858192957,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858192999,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858196831,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858196871,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858199986,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858200015,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858203057,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858203127,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858204941,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858204985,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858284348,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858284724,Android 시스템,android,True,NONE,False
+1556858285618,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556858289429,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858289454,Android 시스템,android,True,NONE,False
+1556858291753,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858292074,Android 시스템,android,True,NONE,False
+1556858294204,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556858327791,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858327808,Android 시스템,android,True,NONE,False
+1556858338387,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858338748,Android 시스템,android,True,NONE,False
+1556858345242,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556858357922,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556858368571,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556858369415,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858369436,Android 시스템,android,True,NONE,False
+1556858389162,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858389239,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858399110,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858399140,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858400493,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858400531,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858401540,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858401587,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858406020,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858406054,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858409772,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858409813,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858411528,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858411559,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858414728,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858415092,Android 시스템,android,True,NONE,False
+1556858615105,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858615134,Android 시스템,android,True,NONE,False
+1556858616233,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858616264,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858618713,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858618766,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858619744,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858619813,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858619879,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858619906,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556858620908,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556858621238,Android 시스템,android,True,NONE,False
+1556858906048,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556858906129,Android 시스템,android,True,NONE,False
+1556858907193,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556858907221,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858907438,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858907477,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858907504,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858907535,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858909132,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858909169,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858910132,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858910179,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858911235,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858911532,Android 시스템,android,True,NONE,False
+1556858990304,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556858990334,Android 시스템,android,True,NONE,False
+1556858992074,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556858992101,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556858992875,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556858992939,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556859234339,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859240751,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859243471,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556859243733,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556859245056,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556859245092,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859246832,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859246863,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859268943,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859269003,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859269986,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859270014,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556859271252,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556859271287,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556859272937,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556859273179,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556859275208,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556859275235,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556859294408,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859301058,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859475875,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556859475935,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556859477435,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556859477717,Android 시스템,android,True,NONE,False
+1556859486251,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859488380,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556859488443,Android 시스템,android,True,NONE,False
+1556859489478,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556859489520,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859493976,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859494110,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556859496428,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556859496695,Android 시스템,android,True,NONE,False
+1556859501848,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859504945,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556859505022,Android 시스템,android,True,NONE,False
+1556859505448,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859505983,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556859506010,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859506230,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859506267,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859506296,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859506324,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859509459,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859509804,Android 시스템,android,True,NONE,False
+1556859522973,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859528085,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859528104,Android 시스템,android,True,NONE,False
+1556859528470,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859528916,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859528961,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859536249,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859536308,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859537962,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859537994,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859546139,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859546189,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556859550951,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556859551293,Android 시스템,android,True,NONE,False
+1556859552107,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859564823,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859587365,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859597759,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556859609660,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556860007830,메시지,com.android.mms,True,USER_INTERACTION,False
+1556860011531,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860011574,Android 시스템,android,True,NONE,False
+1556860017922,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556860038696,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860038760,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556860059434,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556860059450,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860060033,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860060075,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860061257,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556860063186,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860063234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860067158,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860067196,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860067514,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556860068347,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860068432,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556860070430,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556860070579,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556860070926,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556860071022,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556860110629,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556860110738,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860111404,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860111455,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860112676,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860112744,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860113792,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860113870,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860118005,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860118045,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860173432,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860173489,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860202624,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860202659,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860203332,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860203364,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556860205481,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556860205596,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860206753,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556860207686,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860207707,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556860293112,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556860293156,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556860296985,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556860297069,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860298280,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860298323,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860299891,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860299941,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860310017,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860310089,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860311855,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860311904,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860342141,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860342202,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860344043,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860344089,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860350424,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860350489,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860352440,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860352486,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860366309,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860366372,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860370001,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556860376995,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860377042,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860381207,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556860389073,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860389122,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860390083,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556860391111,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860391156,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860401009,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860401041,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860402056,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860402096,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860403940,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860403957,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556860406312,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556860406362,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556860420178,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556860420257,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556860421463,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556860421504,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556860499943,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556860499984,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556860501477,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556860501517,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860503264,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860503306,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860505876,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860506200,Android 시스템,android,True,NONE,False
+1556860755167,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860755187,Android 시스템,android,True,NONE,False
+1556860757368,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860757664,Android 시스템,android,True,NONE,False
+1556860944407,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860944423,Android 시스템,android,True,NONE,False
+1556860946827,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860946875,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860948168,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860948240,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556860949384,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556860949779,Android 시스템,android,True,NONE,False
+1556860962526,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556862780443,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556862828688,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862828719,Android 시스템,android,True,NONE,False
+1556862830396,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862830442,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862833802,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862833857,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862835670,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862835705,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862843070,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862843117,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862844302,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862844337,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862851575,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862851637,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862852844,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862852887,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556862864679,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556862864722,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556862866870,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556862867136,Android 시스템,android,True,NONE,False
+1556863379709,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556863379799,Android 시스템,android,True,NONE,False
+1556863380890,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556863380936,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556863383377,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556863383417,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556863385720,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556863385760,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556863388432,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556863388491,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556863389770,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556863389797,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556863390967,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556863391307,Android 시스템,android,True,NONE,False
+1556864206350,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556864206454,Android 시스템,android,True,NONE,False
+1556864209629,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556864209751,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556864210313,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556864210451,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556864210683,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556864210700,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556864218695,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556864218783,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556864220324,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556864220372,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556864225947,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556864226022,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556864226857,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556864226953,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556864229542,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556864229566,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556864230700,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556864230726,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556864232258,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556864232293,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556864234744,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556864234867,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556864236169,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556864236211,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556864238210,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556864238250,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556864239392,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556864239461,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556864241162,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556864241499,Android 시스템,android,True,NONE,False
+1556868690850,메시지,com.android.mms,True,USER_INTERACTION,False
+1556868690877,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868691017,Android 시스템,android,True,NONE,False
+1556868691907,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556868696218,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868696253,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556868699613,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556868699700,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556868702009,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556868702057,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556868703272,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556868703299,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556868706887,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556868706909,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556868713026,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556868713067,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556868724085,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556868724129,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556868727858,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556868727908,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556868738130,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556868746246,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556868746593,Android 시스템,android,True,NONE,False
+1556868748817,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556868784756,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556868797306,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556868797330,Android 시스템,android,True,NONE,False
+1556868798182,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556868798224,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556868800437,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556868800485,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868801751,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868801786,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868818744,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868818849,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868819921,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868819958,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868820993,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868821069,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868821909,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868821950,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868843893,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868843947,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868845790,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868845824,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868851380,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868851428,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868852415,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868852455,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868862194,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868862259,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868863849,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868863893,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868885480,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556868887681,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868887740,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868890639,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868890674,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868892239,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868892294,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868894078,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868894110,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868895467,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868895539,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868896628,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868896652,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868901696,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868901738,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868902434,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868902472,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556868903156,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556868903235,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556868905104,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556868905197,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556868905785,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556868905819,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556868911166,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556868911195,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556868911746,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556868911804,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556868966086,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556868966457,Android 시스템,android,True,NONE,False
+1556868974341,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556868984878,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556868985393,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869013880,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556869013903,Android 시스템,android,True,NONE,False
+1556869091441,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556869091529,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556869092137,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556869092179,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869094065,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869094092,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869108541,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869108817,Android 시스템,android,True,NONE,False
+1556869121789,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869144279,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869145173,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869145192,Android 시스템,android,True,NONE,False
+1556869167304,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869167356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869169002,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869169043,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869171535,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869171589,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869172495,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869172861,Android 시스템,android,True,NONE,False
+1556869503396,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869503430,Android 시스템,android,True,NONE,False
+1556869504713,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869504739,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556869510225,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556869510266,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869514531,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869514596,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869517082,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869517129,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869523062,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869523106,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869524314,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869524352,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869525856,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869526202,Android 시스템,android,True,NONE,False
+1556869527317,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556869527319,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870349854,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870351525,Android 시스템,android,True,NONE,False
+1556870351631,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870351709,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870353862,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870353894,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870355168,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870355205,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870356873,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870356926,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870357858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870357875,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870359021,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870359281,Android 시스템,android,True,NONE,False
+1556870359801,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870359802,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870477865,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870544251,Android 시스템,android,True,NONE,False
+1556870544331,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870544413,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870545198,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870545240,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870546334,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870546373,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870571578,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870571863,Android 시스템,android,True,NONE,False
+1556870572287,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870572289,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556871159503,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556871718937,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556871719113,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871719119,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871719770,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556871720136,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871720544,Android 시스템,android,True,NONE,False
+1556871760387,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871760481,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871761430,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871761457,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871762270,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871762382,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556871843064,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556871963377,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556871963491,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556871964706,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556871964731,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556871967228,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556871967257,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556871968175,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556871968220,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871970288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871970329,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871974345,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871974381,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871978320,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871978356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871980809,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871980856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871991064,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871991144,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871992854,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871992928,갤러리,com.miui.gallery,True,MOVE_TO_FOREGROUND,False
+1556871995280,갤러리,com.miui.gallery,True,MOVE_TO_BACKGROUND,False
+1556871995311,갤러리,com.miui.gallery,True,MOVE_TO_FOREGROUND,False
+1556871997953,갤러리,com.miui.gallery,True,MOVE_TO_BACKGROUND,False
+1556871997967,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871998674,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871998724,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872001818,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872001844,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872022801,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872022867,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556872024066,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556872024092,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872125449,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872125504,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_FOREGROUND,False
+1556872126239,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_BACKGROUND,False
+1556872126284,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_FOREGROUND,False
+1556872167128,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_BACKGROUND,False
+1556872167154,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872169284,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872169326,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872200277,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872200319,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872200895,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872202301,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872202344,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872222510,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872222574,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872223456,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872223484,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872224376,Android 시스템,android,True,NONE,False
+1556872224409,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872225178,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872225179,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872225256,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872225592,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872227286,Android 시스템,android,True,NONE,False
+1556872227322,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872227418,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872228250,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872228282,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872230617,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872230646,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872231394,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872231510,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556872251870,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556872252021,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872252918,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872253215,Android 시스템,android,True,NONE,False
+1556872253904,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872253918,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872253985,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872284371,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872284478,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872284491,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872285055,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872285632,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872285746,Android 시스템,android,True,NONE,False
+1556872286407,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872286464,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872287390,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872287437,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872296391,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872296438,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872306720,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872306757,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872318995,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872319069,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872320853,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872321293,Android 시스템,android,True,NONE,False
+1556872321801,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872321802,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872336469,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872462122,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872462746,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872462747,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872652924,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872953244,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872953893,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872953895,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873018907,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873038549,Android 시스템,android,True,NONE,False
+1556873038660,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873038756,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873039696,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873039738,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873042052,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873042134,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873047841,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873047903,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873048755,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873048786,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873059571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873059601,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873060528,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873060804,Android 시스템,android,True,NONE,False
+1556873061392,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873061394,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873572312,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873577194,Android 시스템,android,True,NONE,False
+1556873577306,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873577457,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873578262,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873578304,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873583840,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873594337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873594416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873596227,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873596275,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873597702,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873597742,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873598337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873598442,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873600009,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873600588,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873601680,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873601708,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873601890,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873601928,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873601954,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873601987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873603199,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873603239,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873616140,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873616196,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873617237,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873617274,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873632877,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873632908,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873634470,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873634530,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873634853,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873634879,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873635916,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873635983,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873648858,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873648887,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873649695,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873650027,Android 시스템,android,True,NONE,False
+1556873650418,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873650420,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556874983222,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556874987604,Android 시스템,android,True,NONE,False
+1556874987703,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556874987781,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556874989643,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556874989691,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556874993550,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556874993624,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556874995031,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556874995057,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556874995721,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556874995780,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556875098944,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556875099263,Android 시스템,android,True,NONE,False
+1556875120229,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556875120261,Android 시스템,android,True,NONE,False
+1556875121704,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556875121753,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556875124909,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556875125185,Android 시스템,android,True,NONE,False
+1556875125678,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875125680,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875302385,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875606432,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875607086,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875607090,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875862421,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876155982,InCallUI,com.android.incallui,True,USER_INTERACTION,False
+1556876219015,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876219372,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876219409,Android 시스템,android,True,NONE,False
+1556876219619,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876219697,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876219953,통화 관리,com.android.server.telecom,True,USER_INTERACTION,False
+1556876222796,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876222856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556876224224,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556876224256,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876224991,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876225055,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876227048,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876227114,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1556876227218,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1556876227254,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876227387,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876227576,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876312660,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876313057,Android 시스템,android,True,NONE,False
+1556876338068,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876346152,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876346776,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876349004,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876427120,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876499264,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876520089,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876522081,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876522178,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876522190,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876525907,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876525909,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876802842,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876802953,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876803158,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876803170,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876803726,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876803943,Android 시스템,android,True,NONE,False
+1556876805247,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556876806832,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876806859,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876811640,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876811771,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556876812173,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556876812329,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556876812526,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556876812539,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556876817751,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556876817844,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876819506,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876819558,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876824150,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876824202,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876825076,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876825097,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876826148,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876826178,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876828720,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876828753,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876841591,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876841646,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876843410,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876843474,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876844932,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876844967,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876857371,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876857414,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556876876030,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556876876072,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556876887409,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556876887439,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876890184,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876890474,Android 시스템,android,True,NONE,False
+1556876953192,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556877561993,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556877587161,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556877601760,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877601946,Android 시스템,android,True,NONE,False
+1556877602989,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1556877606331,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877606374,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877606453,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877606471,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877619288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877619335,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877631517,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877631566,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877634231,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877634290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877635826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877635857,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877639517,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877639565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877640551,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877640578,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877641678,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877641971,Android 시스템,android,True,NONE,False
+1556878421663,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878421790,Android 시스템,android,True,NONE,False
+1556878422648,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878422694,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878424759,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556878428332,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878428367,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878430253,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878430348,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878432448,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878432752,Android 시스템,android,True,NONE,False
+1556878478845,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878478921,Android 시스템,android,True,NONE,False
+1556878480736,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878480933,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878482474,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878482504,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878483234,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878485450,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878501153,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878501201,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878501822,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878501850,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878510594,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878510663,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878511758,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878511797,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878513141,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878513173,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878517004,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878517037,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878520773,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878520819,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878527609,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878527635,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878539600,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878539653,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878549409,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878549493,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878550331,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878550356,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878558667,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878561785,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878561834,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878564050,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878564088,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878580623,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878580675,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878581306,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878581427,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878582843,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878583202,Android 시스템,android,True,NONE,False
+1556878614068,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878614147,Android 시스템,android,True,NONE,False
+1556878616235,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878616268,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878622304,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878622346,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878623840,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878623876,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878624087,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878624137,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878624162,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878624190,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878627080,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878627123,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878628921,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878628963,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878706174,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878706733,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878707296,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878708625,Android 시스템,android,True,NONE,False
+1556878788003,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878788108,Android 시스템,android,True,NONE,False
+1556878789060,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556878791099,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878791186,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878796331,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878796384,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878797661,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878797704,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878802307,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878802388,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878803540,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878803842,Android 시스템,android,True,NONE,False
+1556878841164,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878841244,Android 시스템,android,True,NONE,False
+1556878842036,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878842073,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878843084,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878843119,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878864571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878864631,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878867216,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878867239,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878867863,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878867901,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878877502,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878877843,Android 시스템,android,True,NONE,False
+1556878882175,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878882199,Android 시스템,android,True,NONE,False
+1556878883319,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878883356,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878884271,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878884309,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878887606,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878887664,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878890108,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878890135,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878890943,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878890987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878897790,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878897845,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878898556,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878898577,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878900032,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878900065,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878902830,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878902891,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878905319,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878905602,Android 시스템,android,True,NONE,False
+1556879211261,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879240731,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879241249,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879383484,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879383616,Android 시스템,android,True,NONE,False
+1556879385590,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879386713,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879386800,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556879387496,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556879387653,보안,com.miui.securitycenter,True,MOVE_TO_FOREGROUND,False
+1556879390105,보안,com.miui.securitycenter,True,MOVE_TO_BACKGROUND,False
+1556879390124,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556879390228,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556879390255,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879391250,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879391290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879393483,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879393518,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879403088,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879403148,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879403884,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879403911,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879404736,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879404770,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879405858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879405899,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879410280,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879410331,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879412531,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879412555,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879413325,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879413614,Android 시스템,android,True,NONE,False
+1556879528046,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879680614,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879680729,Android 시스템,android,True,NONE,False
+1556879681897,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879683197,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879683234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879683280,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879683344,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879683370,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879683395,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879686952,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879686990,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879687919,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556879689283,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879689351,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556879760036,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556879768263,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556879786137,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879791441,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556879791804,Android 시스템,android,True,NONE,False
+1556879822266,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556879822548,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556879822815,Android 시스템,android,True,NONE,False
+1556879824578,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879825301,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556879825486,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556879834401,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556879834443,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556879837716,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556879837747,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879840383,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879840663,Android 시스템,android,True,NONE,False
+1556869091441,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556869091529,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556869092137,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556869092179,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869094065,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869094092,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869108541,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869108817,Android 시스템,android,True,NONE,False
+1556869121789,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869144279,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869145173,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869145192,Android 시스템,android,True,NONE,False
+1556869167304,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869167356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869169002,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869169043,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869171535,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869171589,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869172495,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869172861,Android 시스템,android,True,NONE,False
+1556869503396,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869503430,Android 시스템,android,True,NONE,False
+1556869504713,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869504739,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556869510225,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556869510266,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869514531,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869514596,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869517082,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869517129,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869523062,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869523106,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869524314,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869524352,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869525856,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869526202,Android 시스템,android,True,NONE,False
+1556869527317,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556869527319,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870349854,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870351525,Android 시스템,android,True,NONE,False
+1556870351631,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870351709,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870353862,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870353894,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870355168,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870355205,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870356873,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870356926,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870357858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870357875,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870359021,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870359281,Android 시스템,android,True,NONE,False
+1556870359801,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870359802,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870477865,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870544251,Android 시스템,android,True,NONE,False
+1556870544331,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870544413,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870545198,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870545240,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870546334,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870546373,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870571578,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870571863,Android 시스템,android,True,NONE,False
+1556870572287,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870572289,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556871159503,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556871718937,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556871719113,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871719119,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871719770,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556871720136,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871720544,Android 시스템,android,True,NONE,False
+1556871760387,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871760481,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871761430,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871761457,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871762270,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871762382,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556871843064,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556871963377,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556871963491,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556871964706,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556871964731,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556871967228,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556871967257,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556871968175,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556871968220,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871970288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871970329,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871974345,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871974381,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871978320,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871978356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871980809,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871980856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871991064,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871991144,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871992854,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871992928,갤러리,com.miui.gallery,True,MOVE_TO_FOREGROUND,False
+1556871995280,갤러리,com.miui.gallery,True,MOVE_TO_BACKGROUND,False
+1556871995311,갤러리,com.miui.gallery,True,MOVE_TO_FOREGROUND,False
+1556871997953,갤러리,com.miui.gallery,True,MOVE_TO_BACKGROUND,False
+1556871997967,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871998674,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871998724,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872001818,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872001844,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872022801,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872022867,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556872024066,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556872024092,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872125449,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872125504,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_FOREGROUND,False
+1556872126239,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_BACKGROUND,False
+1556872126284,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_FOREGROUND,False
+1556872167128,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_BACKGROUND,False
+1556872167154,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872169284,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872169326,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872200277,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872200319,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872200895,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872202301,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872202344,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872222510,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872222574,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872223456,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872223484,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872224376,Android 시스템,android,True,NONE,False
+1556872224409,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872225178,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872225179,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872225256,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872225592,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872227286,Android 시스템,android,True,NONE,False
+1556872227322,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872227418,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872228250,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872228282,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872230617,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872230646,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872231394,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872231510,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556872251870,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556872252021,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872252918,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872253215,Android 시스템,android,True,NONE,False
+1556872253904,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872253918,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872253985,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872284371,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872284478,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872284491,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872285055,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872285632,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872285746,Android 시스템,android,True,NONE,False
+1556872286407,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872286464,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872287390,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872287437,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872296391,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872296438,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872306720,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872306757,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872318995,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872319069,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872320853,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872321293,Android 시스템,android,True,NONE,False
+1556872321801,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872321802,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872336469,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872462122,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872462746,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872462747,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872652924,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872953244,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872953893,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872953895,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873018907,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873038549,Android 시스템,android,True,NONE,False
+1556873038660,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873038756,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873039696,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873039738,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873042052,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873042134,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873047841,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873047903,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873048755,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873048786,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873059571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873059601,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873060528,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873060804,Android 시스템,android,True,NONE,False
+1556873061392,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873061394,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873572312,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873577194,Android 시스템,android,True,NONE,False
+1556873577306,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873577457,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873578262,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873578304,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873583840,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873594337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873594416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873596227,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873596275,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873597702,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873597742,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873598337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873598442,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873600009,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873600588,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873601680,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873601708,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873601890,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873601928,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873601954,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873601987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873603199,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873603239,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873616140,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873616196,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873617237,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873617274,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873632877,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873632908,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873634470,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873634530,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873634853,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873634879,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873635916,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873635983,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873648858,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873648887,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873649695,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873650027,Android 시스템,android,True,NONE,False
+1556873650418,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873650420,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556874983222,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556874987604,Android 시스템,android,True,NONE,False
+1556874987703,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556874987781,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556874989643,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556874989691,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556874993550,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556874993624,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556874995031,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556874995057,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556874995721,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556874995780,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556875098944,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556875099263,Android 시스템,android,True,NONE,False
+1556875120229,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556875120261,Android 시스템,android,True,NONE,False
+1556875121704,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556875121753,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556875124909,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556875125185,Android 시스템,android,True,NONE,False
+1556875125678,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875125680,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875302385,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875606432,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875607086,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875607090,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875862421,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876155982,InCallUI,com.android.incallui,True,USER_INTERACTION,False
+1556876219015,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876219372,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876219409,Android 시스템,android,True,NONE,False
+1556876219619,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876219697,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876219953,통화 관리,com.android.server.telecom,True,USER_INTERACTION,False
+1556876222796,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876222856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556876224224,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556876224256,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876224991,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876225055,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876227048,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876227114,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1556876227218,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1556876227254,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876227387,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876227576,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876312660,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876313057,Android 시스템,android,True,NONE,False
+1556876338068,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876346152,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876346776,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876349004,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876427120,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876499264,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876520089,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876522081,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876522178,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876522190,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876525907,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876525909,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876802842,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876802953,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876803158,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876803170,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876803726,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876803943,Android 시스템,android,True,NONE,False
+1556876805247,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556876806832,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876806859,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876811640,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876811771,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556876812173,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556876812329,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556876812526,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556876812539,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556876817751,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556876817844,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876819506,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876819558,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876824150,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876824202,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876825076,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876825097,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876826148,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876826178,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876828720,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876828753,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876841591,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876841646,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876843410,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876843474,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876844932,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876844967,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876857371,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876857414,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556876876030,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556876876072,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556876887409,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556876887439,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876890184,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876890474,Android 시스템,android,True,NONE,False
+1556876953192,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556877561993,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556877587161,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556877601760,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877601946,Android 시스템,android,True,NONE,False
+1556877602989,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1556877606331,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877606374,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877606453,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877606471,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877619288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877619335,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877631517,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877631566,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877634231,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877634290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877635826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877635857,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877639517,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877639565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877640551,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877640578,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877641678,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877641971,Android 시스템,android,True,NONE,False
+1556878421663,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878421790,Android 시스템,android,True,NONE,False
+1556878422648,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878422694,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878424759,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556878428332,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878428367,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878430253,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878430348,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878432448,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878432752,Android 시스템,android,True,NONE,False
+1556878478845,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878478921,Android 시스템,android,True,NONE,False
+1556878480736,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878480933,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878482474,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878482504,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878483234,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878485450,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878501153,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878501201,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878501822,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878501850,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878510594,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878510663,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878511758,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878511797,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878513141,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878513173,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878517004,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878517037,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878520773,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878520819,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878527609,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878527635,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878539600,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878539653,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878549409,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878549493,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878550331,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878550356,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878558667,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878561785,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878561834,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878564050,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878564088,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878580623,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878580675,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878581306,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878581427,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878582843,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878583202,Android 시스템,android,True,NONE,False
+1556878614068,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878614147,Android 시스템,android,True,NONE,False
+1556878616235,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878616268,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878622304,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878622346,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878623840,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878623876,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878624087,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878624137,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878624162,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878624190,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878627080,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878627123,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878628921,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878628963,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878706174,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878706733,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878707296,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878708625,Android 시스템,android,True,NONE,False
+1556878788003,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878788108,Android 시스템,android,True,NONE,False
+1556878789060,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556878791099,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878791186,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878796331,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878796384,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878797661,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878797704,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878802307,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878802388,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878803540,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878803842,Android 시스템,android,True,NONE,False
+1556878841164,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878841244,Android 시스템,android,True,NONE,False
+1556878842036,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878842073,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878843084,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878843119,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878864571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878864631,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878867216,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878867239,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878867863,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878867901,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878877502,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878877843,Android 시스템,android,True,NONE,False
+1556878882175,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878882199,Android 시스템,android,True,NONE,False
+1556878883319,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878883356,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878884271,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878884309,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878887606,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878887664,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878890108,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878890135,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878890943,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878890987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878897790,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878897845,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878898556,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878898577,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878900032,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878900065,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878902830,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878902891,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878905319,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878905602,Android 시스템,android,True,NONE,False
+1556879211261,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879240731,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879241249,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879383484,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879383616,Android 시스템,android,True,NONE,False
+1556879385590,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879386713,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879386800,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556879387496,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556879387653,보안,com.miui.securitycenter,True,MOVE_TO_FOREGROUND,False
+1556879390105,보안,com.miui.securitycenter,True,MOVE_TO_BACKGROUND,False
+1556879390124,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556879390228,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556879390255,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879391250,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879391290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879393483,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879393518,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879403088,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879403148,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879403884,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879403911,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879404736,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879404770,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879405858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879405899,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879410280,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879410331,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879412531,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879412555,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879413325,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879413614,Android 시스템,android,True,NONE,False
+1556879528046,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879680614,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879680729,Android 시스템,android,True,NONE,False
+1556879681897,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879683197,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879683234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879683280,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879683344,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879683370,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879683395,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879686952,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879686990,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879687919,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556879689283,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879689351,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556879760036,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556879768263,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556879786137,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879791441,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556879791804,Android 시스템,android,True,NONE,False
+1556879822266,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556879822548,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556879822815,Android 시스템,android,True,NONE,False
+1556879824578,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879825301,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556879825486,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556879834401,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556879834443,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556879837716,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556879837747,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879840383,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879840663,Android 시스템,android,True,NONE,False
+1556869091441,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556869091529,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556869092137,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556869092179,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869094065,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869094092,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869108541,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869108817,Android 시스템,android,True,NONE,False
+1556869121789,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869144279,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556869145173,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869145192,Android 시스템,android,True,NONE,False
+1556869167304,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869167356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869169002,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869169043,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869171535,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869171589,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869172495,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869172861,Android 시스템,android,True,NONE,False
+1556869503396,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556869503430,Android 시스템,android,True,NONE,False
+1556869504713,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556869504739,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556869510225,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556869510266,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869514531,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869514596,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869517082,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869517129,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869523062,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869523106,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869524314,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869524352,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556869525856,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556869526202,Android 시스템,android,True,NONE,False
+1556869527317,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556869527319,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870349854,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870351525,Android 시스템,android,True,NONE,False
+1556870351631,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870351709,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870353862,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870353894,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870355168,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870355205,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870356873,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870356926,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870357858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870357875,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870359021,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870359281,Android 시스템,android,True,NONE,False
+1556870359801,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870359802,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870477865,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870544251,Android 시스템,android,True,NONE,False
+1556870544331,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556870544413,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556870545198,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556870545240,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870546334,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870546373,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556870571578,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556870571863,Android 시스템,android,True,NONE,False
+1556870572287,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556870572289,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556871159503,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556871718937,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556871719113,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871719119,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871719770,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556871720136,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871720544,Android 시스템,android,True,NONE,False
+1556871760387,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871760481,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871761430,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871761457,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871762270,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871762382,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556871843064,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556871963377,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556871963491,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556871964706,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556871964731,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556871967228,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556871967257,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556871968175,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556871968220,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871970288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871970329,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871974345,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871974381,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871978320,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871978356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871980809,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871980856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556871991064,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556871991144,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871992854,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871992928,갤러리,com.miui.gallery,True,MOVE_TO_FOREGROUND,False
+1556871995280,갤러리,com.miui.gallery,True,MOVE_TO_BACKGROUND,False
+1556871995311,갤러리,com.miui.gallery,True,MOVE_TO_FOREGROUND,False
+1556871997953,갤러리,com.miui.gallery,True,MOVE_TO_BACKGROUND,False
+1556871997967,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556871998674,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556871998724,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872001818,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872001844,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872022801,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872022867,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556872024066,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556872024092,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872125449,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872125504,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_FOREGROUND,False
+1556872126239,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_BACKGROUND,False
+1556872126284,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_FOREGROUND,False
+1556872167128,TimeBlocks,com.hellowo.day2life,False,MOVE_TO_BACKGROUND,False
+1556872167154,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872169284,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872169326,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872200277,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872200319,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872200895,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872202301,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872202344,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872222510,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872222574,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872223456,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872223484,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872224376,Android 시스템,android,True,NONE,False
+1556872224409,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872225178,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872225179,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872225256,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872225592,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872227286,Android 시스템,android,True,NONE,False
+1556872227322,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872227418,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872228250,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872228282,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872230617,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872230646,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872231394,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872231510,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556872251870,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556872252021,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872252918,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872253215,Android 시스템,android,True,NONE,False
+1556872253904,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872253918,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872253985,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872284371,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872284478,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872284491,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872285055,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556872285632,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556872285746,Android 시스템,android,True,NONE,False
+1556872286407,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556872286464,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872287390,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872287437,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872296391,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872296438,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872306720,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872306757,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872318995,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872319069,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556872320853,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556872321293,Android 시스템,android,True,NONE,False
+1556872321801,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872321802,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872336469,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872462122,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872462746,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872462747,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872652924,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872953244,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556872953893,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556872953895,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873018907,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873038549,Android 시스템,android,True,NONE,False
+1556873038660,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873038756,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873039696,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873039738,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873042052,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873042134,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873047841,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873047903,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873048755,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873048786,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873059571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873059601,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873060528,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873060804,Android 시스템,android,True,NONE,False
+1556873061392,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873061394,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873572312,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873577194,Android 시스템,android,True,NONE,False
+1556873577306,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556873577457,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873578262,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873578304,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873583840,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873594337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873594416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873596227,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873596275,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873597702,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873597742,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873598337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873598442,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873600009,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873600588,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556873601680,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873601708,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873601890,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873601928,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873601954,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873601987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873603199,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873603239,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873616140,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873616196,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873617237,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873617274,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556873632877,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556873632908,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873634470,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873634530,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873634853,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873634879,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873635916,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873635983,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1556873648858,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1556873648887,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556873649695,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556873650027,Android 시스템,android,True,NONE,False
+1556873650418,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556873650420,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556874983222,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556874987604,Android 시스템,android,True,NONE,False
+1556874987703,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556874987781,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556874989643,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556874989691,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556874993550,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556874993624,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556874995031,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556874995057,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556874995721,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556874995780,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556875098944,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556875099263,Android 시스템,android,True,NONE,False
+1556875120229,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556875120261,Android 시스템,android,True,NONE,False
+1556875121704,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556875121753,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556875124909,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556875125185,Android 시스템,android,True,NONE,False
+1556875125678,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875125680,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875302385,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875606432,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875607086,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556875607090,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556875862421,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876155982,InCallUI,com.android.incallui,True,USER_INTERACTION,False
+1556876219015,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876219372,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876219409,Android 시스템,android,True,NONE,False
+1556876219619,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876219697,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876219953,통화 관리,com.android.server.telecom,True,USER_INTERACTION,False
+1556876222796,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876222856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556876224224,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556876224256,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876224991,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876225055,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876227048,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876227114,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1556876227218,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1556876227254,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876227387,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876227576,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876312660,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876313057,Android 시스템,android,True,NONE,False
+1556876338068,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876346152,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876346776,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876349004,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876427120,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876499264,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876520089,InCallUI,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556876522081,InCallUI,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556876522178,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876522190,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876525907,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876525909,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876802842,FLO,skplanet.musicmate,False,MOVE_TO_FOREGROUND,False
+1556876802953,FLO,skplanet.musicmate,False,MOVE_TO_BACKGROUND,False
+1556876803158,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876803170,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876803726,연락처와 다이얼,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556876803943,Android 시스템,android,True,NONE,False
+1556876805247,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556876806832,연락처와 다이얼,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556876806859,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876811640,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876811771,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556876812173,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556876812329,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556876812526,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556876812539,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556876817751,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556876817844,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876819506,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876819558,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876824150,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876824202,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556876825076,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556876825097,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876826148,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876826178,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876828720,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876828753,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876841591,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876841646,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876843410,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876843474,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556876844932,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556876844967,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876857371,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876857414,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556876876030,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556876876072,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556876887409,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556876887439,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556876890184,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556876890474,Android 시스템,android,True,NONE,False
+1556876953192,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556877561993,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556877587161,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556877601760,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877601946,Android 시스템,android,True,NONE,False
+1556877602989,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1556877606331,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877606374,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877606453,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877606471,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877619288,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877619335,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877631517,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877631566,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877634231,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877634290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877635826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877635857,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877639517,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877639565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556877640551,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556877640578,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556877641678,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556877641971,Android 시스템,android,True,NONE,False
+1556878421663,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878421790,Android 시스템,android,True,NONE,False
+1556878422648,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878422694,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878424759,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556878428332,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878428367,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878430253,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878430348,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878432448,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878432752,Android 시스템,android,True,NONE,False
+1556878478845,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878478921,Android 시스템,android,True,NONE,False
+1556878480736,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878480933,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878482474,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878482504,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878483234,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878485450,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878501153,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878501201,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878501822,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878501850,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878510594,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878510663,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878511758,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878511797,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878513141,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878513173,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878517004,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878517037,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878520773,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878520819,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878527609,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878527635,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878539600,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878539653,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878549409,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878549493,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878550331,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878550356,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878558667,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556878561785,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878561834,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878564050,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878564088,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878580623,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878580675,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878581306,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878581427,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878582843,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878583202,Android 시스템,android,True,NONE,False
+1556878614068,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878614147,Android 시스템,android,True,NONE,False
+1556878616235,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878616268,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878622304,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878622346,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878623840,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878623876,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878624087,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878624137,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878624162,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878624190,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878627080,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878627123,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878628921,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878628963,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878706174,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878706733,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878707296,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878708625,Android 시스템,android,True,NONE,False
+1556878788003,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878788108,Android 시스템,android,True,NONE,False
+1556878789060,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556878791099,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878791186,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878796331,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878796384,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878797661,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878797704,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878802307,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878802388,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878803540,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878803842,Android 시스템,android,True,NONE,False
+1556878841164,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878841244,Android 시스템,android,True,NONE,False
+1556878842036,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878842073,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878843084,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878843119,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878864571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878864631,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878867216,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878867239,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878867863,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878867901,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878877502,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878877843,Android 시스템,android,True,NONE,False
+1556878882175,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878882199,Android 시스템,android,True,NONE,False
+1556878883319,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878883356,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878884271,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878884309,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878887606,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878887664,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878890108,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878890135,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878890943,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878890987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878897790,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878897845,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556878898556,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556878898577,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556878900032,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556878900065,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556878902830,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556878902891,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556878905319,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556878905602,Android 시스템,android,True,NONE,False
+1556879211261,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879240731,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879241249,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879383484,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879383616,Android 시스템,android,True,NONE,False
+1556879385590,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879386713,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879386800,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556879387496,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556879387653,보안,com.miui.securitycenter,True,MOVE_TO_FOREGROUND,False
+1556879390105,보안,com.miui.securitycenter,True,MOVE_TO_BACKGROUND,False
+1556879390124,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556879390228,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556879390255,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879391250,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879391290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879393483,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879393518,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879403088,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879403148,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879403884,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879403911,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879404736,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879404770,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879405858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879405899,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879410280,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879410331,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879412531,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879412555,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879413325,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879413614,Android 시스템,android,True,NONE,False
+1556879528046,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556879680614,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879680729,Android 시스템,android,True,NONE,False
+1556879681897,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879683197,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879683234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879683280,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879683344,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879683370,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879683395,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556879686952,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556879686990,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879687919,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556879689283,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879689351,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556879760036,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556879768263,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556879786137,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879791441,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556879791804,Android 시스템,android,True,NONE,False
+1556879822266,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556879822548,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556879822815,Android 시스템,android,True,NONE,False
+1556879824578,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556879825301,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556879825486,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556879834401,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556879834443,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556879837716,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556879837747,시스템 런처,com.miui.home,True,MOVE_TO_FOREGROUND,True
+1556879840383,시스템 런처,com.miui.home,True,MOVE_TO_BACKGROUND,True
+1556879840663,Android 시스템,android,True,NONE,False

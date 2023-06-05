@@ -1,0 +1,1462 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557533175578,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557533175794,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557533175957,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557533180338,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557533180420,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557533192063,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557533192080,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557533193868,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557533193882,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557533218252,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557533218264,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557533219394,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557533219516,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557533219561,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557534637751,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557534637893,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557534638056,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557534654787,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557534654949,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557534655442,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557534655595,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557534655809,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557534655822,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557534657978,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557534658059,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557534664908,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557534664918,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557534668408,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557534668417,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557534670431,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557534670441,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557534672069,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557534672104,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557534674159,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557534674175,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557534685359,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557534685390,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557534688958,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557534688972,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557534689711,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557534689719,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557534690967,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557534690976,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557534691447,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557534691943,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557534697806,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557534698392,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557534698394,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557534846434,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557534853263,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557534853276,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557534855359,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557534855440,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557534856093,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557534856137,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557534857799,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557534857856,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557535114044,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557535114063,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557535116350,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557535119009,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557535119012,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557535715837,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557535717579,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557535718078,Android 시스템,android,True,USER_INTERACTION,False
+1557535727241,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557535727325,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557535727744,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557535727805,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557535730842,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557535731302,CJ ONE,kr.co.ivlog.mobile.app.cjonecard,False,MOVE_TO_FOREGROUND,False
+1557535731684,CJ ONE,kr.co.ivlog.mobile.app.cjonecard,False,MOVE_TO_BACKGROUND,False
+1557535731785,CJ ONE,kr.co.ivlog.mobile.app.cjonecard,False,MOVE_TO_FOREGROUND,False
+1557535736470,CJ ONE,kr.co.ivlog.mobile.app.cjonecard,False,MOVE_TO_BACKGROUND,False
+1557535736512,CJ ONE,kr.co.ivlog.mobile.app.cjonecard,False,MOVE_TO_FOREGROUND,False
+1557535766528,CJ ONE,kr.co.ivlog.mobile.app.cjonecard,False,MOVE_TO_BACKGROUND,False
+1557535766569,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557535768620,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557535768633,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557535769974,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557535770549,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557535770551,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557540771123,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557540772882,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557540773369,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557540778187,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557540784357,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557540784369,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557540787228,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557540787312,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_FOREGROUND,False
+1557540788583,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_BACKGROUND,False
+1557540788617,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_FOREGROUND,False
+1557540794926,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_BACKGROUND,False
+1557540794938,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_FOREGROUND,False
+1557540796822,카카오버스,com.astroframe.seoulbus,False,USER_INTERACTION,False
+1557540797133,카카오버스,com.astroframe.seoulbus,False,USER_INTERACTION,False
+1557540803742,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557540806889,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_BACKGROUND,False
+1557540807522,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557540807524,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557540910878,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557540911512,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557540913642,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557540914687,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557540918661,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557540918751,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_FOREGROUND,False
+1557540918752,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_BACKGROUND,False
+1557540918996,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_FOREGROUND,False
+1557540919003,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557540929843,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557540959048,카카오버스,com.astroframe.seoulbus,False,MOVE_TO_BACKGROUND,False
+1557540959077,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557540962165,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557540964002,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557540964031,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540964180,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540964238,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540964310,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540964393,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540964933,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540965182,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540967218,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540967229,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540970491,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540970505,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540990719,카카오버스,com.astroframe.seoulbus,False,USER_INTERACTION,False
+1557540990750,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540990764,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540992515,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540992548,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540992648,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557540992741,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557540994502,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557541001020,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557541011512,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557541011536,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557541017479,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557541017488,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557541018892,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557541018909,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557541036828,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557541037481,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541037484,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541073490,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541075729,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541075757,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557541075760,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557541076222,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557541077670,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557541079617,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557541079710,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557541088949,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557541089479,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541089480,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541217170,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541228508,음악,com.lge.music,True,USER_INTERACTION,False
+1557541229009,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557541272422,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541273066,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541273074,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541274946,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541358471,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557541360015,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541360599,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541360606,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557541378943,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557541378947,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557541383469,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557541451201,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557541451232,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557541451237,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557541452492,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557541462161,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557541462164,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557542282659,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557542283785,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557542283798,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557542285929,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557542286046,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542292009,카카오뱅크,com.kakaobank.channel,False,USER_INTERACTION,False
+1557542292506,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557542293552,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557542298350,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542298654,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542301256,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542301299,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557542302667,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557542302693,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557542304311,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557542304328,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557542306581,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557542306694,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542310609,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542310752,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542316439,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542316768,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542316998,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542317092,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542317583,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542317658,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557542321938,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557542342405,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557542343037,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557542343039,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543060640,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543062297,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543062795,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557543064800,Android 시스템,android,True,USER_INTERACTION,False
+1557543065232,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543065260,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557543068941,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557543069048,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543105539,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543106036,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557543107041,Android 시스템,android,True,USER_INTERACTION,False
+1557543110082,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543110116,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557543112049,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557543112067,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557543114303,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557543114404,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543117923,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543118038,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543122164,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543122365,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543122596,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543122679,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543123827,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543123850,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543125730,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543125792,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543129545,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543129559,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543143892,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543147453,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543148094,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543148098,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543149703,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543153309,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543153939,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543153943,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543232768,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543234778,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543235351,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543235355,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543259887,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543261422,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543264177,Android 시스템,android,True,USER_INTERACTION,False
+1557543271154,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543271784,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543271786,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543272924,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543308127,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543308675,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543308677,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543421157,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543424883,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543425380,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557543426931,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543427488,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543427491,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543431694,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543437570,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543437668,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_FOREGROUND,False
+1557543483507,시외버스	모바일,com.kscc.xzz.mbl,False,MOVE_TO_BACKGROUND,False
+1557543484087,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543484116,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543702383,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557543705250,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557543705263,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557543708829,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557543708857,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557543710310,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557543710325,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557543724203,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557543724250,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557543727287,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557543727319,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557543729146,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557543729158,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557543730066,음악,com.lge.music,True,USER_INTERACTION,False
+1557543730560,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543731086,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557543731132,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543731509,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543731565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543731667,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543731771,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543732661,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543732956,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543734836,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543734849,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543739447,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543739487,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543739561,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543739734,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557543741677,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557543741692,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557543743885,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543754003,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557543754173,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557543755218,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557543755295,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557543757675,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557543757800,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557543966363,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557543968288,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557543968606,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557543985344,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557543985409,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557543988856,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557543988874,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557544204495,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557544205159,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557544205163,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557544568560,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557544571448,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557544572287,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557544572329,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557544591811,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557544592349,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557544592351,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557544602756,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557544604605,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557544605082,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557544605093,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557544639347,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557544641078,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557544641100,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557544642828,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557544642936,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557544647065,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557544647292,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544648703,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544648962,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544652044,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544652056,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544657085,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544657108,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544662479,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544662507,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544663694,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544663736,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544669283,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544669362,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544688614,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544688657,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544690453,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544690485,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544692680,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544692707,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557544692845,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557544693027,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557544694510,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557544694529,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557544696304,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557544696332,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557544701798,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557544701920,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544702877,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544702912,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544704138,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544704258,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544705608,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544705648,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544707303,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544707518,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544709094,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544709161,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544711457,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544711510,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544714203,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544714222,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544716027,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544716069,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544726705,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544726761,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544729460,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544729477,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544730985,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544731026,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544761827,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544761871,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544770283,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544770305,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544776877,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544776900,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544785132,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544785161,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544803444,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544803467,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544806223,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544806256,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544813161,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544813218,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544821595,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544821638,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544827523,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544827548,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544830702,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544830754,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544838512,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544838567,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544844105,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544844130,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544846043,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544846066,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544850866,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544850893,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544860677,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544860709,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544866334,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544866388,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544868167,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544868197,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544884643,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544884664,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557544974650,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557544974693,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545010954,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545011155,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545028971,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545029024,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545029411,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545029550,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545032555,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545032600,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545040444,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545040467,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545045326,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545045344,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545047760,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545047776,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545051668,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545051681,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545057271,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545057300,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545058557,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545058583,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_FOREGROUND,False
+1557545082041,나만의 실험실,com.bulb.alchemy,False,MOVE_TO_BACKGROUND,False
+1557545082963,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557545082994,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557545177080,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557545178748,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557545178772,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557545183544,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557545184060,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557545186642,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557545186670,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557545190205,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557545190759,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557545190761,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557545228663,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557545231079,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557545231576,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557545235430,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557545236083,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557545236086,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557545848425,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557545855608,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557545855625,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557545859637,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557545859734,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557545860418,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557545860472,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557545862455,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557545862549,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557546787374,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557546787872,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557546788852,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557546789281,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557546808117,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557546808150,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557546816309,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557546816411,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557546817007,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557546817048,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557546819129,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557546819349,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557547027963,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557547028147,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557547042917,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557547043806,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557547043982,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557548381702,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557548382432,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557548382435,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549214960,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549221900,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557549224931,Android 시스템,android,True,USER_INTERACTION,False
+1557549228135,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549228247,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557549305824,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557549305891,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557549308772,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557549308797,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549309876,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549309894,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557549316237,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557549316251,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557549327613,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557549327637,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557549328644,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557549328664,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549330203,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557549330709,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557549338854,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549339359,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549339382,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549340823,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549342546,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549343064,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549343067,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549489423,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549490470,음악,com.lge.music,True,USER_INTERACTION,False
+1557549490961,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557549491178,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549491231,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557549494759,Android 시스템,android,True,USER_INTERACTION,False
+1557549510298,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557549516985,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557549517025,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557549520166,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557549520181,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549533030,Android 시스템,android,True,USER_INTERACTION,False
+1557549537879,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557549538382,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557549538397,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557550326888,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557550327967,음악,com.lge.music,True,USER_INTERACTION,False
+1557550328465,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557550330402,Android 시스템,android,True,USER_INTERACTION,False
+1557550331391,Android 시스템,android,True,USER_INTERACTION,False
+1557550339091,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557550341455,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557550342054,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557550342065,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557550342720,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557550373049,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557550374001,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557550374524,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557550374532,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557550870195,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557550871433,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557550874646,Android 시스템,android,True,USER_INTERACTION,False
+1557550885969,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557550897809,Android 시스템,android,True,USER_INTERACTION,False
+1557550903738,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557550904350,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557550904352,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551061517,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551065451,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557551067098,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551067125,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551067359,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551067416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551067499,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551067619,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551068213,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551068472,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551070224,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551070234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551092848,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551092906,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551092982,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551093064,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551108559,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551108583,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551136802,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551136821,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557551140504,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557551141035,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551141037,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551620154,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551622005,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557551623035,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551623076,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557551630398,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557551630551,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557551632970,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557551632997,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557551635734,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557551635752,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557551703589,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557551703609,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557551704895,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557551708578,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551708582,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551785232,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551795897,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551796451,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551796456,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551855666,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557551883976,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557551883997,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557551895613,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557551895722,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557552025345,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557552026026,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557552026030,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557552027139,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557552045607,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557552045655,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557552051710,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557552052450,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557552052456,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557553834458,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557553864877,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557553865372,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557553869042,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557553869622,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557553869626,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557553894903,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557553896068,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557553896091,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557553899703,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557553899813,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557553913277,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557553914097,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557553914101,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557558614707,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557558616763,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557558617258,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557558620571,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557558620592,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557558625390,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557558625605,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557558726833,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557558726877,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557558728187,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557558731820,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557558731823,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560162651,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560166063,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557560170962,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560171054,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557560174879,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557560174972,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557560179778,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557560179823,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557560180125,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557560180153,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557560180256,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557560180400,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557560180572,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557560180614,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557560235819,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557560235857,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557560237250,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557560240762,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560240764,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560651239,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560653497,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557560653991,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557560655007,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560655034,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557560670443,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557560670494,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557560677554,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557560677571,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557560678896,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557560685345,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557560686049,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560686054,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560728474,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560748084,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560748154,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557560748157,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557560748754,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557560767079,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560767082,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560797568,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560799652,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557560800147,Android 시스템,android,True,USER_INTERACTION,False
+1557560800930,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560801606,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560801608,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557560997185,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557560998586,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557561000365,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557561000401,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557561002435,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557561002479,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557561006415,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557561006437,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557561006677,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557561006690,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557561006781,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557561006888,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557561007017,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557561007065,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557561096128,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557561096149,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557561097192,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557561101075,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557561101078,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557561139196,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557561141180,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557561141215,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557561143003,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557561143108,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557561145708,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557561146227,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557561151104,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557561151119,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557561153059,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557561153093,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557561161518,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557561161599,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557561161906,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557561161942,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557561164986,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557561165251,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557561167088,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557561167228,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557561172052,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557561172293,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557561601112,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557561601220,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557561613661,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557561613739,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557561992821,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557562022287,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557562036472,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557562036956,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557562037788,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557562038356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562039125,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562039280,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562039467,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562039637,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562041637,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562041959,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557562042153,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562047721,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562047772,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562077818,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562077887,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562085143,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562085196,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562140327,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562140371,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562140449,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562140595,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557562142716,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557562143278,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557562143758,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557562143807,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557562146524,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557562146772,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557562147971,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557562148636,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557562148639,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557562224838,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557562226011,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557562226038,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557562231483,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557562231687,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557562233732,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557562233781,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557562869196,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557562869236,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557562869971,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557562870471,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557562873773,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557562873950,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557562892517,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557562892574,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557562897507,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557562897544,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557562900023,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557562900049,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557562925295,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557562925306,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557562926687,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557562926757,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557562931118,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557562931178,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557562931441,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557562931475,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557562931558,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557562931683,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557562931795,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557562931829,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563018035,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557563021003,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563021317,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563021330,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563022108,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563022112,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557563126059,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563128234,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557563128235,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557563135090,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557563135689,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563135704,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557563486399,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563493541,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557563494039,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557563499398,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557563499698,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563501764,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563502004,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563502156,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563502357,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563503607,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563504119,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563507969,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563507991,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563537788,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563537836,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563537910,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563538020,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557563540448,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557563540463,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557563542141,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557563542637,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557563546790,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557563547594,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563547597,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557563601265,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563605825,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557563605848,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557563606997,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557563607040,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563612318,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563612344,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563612613,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563612657,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557563612794,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557563612953,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563613059,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563613095,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563779593,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563796746,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563802094,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563802154,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557563802155,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557563802988,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557563809175,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557563809179,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564147457,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564159999,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557564163278,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564163838,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564163854,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564169766,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564172681,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564172709,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557564175000,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557564175017,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557564176670,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557564177169,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557564179794,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557564179823,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557564183004,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557564183032,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557564185604,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557564185620,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557564187389,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557564191561,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557564192163,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564192166,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564253489,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564255673,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564255684,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557564257388,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557564257424,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557564346037,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557564346685,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564346688,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564350452,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564360886,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557564361414,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557564361417,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557565066745,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557565068033,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557565072508,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557565072533,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557565076140,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557565308027,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557565308203,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557565322429,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557565322459,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557565330969,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557565331568,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557565331571,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557566137711,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557566139843,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557566140539,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557566140542,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557566732873,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557566733553,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557566742781,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557566746604,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557566747078,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557566756591,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557566757172,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557566757174,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557567545221,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557567546974,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557567547473,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557567548343,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557567548384,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567548672,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567548742,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567548842,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567548969,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567551177,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567551409,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567553138,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567553164,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567555122,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567555141,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567585017,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567585029,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557567586606,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557567594563,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557567594583,Wi-Fi,com.lge.wifisettings,True,MOVE_TO_FOREGROUND,False
+1557567699100,Wi-Fi,com.lge.wifisettings,True,MOVE_TO_BACKGROUND,False
+1557567699111,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557567700324,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557567700359,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567700406,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567700440,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567702445,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567702460,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567723989,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567723998,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567725337,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567725363,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567725414,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567725471,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567727584,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567727622,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567730490,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567730509,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567830422,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567830438,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557567837513,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557567837538,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557567838011,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557567838168,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557567838384,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557567838397,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557567840007,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557567840140,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557567845447,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557567845458,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557567845848,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557567845862,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557567853228,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557567853323,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567853362,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567853398,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567855504,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567855514,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567957560,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567957585,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567960067,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567960098,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557567962967,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557567963466,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557567963682,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557567963711,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557567978489,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557567978511,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557567981744,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557567981756,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557567984304,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557567984314,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557567991141,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557567991234,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557568081625,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557568081648,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557568082948,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557568083021,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557568153597,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557568154245,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568154247,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568187443,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568192441,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568192984,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568193002,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568216962,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568221792,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568221807,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557568224634,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557568224659,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568227888,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568227904,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568228129,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568228158,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557568228303,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557568228439,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568228535,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568228596,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568229243,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557568296329,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568296371,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557568297669,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557568301287,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557568301319,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568301517,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557568319847,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568320474,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568320476,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568374346,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568379054,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557568383551,Android 시스템,android,True,USER_INTERACTION,False
+1557568391956,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568391987,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557568393353,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557568393406,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568423641,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568423657,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557568424881,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557568425003,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557568447201,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557568447309,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557568448903,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557568449227,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557568449877,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557568465189,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557568465217,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557568467458,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557568467479,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568472503,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568472516,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557568473398,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557568473501,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557568547481,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557568547736,Android 시스템,android,True,MOVE_TO_FOREGROUND,False
+1557568548213,Android 시스템,android,True,MOVE_TO_BACKGROUND,False
+1557568548257,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568548342,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568548371,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568550661,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568550697,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568551027,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568551045,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557568551188,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557568551370,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568551541,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568551580,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568584683,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568584945,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557568584957,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557568585372,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568585375,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568953917,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568960214,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557568960732,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557568960746,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557569033441,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557569036253,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557569036341,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557569047438,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557569049069,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557569049079,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557569058054,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557569058179,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557569118130,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557569118708,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557569118710,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557570607638,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557570609706,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557570609728,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557570611316,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557570612825,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557570612918,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557570629075,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557570629108,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557570632201,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557570632213,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557570638900,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557570639468,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557570639470,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557570926946,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557570927595,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557570927895,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557570936937,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557570937495,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557570937505,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557570939134,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557570939632,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557570949155,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557570949936,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557570949938,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571134785,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571136566,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571136588,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557571138137,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557571138146,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557571140210,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557571140236,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557571203682,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557571204429,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571204432,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571281430,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571283071,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571283676,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571283682,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571288595,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571324509,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557571326300,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571326830,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571326833,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571378385,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571398562,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557571399192,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571399217,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571399535,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571399593,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571399691,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571399843,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571400611,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571400922,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571410731,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571410745,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571411010,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557571424213,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571424315,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571424515,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571424893,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571428229,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571428980,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571428984,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571970371,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571971542,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557571982197,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557571982220,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571982308,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571982817,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557571984888,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557571984901,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557571987460,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557571989857,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557571989861,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557572032740,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557572036555,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557572049701,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557572050269,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557572050271,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557573055912,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557573057306,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557573060117,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557573060138,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557573072200,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557573072360,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557573073988,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557573074003,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557573076139,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557573076165,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557573103131,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557573103143,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557573105586,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557573105601,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557573109953,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557573109962,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557573111474,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557573111506,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557573112895,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557573112926,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557573137477,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557573137489,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557573139337,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557573139348,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557573140850,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557573144898,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557573144900,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557573640711,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557573641810,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557573641821,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557573642948,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557573643023,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557573651039,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557573651215,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557573660660,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557573661275,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557573661277,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557573725579,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557573726808,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557573726822,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557573728000,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557573728029,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557573731964,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557573731996,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557573750746,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557573751471,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557573751474,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557574888964,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557574949115,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557574949161,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557575009348,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557575010173,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557575010176,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557576717718,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557576719205,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557576719704,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557576727317,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557576727340,지도,com.google.android.apps.maps,True,MOVE_TO_FOREGROUND,True
+1557576728515,지도,com.google.android.apps.maps,True,MOVE_TO_BACKGROUND,True
+1557576728907,지도,com.google.android.apps.maps,True,MOVE_TO_FOREGROUND,True
+1557576776414,지도,com.google.android.apps.maps,True,MOVE_TO_BACKGROUND,True
+1557576776462,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557576777401,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557576777420,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557576779100,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557576779111,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557576780011,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557576782492,YouTube,com.google.android.youtube,True,USER_INTERACTION,True
+1557576789553,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557576790127,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557576790129,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557576913505,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557576916438,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557576916457,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557576917950,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557576917969,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576918461,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576918476,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576918506,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576918536,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576918806,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576919317,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576921547,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576921559,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576925302,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576925322,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576952872,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576952881,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557576955096,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557576955106,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557576956774,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557576956786,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557576958242,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557576958253,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557576959839,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557576963599,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557576963601,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557576985794,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557577033980,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557577033990,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557577035308,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557577035334,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577035790,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577035803,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577035826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577035854,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577036113,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577036621,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577039282,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577039295,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577043984,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577043998,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577047881,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577047899,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557577049896,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557577049965,Android 시스템,android,True,MOVE_TO_FOREGROUND,False
+1557577050211,Android 시스템,android,True,MOVE_TO_BACKGROUND,False
+1557577050245,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557577050514,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557577050552,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557577050664,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557577050816,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557577051037,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557577051213,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557577054741,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557577054752,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557577057017,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557577057096,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557577057775,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557577057831,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557577059554,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557577059612,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557577114916,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557577254481,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557577254981,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557577257924,Android 시스템,android,True,USER_INTERACTION,False
+1557577295285,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557577314215,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557577315017,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557577315643,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557577315646,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557577316400,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557577316975,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557577319163,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557577319665,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557577319679,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557579865773,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557579867830,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557579868342,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557579869074,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557579869107,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579869392,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579869469,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579869555,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579869705,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579870364,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579870636,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579872450,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579872460,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579887456,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579887482,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579887538,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579887590,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557579890098,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557579890111,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557579891775,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557579891836,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557580094651,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557580237973,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557580237991,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557580240181,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557580240293,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557580398158,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557580398237,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557580400272,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557580400304,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557581057371,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557581058021,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557581058023,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557583392562,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557583394457,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557583396905,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557583397527,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557583397529,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557583403148,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557583408465,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557583408477,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557583410105,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557583410130,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557583571195,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557583571823,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557583571825,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557583583803,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557583585826,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557583585850,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557583733887,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557583734478,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557583734484,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557584964161,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557584966019,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557584966032,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557584966569,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557584967073,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557585079272,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585079295,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557585094588,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557585094650,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557585100350,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557585100425,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557585104714,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557585104726,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585106236,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585106264,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557585110439,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557585110449,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585113531,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585115432,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585115434,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585415990,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585417148,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557585417654,T연락처,com.skt.prod.phonebook,False,USER_INTERACTION,False
+1557585421414,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585421990,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585421992,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585453490,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585457466,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585458354,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585458358,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585532447,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585534301,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557585536736,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585536756,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585539304,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585539419,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557585552966,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557585553014,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585555524,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585555608,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557585557070,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557585557243,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557585559591,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557585559602,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557585561353,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557585561387,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557585577570,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557585577617,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557585579154,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557585579170,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585579995,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585580012,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557585581422,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557585581433,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585583189,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585583267,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557585583961,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557585584010,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557585585850,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557585585896,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557585669927,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557585669942,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557585671556,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557585671574,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585672434,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585673003,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585673005,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585681791,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585683280,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557585683291,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585684520,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585684593,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_FOREGROUND,False
+1557585777617,Foodie,com.linecorp.foodcam.android,False,MOVE_TO_BACKGROUND,False
+1557585777640,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557585779277,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557585780986,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557585782592,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557585782594,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557618615464,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557618616673,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557618617171,만보기 - 걸음 측정기,pedometer.steptracker.calorieburner.stepcounter,False,USER_INTERACTION,False
+1557618619333,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557618620592,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557618620615,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618620940,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618620999,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618621081,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618621191,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618621765,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618622028,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618623969,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618623978,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618661852,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618661879,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618661938,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618661990,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557618664822,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557618664859,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557618666154,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557618666173,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557618670016,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557618670037,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557618673085,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557618673095,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557618686063,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557618686085,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557618689239,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557618689254,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557618692395,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557618692406,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557618695643,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557618695685,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557619092542,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557619093202,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557619093204,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557619098066,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557619108133,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False
+1557619108618,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_FOREGROUND,False
+1557619108639,원더락,kr.co.cjone.app.lockscreen,False,MOVE_TO_BACKGROUND,False

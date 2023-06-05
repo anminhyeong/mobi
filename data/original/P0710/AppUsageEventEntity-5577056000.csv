@@ -1,0 +1,1068 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557707120106,Twitch,tv.twitch.android.app,False,USER_INTERACTION,False
+1557709209140,신한페이판,com.shcard.smartpay,False,USER_INTERACTION,False
+1557709212170,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557709212448,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557709405467,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557709406470,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557710161865,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557710166889,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557710521654,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557710521869,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557711470213,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557711470314,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557711470499,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557711472730,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557711472748,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711474538,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711474577,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557711475419,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557711475480,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557711490450,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557711490470,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557711490517,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557711490636,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557711508846,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557711508928,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557711510592,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557711510609,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711511859,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711511894,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711511962,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711512028,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711515069,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711515118,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711517466,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711517515,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711518402,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711518424,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711542150,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713695195,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557713724430,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713725499,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713725550,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557713729346,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557713729414,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557713729653,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557713729747,패키지 설치 프로그램,com.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557713729979,패키지 설치 프로그램,com.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557713729991,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557713731196,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557713731214,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557713734069,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557713734093,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557713738350,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557713738362,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557713739192,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557713739213,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557713744299,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557713744377,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557713749846,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557713749898,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557713751495,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557713751505,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557713753302,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557713753315,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557713758888,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557713758945,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557713761736,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557713761754,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557713763062,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557713763075,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557713771509,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557713771541,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557713773438,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557713773477,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557713774639,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557713774661,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713775641,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713775654,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713776929,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713776952,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713778178,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713778189,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713778765,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713778785,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713780345,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713780364,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713782072,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713782092,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557713783904,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557713783945,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557713788779,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557713788830,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713790018,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713790029,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713794186,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557713795063,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713795112,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557713826394,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557713826450,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713827866,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713827879,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713835829,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713835863,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557713843299,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557713843354,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713871862,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713871903,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557713877104,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557713877202,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713881245,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713881252,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713882119,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713882132,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713896412,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713896422,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713928978,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713929000,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713930735,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713930750,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713983098,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713983114,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713987097,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713987109,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713994650,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713994661,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557713995564,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557713995574,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557714035906,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557714035928,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557714042817,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557714042854,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557714046079,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557714047988,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557714364124,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557714368483,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557716193563,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557716198117,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557716198133,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557716199382,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557716199395,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557716211529,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557716211551,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557716222642,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557716222681,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557716229358,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557716229451,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557716229648,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557716380424,Twitch,tv.twitch.android.app,False,USER_INTERACTION,False
+1557716392480,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557716392571,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557716392723,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557716396268,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557716396311,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557716396366,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557716405732,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557716405831,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557716405933,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557716409793,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557717062540,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557717333336,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557717334086,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557717334111,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557717369384,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557717424371,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557718035081,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557718054887,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557718055415,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557718362268,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557718598098,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557718599160,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557718599161,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557718601733,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557718604750,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557718604812,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557718617059,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557720799765,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557720802069,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557720802096,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557720825868,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557720825869,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557720826368,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557720834846,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557720834973,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557720840327,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557720840392,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557720961084,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557720964512,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557720974462,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557723761470,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557723831651,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557723834082,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557723843278,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557723844777,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557723844882,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723844991,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723845292,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723845348,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723845400,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723847375,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723847404,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723873294,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723873331,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557723874814,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557723874833,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557723995681,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557724006597,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557724027909,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557724034178,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557724163937,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557724195042,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557724230407,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557724252263,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557724419476,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557724420880,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557724539916,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557724541482,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557724712811,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557724733545,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557725282497,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557725283292,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557725283425,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725292871,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725292895,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725295055,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725327320,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725329106,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725329160,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557725331001,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557725331020,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725333765,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725333778,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725335959,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725336028,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557725337205,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557725337227,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557725404874,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557725618369,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557725718649,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557725719905,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557725720490,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557725720638,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725720729,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725720944,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725721022,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725721081,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725724559,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725724592,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725742646,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725812121,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557726232522,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557726234054,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726234124,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726234184,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726237981,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726238027,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726239259,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726239279,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726243901,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557726244611,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726244681,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557726252335,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557726252447,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726257073,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557726257574,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726257598,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726257682,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726257769,Polaris Office,com.infraware.office.link,False,MOVE_TO_FOREGROUND,False
+1557726260486,Polaris Office,com.infraware.office.link,False,MOVE_TO_BACKGROUND,False
+1557726260504,Polaris Office,com.infraware.office.link,False,MOVE_TO_FOREGROUND,False
+1557726307583,Polaris Office,com.infraware.office.link,False,MOVE_TO_BACKGROUND,False
+1557726307657,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726309061,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726309084,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557726543502,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557726544849,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557726544972,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726545349,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726545821,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726545862,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726545913,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726547515,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726547545,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726558805,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726558821,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726559728,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726559805,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557726654040,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557726654277,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557726654518,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557726655073,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557726656925,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726657000,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726657052,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726657102,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726657142,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726660111,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726660146,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726661436,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726909504,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726909542,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726909581,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726912135,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727272167,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557727273715,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557727274455,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727274480,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727274508,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727278858,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727278917,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727279869,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727279890,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727285072,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727285111,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727285946,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727285967,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727330745,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557727579347,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727579437,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727580343,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727580366,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727581351,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727581367,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727585229,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727585257,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727602542,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727602558,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727604359,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727604380,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727605686,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727605702,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727606690,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727606707,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727607411,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727607420,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727607868,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727607906,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727608688,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727608710,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727610452,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727610477,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727621804,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727621829,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727623694,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727623716,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727625699,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727625745,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727626781,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727626800,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727628199,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727628219,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727653628,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727653641,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727658742,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727658761,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727660166,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727660233,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727661443,삼성 인터넷,com.sec.android.app.sbrowser,True,USER_INTERACTION,True
+1557727662574,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727662589,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727662784,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727662795,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727662812,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727662830,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727666747,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727666770,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727674294,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727674308,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727675967,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727675993,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727691911,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727691925,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727693123,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727693180,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727694181,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727694204,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727697250,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727697282,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727699067,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727699093,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727704237,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727704252,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727705038,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727705059,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727722207,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727732320,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727775699,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557727776048,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727776145,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557727786118,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557727786138,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557727787077,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557727787083,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557727787710,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557727787742,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727822115,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557727822222,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727823345,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727823363,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727823761,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727823774,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727823792,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727823808,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727826042,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727826113,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727844324,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727844346,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727869869,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727869887,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727870808,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727870827,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557727872058,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557727872121,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557727872786,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557727872808,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557727907258,Twitch,tv.twitch.android.app,False,USER_INTERACTION,False
+1557728522473,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557728747052,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557728960295,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557728960857,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557728960982,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728961080,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728961134,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728963471,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728963488,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728966538,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728966552,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728967570,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728967581,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728968308,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728968365,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557729135829,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557729137457,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557729137564,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729137615,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729137655,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729137699,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729137748,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729141023,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729141056,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729141141,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729141240,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729142477,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729142549,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557729323855,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557729323918,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729326018,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729326084,WoW BfA Talent Calculator,templarrr.wow.talentcalculator.bfa,False,MOVE_TO_FOREGROUND,False
+1557729345320,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557729346157,WoW BfA Talent Calculator,templarrr.wow.talentcalculator.bfa,False,MOVE_TO_BACKGROUND,False
+1557729346227,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729346263,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729346282,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729346326,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729346381,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729353048,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729353096,안드로이드 시스템,android,True,MOVE_TO_FOREGROUND,False
+1557729354994,안드로이드 시스템,android,True,MOVE_TO_BACKGROUND,False
+1557729355125,Word,com.microsoft.office.word,False,MOVE_TO_FOREGROUND,False
+1557729361884,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557729365357,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557729439185,Word,com.microsoft.office.word,False,MOVE_TO_BACKGROUND,False
+1557729439730,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729440078,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729440152,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729440942,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729440970,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557729533821,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557729533963,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729535651,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557729537521,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729537539,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729537657,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729537676,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729537726,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729537736,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729537767,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729537795,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729539175,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729539206,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729539478,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729539506,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729553571,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729553589,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729564016,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729564029,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557729567423,Google Play 스토어,com.android.vending,True,USER_INTERACTION,True
+1557729583329,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557729583485,알파카,kr.oshare.alpaca,False,MOVE_TO_FOREGROUND,False
+1557729696654,알파카,kr.oshare.alpaca,False,MOVE_TO_BACKGROUND,False
+1557729696748,패키지 설치 프로그램,com.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557729698044,패키지 설치 프로그램,com.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557729698070,알파카,kr.oshare.alpaca,False,MOVE_TO_FOREGROUND,False
+1557729698166,알파카,kr.oshare.alpaca,False,MOVE_TO_BACKGROUND,False
+1557729698195,패키지 설치 프로그램,com.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557729699063,패키지 설치 프로그램,com.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557729699080,알파카,kr.oshare.alpaca,False,MOVE_TO_FOREGROUND,False
+1557729741710,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557729745670,알파카,kr.oshare.alpaca,False,MOVE_TO_BACKGROUND,False
+1557729745755,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729748073,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729748108,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557729750168,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557729750241,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729751376,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729751469,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729751781,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729953076,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557729954683,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729957613,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729957638,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729958958,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729958990,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729959046,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729959135,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729962936,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729962962,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557730024391,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557730024446,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730029253,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730029277,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730072080,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730083082,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557730084764,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730096513,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730109519,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730111296,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730121523,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730139943,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730444139,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557730516038,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730519865,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730521606,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730558135,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730558177,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730560239,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730560281,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730562301,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730583352,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730586318,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730586349,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730588908,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730588940,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557730590721,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557730590951,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730592889,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730592911,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557730596913,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557730596951,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730598454,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730687164,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730688579,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730688600,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557730691851,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557730691901,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730692883,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730692906,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730815675,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730940779,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730984929,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557731015562,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557731122240,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557731125679,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557731146418,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557731161292,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557731235634,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557731303700,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557731316432,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557731401939,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557731530727,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557731579622,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557731640357,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557739236930,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557739238179,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557739241076,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557739242186,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557739242309,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557739244407,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557739244424,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739245505,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739245518,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739257389,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739257417,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739258641,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739258694,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557739259862,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557741113549,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557741198307,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557741199562,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557741200678,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557741200730,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557741200923,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557741201027,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557741219246,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557741219265,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557741220898,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557741220984,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557741222172,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557741222205,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557741241726,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557741242612,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557741242723,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741260700,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741260720,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741262583,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741262627,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557741263499,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557741263518,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557741503600,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557741576637,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557741579402,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557741638704,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557741671200,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557741688039,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557741691551,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557745312013,페이트/그랜드오더,com.netmarble.fgok,False,USER_INTERACTION,False
+1557745314669,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557745315773,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557745316026,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557745318556,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557745320753,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557745320823,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557745322089,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557745322123,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557745330867,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557745330901,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557745339481,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557745549628,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745549632,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745549826,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745550130,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745550231,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745573033,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745573128,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557745575039,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557745585360,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557745593651,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557745593711,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557745593785,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557746053730,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557746054120,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557746054267,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557746058349,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557746060000,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557746761692,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557748601312,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557748604378,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748608940,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748608973,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557748610272,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557748610285,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557748622168,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557748622193,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557748623779,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557748623829,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748625354,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557748628389,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748651652,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748652911,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557748654263,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748654290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748654376,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748654407,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748656194,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748656238,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748661161,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748661209,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748661308,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557748753014,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557748753110,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748753212,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748756736,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748756767,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557748759076,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557748764817,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557748767163,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557748769567,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557748769617,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748771807,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748771821,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748772469,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748772530,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557749385855,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557749424670,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557749604277,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557749616863,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557749619004,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557749773977,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557749786472,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557749806314,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557749893377,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557749959411,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557749983809,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557749996404,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557749996480,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557750001442,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557750001505,Twitch,tv.twitch.android.app,False,MOVE_TO_FOREGROUND,False
+1557750002717,Twitch,tv.twitch.android.app,False,MOVE_TO_BACKGROUND,False
+1557750002775,Twitch,tv.twitch.android.app,False,MOVE_TO_FOREGROUND,False
+1557750008873,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557750044662,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557750046655,원스토어,com.skt.skaf.A000Z00040,True,USER_INTERACTION,True
+1557750052446,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557751043127,Twitch,tv.twitch.android.app,False,MOVE_TO_BACKGROUND,False
+1557751043226,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557751043614,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751044157,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751073768,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557751076042,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751077359,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751077385,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557751080589,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557751080643,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751081673,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751081695,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557751101391,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557751760738,YouTube,com.google.android.youtube,True,USER_INTERACTION,True
+1557751762187,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557751763380,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557751765507,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557751765645,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557751765781,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557751766027,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557751766069,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557751766113,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557751767878,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557751767924,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557751772279,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557751772289,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557751773433,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557751773450,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557751775782,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557751775855,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751780325,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751780378,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_FOREGROUND,False
+1557751781411,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_BACKGROUND,False
+1557751781472,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_FOREGROUND,False
+1557751796837,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_BACKGROUND,False
+1557751796865,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_FOREGROUND,False
+1557751815187,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_BACKGROUND,False
+1557751815247,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_FOREGROUND,False
+1557751818154,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_BACKGROUND,False
+1557751818257,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_FOREGROUND,False
+1557751855996,신한 쏠(SOL),com.shinhan.sbanking,False,MOVE_TO_BACKGROUND,False
+1557751856054,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751857510,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756360895,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557756363807,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756366120,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756366158,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557756367910,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557756367932,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557756378352,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557756378379,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557756399981,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557756400023,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756401504,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756401524,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557756405231,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557756405253,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557756406653,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557756406673,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557756408491,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557756408534,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756410073,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756453720,AhnLab V3 Mobile Plus 2.0,com.ahnlab.v3mobileplus,False,USER_INTERACTION,False
+1557756455633,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756456873,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557756457274,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756457291,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557756459556,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557756459572,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557756461721,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557756461739,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557756465456,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557756465492,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756467440,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756467471,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557756475849,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557756475868,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557756479719,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557756479764,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756481588,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756733930,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756734685,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756734706,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557756746021,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557756746069,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557756746792,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557756746814,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557756747802,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557756747817,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557756750733,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557756750821,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557756756429,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557758165106,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557758167116,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557758167148,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557758167184,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557758183039,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557758183235,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557758183364,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557758184876,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557758187863,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557758187909,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557758189220,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557758189273,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557758191200,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557758191248,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557758192238,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557758192259,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557758488671,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557758494818,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557758691296,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557759389172,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557764312463,Twitch,tv.twitch.android.app,False,USER_INTERACTION,False
+1557764312464,Discord,com.discord,False,USER_INTERACTION,False
+1557764950407,Twitch,tv.twitch.android.app,False,USER_INTERACTION,False
+1557764952401,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557764954067,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557764956079,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557764958139,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557764958263,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557764958338,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557764958386,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557764960558,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557764960572,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557765029850,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557765029863,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557765031142,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557765031186,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557765055983,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557765108163,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557765108926,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557765108947,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557765477205,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557765506293,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557765569884,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557765699885,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557765701003,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557765701086,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557765702729,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557765702790,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557765707476,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557765707535,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557765709821,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557765709885,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557765709996,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557765797373,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557765797981,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557766128909,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557766129217,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557767128065,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557767128195,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557767128398,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557767132542,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557767897804,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557767899672,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557767899712,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557767899766,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557768892466,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557768892608,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557768892845,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557768896032,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557768896065,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557768896105,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557768989682,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557768989775,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557768989861,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557768990735,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557768990741,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557768992574,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557768992623,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557768994904,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557769557126,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557769559495,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557769559568,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557769559625,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557769565161,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557769565216,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557769565268,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557769566846,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557769566914,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557769566958,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557769731947,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557769732029,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557769732185,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557769776530,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557769776587,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557769776655,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557769779752,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557769779843,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557769779927,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557769783395,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557769783443,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769785038,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769785048,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769787142,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769787210,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769803413,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769803426,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769810537,AhnLab V3 Mobile Plus 2.0,com.ahnlab.v3mobileplus,False,USER_INTERACTION,False
+1557769811365,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769811413,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557769838093,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557769838188,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769929561,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769929580,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769931724,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769931740,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769934242,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769934261,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769935226,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769935239,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769971012,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769971029,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557769972941,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557769972960,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557770065132,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557770065151,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557770065673,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557770065716,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557770067740,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557770067772,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557770067839,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557770075336,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557770075420,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557770075491,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557770076770,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557770076867,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557770553553,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557770553680,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557770556094,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557770561071,원스토어,com.skt.skaf.A000Z00040,True,USER_INTERACTION,True
+1557770742079,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557770743020,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557770743043,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557770773002,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557771105162,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557771108431,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557771463918,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557772186465,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557772190179,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557772270599,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557773297199,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557773298502,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557774076570,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557774076643,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557774077740,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557774077792,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557774077927,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557774118142,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557774119952,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557774120022,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557774120132,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557774134174,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557774134236,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557774134304,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557774199249,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557774199363,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557774199452,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557774209836,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557787922105,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557787922116,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557787923027,시계,com.sec.android.app.clockpackage,True,USER_INTERACTION,True
+1557787923762,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557787929545,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557787929651,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557787929882,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557788160511,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788160514,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788161016,시계,com.sec.android.app.clockpackage,True,USER_INTERACTION,True
+1557788161385,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788168611,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788168709,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557788168840,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557788820564,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788820568,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788821253,시계,com.sec.android.app.clockpackage,True,USER_INTERACTION,True
+1557788821543,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788823783,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788823853,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557788823977,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789723017,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557789739108,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789739185,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557789739326,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557789973815,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557789986022,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557789986103,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557789986237,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557789988887,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789988947,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557789990294,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557789990306,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557789995452,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557789995466,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557789999579,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557789999591,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790053551,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790053563,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790059070,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790059087,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790070762,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790070783,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790074642,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790074653,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790113026,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790113044,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790124454,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790124467,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790193438,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790193479,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557790205117,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557790205186,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790219911,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790219944,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557790257144,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557790257291,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790350034,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790350050,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790355793,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790355858,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557790357506,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557790357522,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1557790359661,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1557790359727,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557790361545,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557790361579,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557790361682,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557790409290,원스토어,com.skt.skaf.A000Z00040,True,USER_INTERACTION,True
+1557790414582,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557790414696,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557790414859,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557790420782,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557790420840,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557790420866,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_FOREGROUND,False
+1557790611259,페이트/그랜드오더,com.netmarble.fgok,False,MOVE_TO_BACKGROUND,False
+1557790611339,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557790611458,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557790612962,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557790970470,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557790971352,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557790971377,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791026968,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791029719,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791030848,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557791031228,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791031346,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557791035135,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557791035150,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557791037190,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557791037203,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557791049496,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557791049543,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791055657,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791055713,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557791066859,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557791066871,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557791084339,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557791084355,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557791087072,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557791087135,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791097803,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791273927,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557791727929,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557791870364,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791873646,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False

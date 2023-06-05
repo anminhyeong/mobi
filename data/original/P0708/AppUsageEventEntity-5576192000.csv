@@ -1,0 +1,1678 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557621002198,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557621002201,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557621041208,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557621042667,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557621042694,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557621042702,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557621043277,LG 헬스,com.lge.lifetracker,False,USER_INTERACTION,False
+1557621046776,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557621047622,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557621047651,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557621049394,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557621049406,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557621052773,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557621052799,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557621053506,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557621053519,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557621054344,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557622202443,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622202445,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622202973,알람/시계,com.lge.clock,True,USER_INTERACTION,False
+1557622203255,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622209013,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622209079,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557622209080,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557622211474,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557622212673,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557622213174,Microsoft Band,com.microsoft.kapp,False,USER_INTERACTION,False
+1557622214252,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557622214278,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622217309,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622217326,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622221792,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622221846,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622222607,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622222623,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557622223625,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557622801804,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622801806,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622802317,알람/시계,com.lge.clock,True,USER_INTERACTION,False
+1557622802527,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557622806291,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557622806321,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557622806326,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557622808107,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557622809215,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557629895336,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557629897540,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557629899098,Android 시스템,android,True,USER_INTERACTION,False
+1557629900096,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557629901735,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557633272364,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557633273015,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557633274432,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557633278102,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557633279747,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557633282109,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557633282217,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557633282445,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557633422773,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557633423250,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557633423385,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557633423573,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557633437646,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557633437671,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557633439121,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557633439147,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557633441136,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557633441149,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557633441262,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557633586609,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557633586664,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557633586728,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557633591430,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557633593405,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557633629947,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557633631292,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557633631313,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633631664,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633631674,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633631702,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633631726,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633631863,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633632194,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633633945,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633633957,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633635003,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633635031,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633641581,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633641591,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633652103,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633652145,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633671846,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633671872,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557633678572,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557633678607,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557633680020,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634020756,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634061392,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557634064446,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557634064536,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634064738,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557634076802,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557634076895,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557634077014,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557634077771,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634180907,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557634184323,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557634184372,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634184489,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557634426392,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634428725,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557634429738,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557634437146,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634445697,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634447969,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557634448100,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557634448427,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634448614,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634448647,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634448716,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634448787,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634449322,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634449532,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634450834,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634450846,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634452042,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634452074,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634455414,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634464653,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634479017,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557634689166,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634689188,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634690226,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634690262,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634690346,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634690376,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557634691594,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557634691746,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557634692024,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557634694548,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557634694613,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557634694701,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557634696887,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634697002,캘린더,com.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557634727812,캘린더,com.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557634727832,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557634730129,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634880078,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557634912371,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557634912411,카메라,com.lge.camera,True,MOVE_TO_FOREGROUND,False
+1557635009583,카메라,com.lge.camera,True,MOVE_TO_BACKGROUND,False
+1557635009929,Android 시스템,android,True,MOVE_TO_FOREGROUND,False
+1557635011280,Android 시스템,android,True,MOVE_TO_BACKGROUND,False
+1557635011323,카메라,com.lge.camera,True,MOVE_TO_FOREGROUND,False
+1557635012818,카메라,com.lge.camera,True,MOVE_TO_BACKGROUND,False
+1557635013266,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557635014106,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557635014214,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557635016813,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557635016909,동영상,com.lge.videoplayer,True,MOVE_TO_FOREGROUND,False
+1557635017402,동영상,com.lge.videoplayer,True,MOVE_TO_BACKGROUND,False
+1557635017468,동영상,com.lge.videoplayer,True,MOVE_TO_FOREGROUND,False
+1557635025854,동영상,com.lge.videoplayer,True,MOVE_TO_BACKGROUND,False
+1557635026052,동영상,com.lge.videoplayer,True,MOVE_TO_FOREGROUND,False
+1557635027838,동영상,com.lge.videoplayer,True,MOVE_TO_BACKGROUND,False
+1557635027943,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557635040008,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557635040029,동영상,com.lge.videoplayer,True,MOVE_TO_FOREGROUND,False
+1557635047900,동영상,com.lge.videoplayer,True,MOVE_TO_BACKGROUND,False
+1557635048075,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557635049687,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557635049701,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557635050538,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557635235484,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557635291899,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557635293233,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557635293265,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557635373658,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557635373704,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557635536606,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557635536641,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557635536754,원터치알림,com.wr.alrim,False,USER_INTERACTION,False
+1557635709967,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557635975165,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557636906253,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557636906896,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557636907803,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557636907834,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557636908305,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557636908416,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557636908570,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557636910159,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557636911408,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557637635633,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557637635744,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557637635965,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557637637048,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557637637113,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557637656746,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557637656760,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557637658139,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557637658158,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637658689,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637658700,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637658721,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637658744,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637659014,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637659365,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557637659522,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637659876,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557637662839,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637662858,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637668039,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637668073,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637669329,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637669340,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637670850,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637670865,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637682226,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637682234,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637683049,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637683060,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557637683782,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557637683808,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557637685500,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557637685563,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557637685748,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557637877503,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557637877599,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557637877677,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557637878606,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557637878664,카메라,com.lge.camera,True,MOVE_TO_FOREGROUND,False
+1557637896742,카메라,com.lge.camera,True,MOVE_TO_BACKGROUND,False
+1557637897211,Android 시스템,android,True,MOVE_TO_FOREGROUND,False
+1557637898479,Android 시스템,android,True,MOVE_TO_BACKGROUND,False
+1557637898589,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557637900874,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557637900946,동영상,com.lge.videoplayer,True,MOVE_TO_FOREGROUND,False
+1557637909843,동영상,com.lge.videoplayer,True,MOVE_TO_BACKGROUND,False
+1557637910033,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557637910942,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557637910960,카메라,com.lge.camera,True,MOVE_TO_FOREGROUND,False
+1557637911902,카메라,com.lge.camera,True,MOVE_TO_BACKGROUND,False
+1557637912420,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557637914038,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557637915178,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638291341,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638293826,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638294013,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557638294437,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557638294575,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557638294803,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557638294812,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557638296165,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557638296295,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557638296624,Facebook,com.facebook.katana,False,USER_INTERACTION,False
+1557638304412,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557638304443,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557638305855,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557638305864,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638307709,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638307780,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557638310437,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557638310465,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557638312095,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557638312116,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557638313350,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557638313360,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638315541,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638315570,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557638316181,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557638439071,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557638439238,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638439607,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638439685,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638446083,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638446113,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638446248,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638446259,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638446323,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638446334,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638446373,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638446385,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638447272,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638447308,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638447518,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638447554,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638478087,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638478343,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638548238,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638548496,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638561000,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638561045,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638561238,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638561290,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638562304,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638562364,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638564479,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638564510,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638625300,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638625464,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638634606,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638634684,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638638899,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638639035,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638639319,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638639365,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638642238,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638642312,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638642413,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638642444,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638689027,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638689189,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638698118,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638698147,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638751331,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638751475,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638764461,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638764487,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638816211,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638816314,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638825531,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638825558,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638875644,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638875793,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638885516,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638885549,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638886496,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638886609,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638886788,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638886843,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557638889687,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557638889749,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638889802,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638889854,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638955224,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638955369,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638963889,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638963927,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_FOREGROUND,False
+1557638966554,Tower Color,com.nbstudio.towercolor,False,MOVE_TO_BACKGROUND,False
+1557638966575,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638967890,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638967908,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557638969311,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557638969321,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638971449,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638971513,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638972506,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638972545,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638973398,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557638973890,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557638974224,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638974284,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557638987716,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557638987764,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557638989841,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557638989876,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557638991860,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557638991978,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557638994097,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557638994104,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557638994932,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557638994952,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557638997097,Android 시스템,android,True,USER_INTERACTION,False
+1557638997098,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557638997814,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557638997996,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557638998127,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557639000520,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557639000675,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557639001190,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557639002660,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557639002721,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557639002908,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639005216,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639005242,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639009790,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639009845,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639025223,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639025263,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639028933,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639028953,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639034394,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639034429,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639057507,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639057523,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639057772,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639057791,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557639058490,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557639058519,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557639058651,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557639059540,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557639059619,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557639059750,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557639378636,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557639378751,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557639378839,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557639379805,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557639802858,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557639805309,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557639808540,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557639808640,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639820341,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639820385,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639825195,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639825264,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639827186,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639827225,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639875894,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639875972,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639878153,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639878194,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639878604,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639878698,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557639882005,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557639882025,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557639882724,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557639882741,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557640080121,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557640080257,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557640082577,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557640082710,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557640082939,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557640092849,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557640161716,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557640161826,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557640161961,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557640164204,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557640164262,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557640168089,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557640168168,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557640169672,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557640169716,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557640224716,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557640224757,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557640226307,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557640226328,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557640230189,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557640230216,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557640231354,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557640231525,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557640231814,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557640244280,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557640280516,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557640280749,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557640280922,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557640281855,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557640282054,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557640282100,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640282358,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640282417,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640282504,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640282582,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640283191,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640283393,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640284996,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640285026,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640290285,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640290310,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640374731,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640374756,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640377855,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640377887,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640377957,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640378032,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557640380571,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557640380606,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557640381513,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557641014248,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557641018114,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557641019435,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557641019479,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641019807,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641019825,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641019874,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641019905,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641020055,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641020345,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641022350,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641022365,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641024003,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641028207,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641029609,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641029641,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641042462,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641042471,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641050374,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641050407,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641052055,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641052065,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641052665,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557641052953,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641052982,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641054107,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641054127,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641062609,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641062639,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641094495,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641180803,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641481981,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641482009,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641523764,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557641524315,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641524358,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557641540185,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557641540224,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557641541338,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557641541355,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557641543647,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557641543667,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641543757,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641543877,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557641544702,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641544820,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557641544979,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557641546300,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641546431,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557641546491,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557641549009,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557641550919,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557641550963,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557641551070,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557641844328,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557641849028,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557641854180,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557642815401,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557642815516,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557642815790,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557642818019,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557642818122,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557642818450,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557642818647,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557642820199,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557642820404,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557643463515,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557643463567,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557643465285,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557643466300,Android 시스템,android,True,USER_INTERACTION,False
+1557643467140,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557643467275,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643468242,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643468317,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643468518,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643468885,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643470921,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643471147,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643473014,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643473037,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643473950,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643473975,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643474031,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643474058,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557643475338,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557643475366,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557643476176,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557644000294,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557644001653,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557644008527,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557644008575,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557644024465,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557644024526,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557644025963,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557644026053,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644026531,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644026543,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644026575,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644026598,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644026748,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644027115,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644029485,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644029506,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644035135,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644035179,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644065303,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644065323,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644067527,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644067566,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644091345,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644091366,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644095107,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644095135,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644114494,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644114520,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557644117205,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557644117240,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557644118109,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557644118703,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557644118734,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557644131103,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557644131137,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557644132786,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557644132799,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557644134539,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557644134567,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557644135964,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557644425657,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557644426687,Android 시스템,android,True,USER_INTERACTION,False
+1557646625313,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557646626122,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557646627396,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557646627628,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557646627697,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557646652125,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557646652160,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557646653246,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557646653262,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557646655136,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557646655156,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557646656268,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557646656720,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557646656743,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646656814,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646656837,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646656872,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646656904,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646657255,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646657644,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646658994,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646659002,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646711635,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646711671,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646711723,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646711791,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646716276,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646716305,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646739106,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646739123,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646744568,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646744608,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646785370,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646785384,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557646791575,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557646791604,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557646792438,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557646803258,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557646803295,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557646816748,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557647306232,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557647307743,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557647307915,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557647308155,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557647313800,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557647316465,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557647343918,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557647346554,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557647503360,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557647513856,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557647543485,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557647805228,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557647806179,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557647863422,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557647863576,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557647863828,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557651625673,원스토어,com.skt.skaf.A000Z00040,True,USER_INTERACTION,True
+1557651626256,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557651626534,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557651628490,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557651629969,Android 시스템,android,True,USER_INTERACTION,False
+1557651631493,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557651633250,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557651860804,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557652129950,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557652183118,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652183904,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652383066,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557652383630,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652383824,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557652384078,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557652397463,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557652397503,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557652399144,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557652399170,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557652410217,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557652410223,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652410304,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557652616351,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557652619364,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652619448,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557652619557,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557652652860,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652652962,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557652653083,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557652717515,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557652717578,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557652717656,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557652718542,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557653170957,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557653172243,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557653172293,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557653175590,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557653175830,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557653179604,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557653179615,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557653181128,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557653181164,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557653183878,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557653183904,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557653783591,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557654397162,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557654461278,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557654479068,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557654479099,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557654479950,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557654479966,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557654489935,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557654489946,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557654491336,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557654491537,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557654491952,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557654492104,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557654492347,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557654492361,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557654493491,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557654493516,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557654498786,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557654498796,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557654499886,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557654499895,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557654500529,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557654500565,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557654502475,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557654502506,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557654504062,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557654504072,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557654505515,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557654505538,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557654677902,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557654677912,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557654678722,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557654680021,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557654680308,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557654680900,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557654680901,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557655087645,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557655104697,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557655109962,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557655109997,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557655131031,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557655131076,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557655132336,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557655132347,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557655137634,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557655137655,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557655138943,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557655564239,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557655565368,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557655566758,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557655574030,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557655576091,Android 시스템,android,True,USER_INTERACTION,False
+1557655578928,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557655578988,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655579293,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655579305,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655579328,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655579352,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655579501,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655579804,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655581476,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655581509,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655583236,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655583260,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655588983,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655588998,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655640455,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655640473,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655657182,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655657191,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557655657870,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557655657897,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557655664663,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557655664738,Piazza,com.piazza.android,False,MOVE_TO_FOREGROUND,False
+1557655666408,Piazza,com.piazza.android,False,MOVE_TO_BACKGROUND,False
+1557655666478,Piazza,com.piazza.android,False,MOVE_TO_FOREGROUND,False
+1557655667687,Piazza,com.piazza.android,False,MOVE_TO_BACKGROUND,False
+1557655667705,Piazza,com.piazza.android,False,MOVE_TO_FOREGROUND,False
+1557655688743,Piazza,com.piazza.android,False,MOVE_TO_BACKGROUND,False
+1557655688756,Piazza,com.piazza.android,False,MOVE_TO_FOREGROUND,False
+1557655692770,Piazza,com.piazza.android,False,MOVE_TO_BACKGROUND,False
+1557655692796,Piazza,com.piazza.android,False,MOVE_TO_FOREGROUND,False
+1557655701024,Piazza,com.piazza.android,False,MOVE_TO_BACKGROUND,False
+1557655701034,Piazza,com.piazza.android,False,MOVE_TO_FOREGROUND,False
+1557655701168,Piazza,com.piazza.android,False,MOVE_TO_BACKGROUND,False
+1557655701184,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557655702282,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557656744628,Android 시스템,android,True,USER_INTERACTION,False
+1557656972154,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557656975229,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557656975257,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557657071933,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557657072012,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557657078019,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557657078054,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557657114785,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557657114815,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657118650,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557657118730,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657119122,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557657152363,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557657152468,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557657152596,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657154393,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657154560,캘린더,com.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557657159385,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557657176845,캘린더,com.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557657176879,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657184430,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557657184499,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657184616,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557657205280,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557657205359,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557657205480,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657207416,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657224241,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657226764,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657226795,날씨,com.lge.sizechangable.weather,False,MOVE_TO_FOREGROUND,False
+1557657245362,날씨,com.lge.sizechangable.weather,False,MOVE_TO_BACKGROUND,False
+1557657245451,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657246349,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657308885,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557657308892,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557657309300,원터치알림,com.wr.alrim,False,USER_INTERACTION,False
+1557657897662,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557657897943,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557657899211,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557657899257,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657900922,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557657901236,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557657901275,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557657921255,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557657921285,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557657924423,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557657924457,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557657926188,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557657926207,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557657930720,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557658715046,LG 헬스,com.lge.lifetracker,False,USER_INTERACTION,False
+1557658715440,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557658719018,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557658723197,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557658723223,LG 헬스,com.lge.lifetracker,False,MOVE_TO_FOREGROUND,False
+1557658730320,LG 헬스,com.lge.lifetracker,False,MOVE_TO_BACKGROUND,False
+1557658730338,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557658731646,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557658905089,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557658906273,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557658906316,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557658932175,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557658949437,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557658959007,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557658959020,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557658959813,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557658959885,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557658960228,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557659042559,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557659042753,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557659042971,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557659044072,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557659044264,Q메모+,com.lge.qmemoplus,False,MOVE_TO_FOREGROUND,False
+1557659045859,Q메모+,com.lge.qmemoplus,False,MOVE_TO_BACKGROUND,False
+1557659045874,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557659046733,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557660186901,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557660188509,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557660188946,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557660188980,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557660198324,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557660198367,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557660199333,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557660199345,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557660201627,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557660201639,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557660201890,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557660201910,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557660202789,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557661190810,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557661192291,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557661192626,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557661192742,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557661193042,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557661259073,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557661259188,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557661259262,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557661269012,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557661269043,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557662514869,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557662810441,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557663012833,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557663267413,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557663268759,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557663269919,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557663269990,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557663282740,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557663282782,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557663284131,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557663284143,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557663285812,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557663285826,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557663286179,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557663286228,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557663287737,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557665824705,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557665825530,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557665825880,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557665826677,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557665827465,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557665827569,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557665840515,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557665840544,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557665841913,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557665841932,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557665843435,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557665843473,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557665845125,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557665845141,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557665845327,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557665845339,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557665845535,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557665845555,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557665896837,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557665902541,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557666137960,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557666141993,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557666142113,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666142311,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666142390,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666142461,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666142535,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666143003,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666143224,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666145925,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666145949,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666148558,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666148585,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666148625,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666148698,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557666150320,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557666150345,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557666150939,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557667486457,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557667487757,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557667489411,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557667490418,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557667490474,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667490544,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667490586,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667490645,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667490696,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667491029,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667491264,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667492978,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667492999,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667494546,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667494578,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667494634,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667494706,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667495802,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667495828,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667503332,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667503349,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557667504253,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557667504282,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557667506001,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557667618647,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557667621674,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557667621720,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557667640341,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557667641208,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557667649227,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557667649298,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557667649450,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557667649511,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557667715463,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557667715486,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557667737180,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557667737222,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557667738366,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557668434119,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557668436921,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557668446208,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557668446248,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557668446600,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557668446612,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557668446635,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557668446655,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557668446821,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557668447138,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557668448946,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557668448967,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557668456494,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557668456540,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557668458784,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557668468709,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557668477481,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557668477583,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557668477945,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557668481157,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557668481213,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557668481434,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557668482263,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557668482344,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557668482420,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557668490357,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557668490396,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557668490481,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557668491976,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557668492004,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557668512486,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557668512549,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557668520902,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557668520954,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557668597264,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557668597307,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557668598730,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557669251736,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557669273622,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557669274907,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557669287597,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557669292332,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557669292455,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557669292713,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557669307720,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557669310846,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557669901028,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557669904554,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557669910196,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557669910278,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557669910433,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557669911982,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557669957145,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557669964378,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557669965521,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557669965577,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557669965819,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557669973431,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557669974414,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557669974491,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557669974627,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557669975507,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670501111,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557670502151,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557670504577,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670504605,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670504831,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670504889,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670504972,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670505068,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670505666,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670505989,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670507850,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670507874,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670514367,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670514396,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670514443,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670514511,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670515935,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670515974,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557670516664,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557670516779,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670516895,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557670518148,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557670518230,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557670518375,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557670519896,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670519924,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1557670603873,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1557670603934,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557670604727,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557670605839,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670605897,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670606354,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670606370,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670606396,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670606415,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670606569,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670606863,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670609057,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670609068,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670609899,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670609930,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670615513,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670615537,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670616568,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670616596,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670618942,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670618966,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670620321,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670620364,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670622115,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670622127,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670624219,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670624238,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670627808,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670627823,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670628812,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670628825,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670628897,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670628914,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557670629567,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557670629608,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557670637046,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670637127,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557670737226,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557670737355,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557670746890,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557670746971,Instagram,com.instagram.android,False,MOVE_TO_FOREGROUND,False
+1557670770074,Instagram,com.instagram.android,False,MOVE_TO_BACKGROUND,False
+1557670770103,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557670772871,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557670773115,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557670773582,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670776095,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557670776612,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670776629,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670787416,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670787438,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670788776,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670788798,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670931205,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670931232,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670933952,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670933970,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670935060,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670935079,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670935682,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670935692,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670947184,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670947203,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557670948324,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557670948345,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672045800,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672872036,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672876521,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672876540,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672877135,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672877149,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672879541,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672879566,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672880632,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672880651,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672922596,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672922648,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672924459,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672924473,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672927173,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672927191,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672928370,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672928396,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672941455,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672941473,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672941918,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672941933,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672944891,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672944913,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557672945937,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557672945956,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673320990,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673321008,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673321446,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673321457,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673329262,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673329289,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673330276,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673330301,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673446582,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673446625,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673447411,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673447437,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673489677,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673489700,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673497248,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673497267,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673573580,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673573615,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673577797,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673577812,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673578276,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673578288,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673578705,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673578719,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673580748,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673580772,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673582617,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673582645,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673693512,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673693535,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673696495,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673696510,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673696922,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673696938,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673697370,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673697382,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673698318,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673698328,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673699230,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673699252,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673920993,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673921008,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673921513,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673921541,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673927992,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673928018,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673929793,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557673929813,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557673968993,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674036631,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674038160,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674055133,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674055168,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674057485,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674057500,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674057926,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674057940,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674058335,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674058344,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674065017,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674065044,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674067527,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674067540,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557674067956,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557674068010,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557674068321,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674071090,Android 시스템,android,True,USER_INTERACTION,False
+1557674110596,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557674110673,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674110806,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557674116565,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557674116617,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557674116742,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674117682,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674231808,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674233118,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674233119,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674236338,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557674243065,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674245147,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674245185,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674245361,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674245391,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674245443,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674245520,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674245987,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674246206,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674247899,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674247926,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674265010,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674265048,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674265102,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674265182,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674266697,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674266845,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674275021,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674275047,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674275874,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674275907,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674276709,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674278032,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674278051,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674278091,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674278454,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674279854,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674280116,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674288274,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674290177,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674291709,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674291747,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674291775,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674291820,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674291854,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674291880,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674292069,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674292390,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674293894,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674293918,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674318992,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674319015,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674319067,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674319178,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674322895,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674325671,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674329608,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674329634,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674331884,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674331897,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674332908,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674332935,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674333690,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674335522,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674335557,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674335776,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674335787,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674335809,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674335826,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674335911,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674336095,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674337785,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674337806,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674338726,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674338754,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674385818,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674385833,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557674386021,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557674386045,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557674389324,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557674589953,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674590470,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557674600668,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557675148416,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557675150449,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557675150512,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675154789,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675154834,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675155152,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675155192,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557675155389,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557675155472,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675157008,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675157026,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675158702,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675158785,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675159028,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675159084,통화 관리,com.android.server.telecom,True,MOVE_TO_FOREGROUND,False
+1557675159179,통화 관리,com.android.server.telecom,True,MOVE_TO_BACKGROUND,False
+1557675159311,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675161098,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675161349,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557675419041,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557675472246,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557675472271,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557675473275,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557675473388,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557675473739,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557675762265,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557675762402,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557675762598,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557675764453,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557675764593,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557675764809,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557675990431,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557675990582,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557675990741,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557675994508,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557675994564,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557675995168,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557675995351,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557675995584,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557675995608,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557675996927,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557675997024,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557676003083,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557676003117,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557676004444,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557676004473,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676005931,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676005959,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557676008193,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557676008226,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557676009294,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557676009309,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557676010354,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557676010439,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676010815,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676010885,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557676011415,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557676011486,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676012376,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557676012492,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676012624,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557676168523,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557676168590,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557676168788,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676170176,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676170221,카메라,com.lge.camera,True,MOVE_TO_FOREGROUND,False
+1557676195024,카메라,com.lge.camera,True,MOVE_TO_BACKGROUND,False
+1557676195500,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676197703,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557676198197,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557676199725,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557676200547,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557676200662,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676200867,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557676302624,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557676302858,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557676303181,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676304625,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557676309939,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676310003,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676310237,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676310289,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676310370,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676310460,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676312005,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676312515,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676314715,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676314735,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676321176,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676321203,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676321264,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676321349,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557676322989,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557676323083,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557676323855,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557676327555,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557676337502,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557676859278,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677031291,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677042068,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677232744,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677243528,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677250481,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677261246,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677273598,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677284154,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677293862,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677304579,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677310377,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677316569,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557677317696,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557677318656,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557677318698,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677318771,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677318801,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677318844,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677318881,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677319184,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677319400,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677320826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677320852,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677344628,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677344661,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677344712,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677344786,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677346795,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677346820,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677347753,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677347763,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557677348241,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557677348268,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557677349019,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557678433328,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557679067150,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557679071503,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557679074605,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557679076887,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557679076924,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557679077337,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557679178277,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557679178382,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557679178478,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557679179277,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557679461318,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557679465810,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557679753429,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557679754972,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557679755248,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557679755891,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557679757716,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557679757744,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679757835,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679757870,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679757913,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679757991,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679758331,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679758550,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679760108,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679760127,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679763782,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679763810,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679763856,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679763920,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679765422,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679765457,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679766379,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679766399,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679767132,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679767151,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679781644,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679781659,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679790425,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679790478,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679930100,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679930125,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557679932449,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557679932530,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557680064176,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557680064202,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557680066464,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557680066510,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680067735,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680318646,Bluetooth,com.lge.bluetoothsetting,True,USER_INTERACTION,False
+1557680319870,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680330240,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680330262,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557680338399,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557680338516,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557680338788,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557680338806,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557680339273,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557680339306,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557680339501,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557680339557,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557680357314,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557680357361,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680366180,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680366287,Google 팟캐스트,com.google.android.apps.podcasts,False,MOVE_TO_FOREGROUND,False
+1557680366391,Google 팟캐스트,com.google.android.apps.podcasts,False,MOVE_TO_BACKGROUND,False
+1557680366442,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557680367188,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557680367204,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557680477682,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557680477708,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680478982,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680479004,Google 팟캐스트,com.google.android.apps.podcasts,False,MOVE_TO_FOREGROUND,False
+1557680479051,Google 팟캐스트,com.google.android.apps.podcasts,False,MOVE_TO_BACKGROUND,False
+1557680479079,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557680479263,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557680479273,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557680480099,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557680480596,Android 시스템,android,True,USER_INTERACTION,False
+1557680481147,Google Play 스토어,com.android.vending,True,USER_INTERACTION,True
+1557680482155,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557680592107,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557680596640,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557680597173,Bluetooth,com.lge.bluetoothsetting,True,USER_INTERACTION,False
+1557680605057,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557680605083,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680607338,Android 시스템,android,True,USER_INTERACTION,False
+1557680619395,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680853078,Bluetooth,com.lge.bluetoothsetting,True,USER_INTERACTION,False
+1557680854351,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680857351,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680857469,Melon,com.iloen.melon,False,MOVE_TO_FOREGROUND,False
+1557680862240,음악,com.lge.music,True,USER_INTERACTION,False
+1557680959670,Melon,com.iloen.melon,False,MOVE_TO_BACKGROUND,False
+1557680959782,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680961820,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557680962317,Android 시스템,android,True,USER_INTERACTION,False
+1557680962816,Melon,com.iloen.melon,False,USER_INTERACTION,False
+1557680963335,Melon,com.iloen.melon,False,USER_INTERACTION,False
+1557680968235,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680968363,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557680970692,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557680970743,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557680975753,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557680975782,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557680978153,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557680978173,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557680980794,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557680980870,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557680987018,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557680987391,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557680994930,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557680995350,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557680998694,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557681002686,음악,com.lge.music,True,USER_INTERACTION,False
+1557681239402,음악,com.lge.music,True,USER_INTERACTION,False
+1557681536021,음악,com.lge.music,True,USER_INTERACTION,False
+1557681540207,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557681542468,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557681542493,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557681559353,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557681559382,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557681560244,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557681665606,음악,com.lge.music,True,USER_INTERACTION,False
+1557681667958,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557681814785,음악,com.lge.music,True,USER_INTERACTION,False
+1557681875344,음악,com.lge.music,True,USER_INTERACTION,False
+1557681927602,음악,com.lge.music,True,USER_INTERACTION,False
+1557681929707,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557681931649,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557681931674,음악,com.lge.music,True,MOVE_TO_FOREGROUND,False
+1557681932332,음악,com.lge.music,True,MOVE_TO_BACKGROUND,False
+1557681932355,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557681934436,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557681934465,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681934861,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681934871,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681934894,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681934912,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681935071,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681935381,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681935450,음악,com.lge.music,True,USER_INTERACTION,False
+1557681937853,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681937875,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681944252,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681944279,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681960149,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681960165,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557681960440,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557681960467,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557681963170,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557681963289,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557681963676,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557681967051,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557681967068,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557681988335,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557681988363,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557681989039,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557681989091,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_FOREGROUND,False
+1557681989511,네이버 웹툰,com.nhn.android.webtoon,False,MOVE_TO_BACKGROUND,False
+1557681989533,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557681989650,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557681991685,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557682293531,음악,com.lge.music,True,USER_INTERACTION,False
+1557682438126,음악,com.lge.music,True,USER_INTERACTION,False
+1557682440430,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557682441651,음악,com.lge.music,True,USER_INTERACTION,False
+1557682442152,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1557682443805,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557682443940,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557682444219,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557682446087,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557682449640,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557682449770,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557682449808,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557682449936,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682450285,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682450356,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682450477,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682450578,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682451258,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682451476,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682454696,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682454718,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682460135,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682460156,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682460234,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682460279,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557682461908,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557682461928,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557682462109,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557682484082,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557682546786,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557682546902,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557682547124,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557682549264,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557682749730,음악,com.lge.music,True,USER_INTERACTION,False
+1557682914073,음악,com.lge.music,True,USER_INTERACTION,False
+1557682952320,음악,com.lge.music,True,USER_INTERACTION,False
+1557682956174,음악,com.lge.music,True,USER_INTERACTION,False
+1557682957205,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557682959921,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557682960774,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557682960874,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557682961238,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557683035630,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1557683035759,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557683035892,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557683036968,음악,com.lge.music,True,USER_INTERACTION,False
+1557683038660,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557683330026,음악,com.lge.music,True,USER_INTERACTION,False
+1557683425036,음악,com.lge.music,True,USER_INTERACTION,False
+1557683563624,음악,com.lge.music,True,USER_INTERACTION,False
+1557684126992,음악,com.lge.music,True,USER_INTERACTION,False
+1557684128887,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557684129620,음악,com.lge.music,True,USER_INTERACTION,False
+1557684130121,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557684131169,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557684131214,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557684135589,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557684135803,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557684138352,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557684138378,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557684143856,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557684143883,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1557684144595,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1557684144610,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557684184548,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557684184586,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1557684186439,Chrome,com.android.chrome,True,USER_INTERACTION,True
+1557684188547,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1557684319726,음악,com.lge.music,True,USER_INTERACTION,False
+1557684729191,음악,com.lge.music,True,USER_INTERACTION,False
+1557685123322,음악,com.lge.music,True,USER_INTERACTION,False
+1557687037774,음악,com.lge.music,True,USER_INTERACTION,False
+1557688258106,음악,com.lge.music,True,USER_INTERACTION,False
+1557688264914,음악,com.lge.music,True,USER_INTERACTION,False
+1557688266488,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False

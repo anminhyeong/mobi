@@ -1,0 +1,1569 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557115537415,Walkr,com.fourdesire.spacewalk,False,USER_INTERACTION,False
+1557115538097,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1557125485049,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557125490691,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557125491955,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557125493060,디바이스 관리,com.samsung.android.lool,True,USER_INTERACTION,True
+1557125495053,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557125499817,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557125499840,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557125507953,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557125507969,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557125516383,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557125516456,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557125516958,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557125517003,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557125569786,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557125569844,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557125576209,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557125576263,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,False
+1557125577192,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,False
+1557125577212,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,False
+1557125583717,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,False
+1557125583844,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,False
+1557125608557,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,False
+1557125608623,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557125610180,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557125612595,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557125615173,Walkr,com.fourdesire.spacewalk,False,USER_INTERACTION,False
+1557125618566,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557125618596,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557125632481,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557125632506,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557125633738,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557125633745,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557125635433,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557125635472,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557125637867,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557125637915,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557125638859,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557125638918,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557125638986,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557125639010,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557125653944,마이리틀셰프,com.grampus.cookingadventureforkakao,False,USER_INTERACTION,False
+1557125655673,블루라이트 차단 스크린 필터,jp.ne.hardyinfinity.bluelightfilter.free,False,USER_INTERACTION,False
+1557125657198,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557125658518,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557125658554,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125658715,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125658785,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125658901,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125659029,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125659216,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125659600,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125661131,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125661163,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125663539,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125663554,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125665107,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125665171,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125665261,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125665312,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125669268,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125669279,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125669909,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125669917,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125671025,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125671041,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125672177,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125672195,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125677158,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125677175,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125678504,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125678528,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125679899,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125679915,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125680685,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125680696,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125681912,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125681928,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125683515,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125683543,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125684331,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125684347,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125709084,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125902990,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557125910994,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125911033,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125911094,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125912377,블루라이트 차단 스크린 필터,jp.ne.hardyinfinity.bluelightfilter.free,False,USER_INTERACTION,False
+1557125915162,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125915192,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125916353,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125916380,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557125917535,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557125917593,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557125918660,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557125921772,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557125921790,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557126050825,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557126051216,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557126051918,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557126051971,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557126052279,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557126052470,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557126053207,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557126053343,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557126057365,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557126057401,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557126070148,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557126070358,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557126097528,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557126097669,프레젠테이션,com.google.android.apps.docs.editors.slides,False,MOVE_TO_FOREGROUND,False
+1557126102890,프레젠테이션,com.google.android.apps.docs.editors.slides,False,MOVE_TO_BACKGROUND,False
+1557126103001,프레젠테이션,com.google.android.apps.docs.editors.slides,False,MOVE_TO_FOREGROUND,False
+1557126138246,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557126139572,프레젠테이션,com.google.android.apps.docs.editors.slides,False,MOVE_TO_BACKGROUND,False
+1557126139630,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557126142576,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557126159176,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557126163207,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557126167222,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557126167274,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126168256,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126168336,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126168393,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126168432,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126173816,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126173836,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126175575,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126175601,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126194729,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126194744,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126199901,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126199930,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126225758,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126225779,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126235938,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126235970,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126241011,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126241029,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126244804,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126244835,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126274045,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126274068,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126275344,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126275372,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126278203,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126278230,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126279409,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126279437,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126337010,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126337036,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126350644,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126350670,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126362368,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126362385,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126364314,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126364362,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126369734,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126369767,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126376433,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126376457,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126378560,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126378576,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126381018,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126381048,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126389612,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126389675,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557126391918,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557126391969,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557126393257,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557126393267,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557126401941,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557126401965,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557126408972,블루라이트 차단 스크린 필터,jp.ne.hardyinfinity.bluelightfilter.free,False,USER_INTERACTION,False
+1557126561094,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557126561153,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557126563554,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557126563565,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126603632,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126603649,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126611162,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126611180,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126617236,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126617257,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126617809,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126617818,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126619732,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126619761,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126624889,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126624918,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126627745,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126627768,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126633726,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126633755,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126662827,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126662849,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126667775,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126667805,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126677275,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126677304,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126700425,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126700449,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126701462,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126701484,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126704977,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126705006,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126707807,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126707833,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126731969,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126731988,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126735088,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126735110,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126738606,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126738635,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126745595,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126745616,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126748749,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126748772,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126750507,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126750547,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126758600,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126758628,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126769707,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126769736,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126774385,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126774417,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126785817,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126785836,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126787386,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126787419,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126790975,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126790998,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126792795,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126792824,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126793331,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126793351,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126794423,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126794453,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126796318,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126796335,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126800080,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126800134,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126829760,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126829784,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126837278,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126837308,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126847547,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126847570,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126870226,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126870253,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126872840,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126872858,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126890009,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126890028,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126891846,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126891909,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126892878,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126892888,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126896250,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126896268,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126898317,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126898346,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126899514,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126899534,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126900567,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126900598,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126913020,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126913047,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126914336,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126914367,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126923898,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126923920,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126936141,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126936171,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126970777,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126970808,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126971852,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126971881,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126993782,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126993807,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126994793,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126994822,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557126997808,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557126997831,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127011213,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127011264,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557127012406,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557127012426,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557127024343,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557127024393,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557127024883,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557127024890,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557127025955,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557127025999,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127028642,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127028671,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127032297,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557127039005,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127039021,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127042682,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127042707,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127056626,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127056681,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557127058549,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557127058560,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127059145,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127059153,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127059168,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127059184,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127059342,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127059791,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127061073,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127061095,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127062778,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127062796,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127066947,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127066959,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127070274,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127070295,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127071625,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127071657,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557127075057,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557127075095,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557127081363,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557127081407,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557127084922,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557127084953,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557127085800,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557127085827,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127088428,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127088446,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127102011,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127102074,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557127102874,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557127102901,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557127104358,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557127104378,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557127128323,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557127128370,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127130412,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127130422,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127130952,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127130977,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127133156,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127133188,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127134441,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127134451,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127136218,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127136243,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127138537,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127138559,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127142380,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127142401,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127144386,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127144407,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127145228,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127145250,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127146411,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127146421,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127152297,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127152316,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127153877,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127153904,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127154961,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127154984,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127157538,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127157563,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127268027,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127268049,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127269962,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127269982,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127272692,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127272719,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127368859,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127368879,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127378850,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127378868,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127381320,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127381349,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127382025,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557127482114,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127482187,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127575269,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127575291,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127578849,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127578866,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127583188,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127583207,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127590805,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127590830,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127592802,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127592829,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127692082,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127692109,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127785348,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127785385,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127794570,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127794597,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127797866,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127797894,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557127909947,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557127909975,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128025181,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128025203,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128027643,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128027668,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128030210,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128030239,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128036221,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557128140842,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128140868,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128167665,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128167696,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128173757,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557128176018,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557128180426,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128180445,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128278184,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128278224,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128392406,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128392450,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128392926,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557128395610,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557128397556,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128397604,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557128400368,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557128400378,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557128404086,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557128404095,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557128405232,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557128405250,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557128408743,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557128408774,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557128409451,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557128409471,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128444132,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128444190,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557128445691,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557128445704,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557128445944,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557128445951,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557128445967,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557128445983,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557128446110,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557128446544,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557128447709,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557128447738,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557128448878,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557128448895,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557128472278,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557128472312,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557128473167,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557128473186,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128474413,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128474437,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557128476728,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557128476768,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128561650,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128561679,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128647356,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128647382,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128650180,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128650230,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128651196,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128651218,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128655190,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128655237,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128657002,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128657022,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128759385,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128759408,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128770365,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128770392,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128773113,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128773138,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128861510,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128861536,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128975179,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128975206,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128978930,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557128978931,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557128981420,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128981485,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557128984138,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557128984145,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557128986130,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557128986176,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128987818,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128987857,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557128998192,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557128998206,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129000913,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129000935,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129006118,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129006139,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129124548,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129124577,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129215618,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129215650,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129220526,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557129288375,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129288405,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129391400,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129391443,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129465053,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129465122,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129579672,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129579753,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129687077,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129687108,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129719711,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129719735,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129725219,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129725261,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129732308,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129732344,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129733771,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129733791,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129810265,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129810293,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557129934075,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557129934106,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130061073,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130061109,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130087297,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130087338,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130099909,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130099929,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130106778,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130106819,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130114767,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130114806,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557130116143,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557130116170,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557130117347,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557130121071,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557130121114,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557130121246,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557130121312,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557130121443,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557130121450,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557130124561,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557130124610,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557130126872,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557130126913,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557130128206,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557130128216,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557130128587,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557130128724,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557130128987,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557130129040,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557130135232,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557130135256,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557130135272,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557130135308,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1557130137556,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1557130137587,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557130139239,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557130139261,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557130141949,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557130141995,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130142983,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130143037,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130143094,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130143119,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130146977,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130147003,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130148802,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130148839,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130159201,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130159233,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130160804,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130160835,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130188690,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130188706,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130192688,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130192706,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130193755,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130193762,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130201028,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130201058,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130212270,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130212290,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130219281,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130219306,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130220281,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130220300,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130221808,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130221857,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130226638,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130226655,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130236039,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130236069,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130243346,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130243361,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130269250,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130269286,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130296570,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130296593,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130305549,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130305581,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130318378,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130318399,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130322065,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130322100,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130357416,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557130357858,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130357887,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130358815,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130358840,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130363175,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130363196,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130365508,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130365537,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130376104,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130376125,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130389394,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130389426,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130411174,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130411198,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130413141,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130413162,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130415200,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130415223,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130417110,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130417148,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130433899,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130433924,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130435806,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130435828,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130440734,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130440754,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130447075,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130447099,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130449576,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130449597,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130453054,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130453086,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130545167,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130545200,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557130545224,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557130545289,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557130546626,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557130546662,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557130548175,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557130548198,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557130550494,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557130550507,DU 배터리 세이버,com.dianxinos.dxbs,False,MOVE_TO_FOREGROUND,False
+1557130550626,DU 배터리 세이버,com.dianxinos.dxbs,False,MOVE_TO_BACKGROUND,False
+1557130550634,DU 배터리 세이버,com.dianxinos.dxbs,False,MOVE_TO_FOREGROUND,False
+1557130551840,DU 배터리 세이버,com.dianxinos.dxbs,False,MOVE_TO_BACKGROUND,False
+1557130551903,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557130553939,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557130553983,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130555301,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130555311,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130556772,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130556782,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130557981,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130558005,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130559360,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130559375,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130664886,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130664937,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130785586,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130785617,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130882507,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130882541,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557130984346,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557130984399,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131079236,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131079270,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131202480,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131202511,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131305492,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131305520,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131407078,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131407133,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131517159,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131517189,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131656597,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131656628,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131779262,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131779303,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557131922639,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557131922670,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132053940,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132053973,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132137206,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557132174533,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132174564,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132180010,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557132191468,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557132282555,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132282588,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132382580,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132382608,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132498138,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132498171,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132610787,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132610814,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132691881,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132691900,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132696167,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132696197,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132698740,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132698764,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132792466,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132792511,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132907202,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132907228,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557132997205,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557132997241,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133082226,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133082251,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133097770,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133097798,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133100090,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133100119,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133192729,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133192758,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133207142,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133207203,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133207320,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133207395,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557133212108,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557133212127,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557133272077,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557133272244,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557133278863,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557133278880,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133279148,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133279155,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133279177,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133279194,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133279343,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133279772,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133281091,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133281133,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133282906,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133282924,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133290410,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133290440,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133291299,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133291315,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133297989,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133298043,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557133298201,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557133298248,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557133299235,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557133299268,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557133300594,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557133300630,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133302150,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133302168,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133403655,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133403684,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133506431,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133506460,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133636211,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133636253,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557133637151,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557133637161,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133637349,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133637355,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133637371,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133637388,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133637492,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133637849,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133647819,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133647846,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133649081,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133649099,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133650769,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133650824,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557133651522,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557133651568,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557133652778,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557133652823,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557133656467,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557133656502,T전화 통화,com.skt.prod.phone,True,MOVE_TO_FOREGROUND,True
+1557133656963,T전화 통화,com.skt.prod.phone,True,MOVE_TO_BACKGROUND,True
+1557133657042,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557133674709,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557133674771,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557133675737,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557133675745,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557133678426,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557133678470,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133691828,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133691863,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133708834,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557133709334,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557133789108,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133789139,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557133914467,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557133914498,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134043406,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134043437,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134151157,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134151192,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134238879,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134238909,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134353418,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134353441,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134355397,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134355419,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134359167,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134359193,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134500597,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134500618,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134509813,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134509835,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134513540,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134513566,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134616317,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134616337,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134618173,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134618201,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134621103,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134621131,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134722288,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134722317,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134756076,카카오페이지,com.kakao.page,False,USER_INTERACTION,False
+1557134759328,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557134818468,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134818490,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134829053,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134829084,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134831085,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134831124,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557134933815,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557134933845,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135047200,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135047221,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135050723,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135050744,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135053982,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135054006,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135062406,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135062425,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135064831,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135064863,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135166630,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135166667,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135170431,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135170451,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135172492,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135172520,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135241670,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557135280330,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135280361,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135395530,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135395559,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135466917,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135466992,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557135468067,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557135468078,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135468105,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135468241,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135469841,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135469878,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135471096,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135471111,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135487741,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135487771,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135488543,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135488558,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135489311,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135489324,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557135490104,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557135492387,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557135492429,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557135493161,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557135493180,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135521277,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135521303,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135604379,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135604403,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135613446,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135613471,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135616797,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135616836,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135711336,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135711364,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135805310,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135805339,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135893867,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135893890,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135895013,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135895041,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557135898441,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557135898467,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136004536,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136004575,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136074134,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136074177,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136147220,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136147248,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136222891,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136222914,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136228700,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136228725,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136234626,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136234664,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136363580,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136363611,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136452688,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136452718,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136568479,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136568501,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136570873,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136570899,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136573501,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136573539,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557136574338,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557136574369,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557136575782,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557136575820,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136575925,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136576080,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136579576,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136579611,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136580766,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136580786,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136583017,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136583048,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136588917,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136588967,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136603920,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136603943,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136616115,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136616137,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136620639,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136620660,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136623110,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136623136,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136629500,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136629522,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136632694,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136632725,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136635121,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136635142,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136636347,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136636379,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136674799,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136674825,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136676900,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136676939,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136677723,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136677756,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136679381,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136679428,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136687116,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136687135,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136694522,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136694542,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136695558,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136695582,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136701212,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136701232,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136702531,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136702598,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136704737,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136704750,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136706842,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136706863,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136708932,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136708967,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136727816,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136727834,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136733111,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136733140,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136735679,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136735700,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136740305,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136740331,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136760072,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136760096,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136764194,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557136787753,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136787783,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136792995,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136793015,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136794832,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136794857,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136809338,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136809357,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136813216,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136813239,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136819483,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136819506,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136821642,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136821679,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136823945,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136823965,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136828299,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136828317,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136829970,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136829991,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136835478,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136835504,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136845502,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136845522,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136850716,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136850748,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136857481,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136857502,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136859019,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136859050,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136875099,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136875123,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136879390,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136879417,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136892060,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136892082,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136894174,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136894206,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136895930,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136895964,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136897598,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136897622,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136917276,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136917301,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557136993341,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557136993363,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137010576,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137010596,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137020498,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137020526,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137021970,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137021993,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137031567,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137031592,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137039197,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137039215,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137051772,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137051794,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137054999,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137055021,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137056507,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137056529,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137058038,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137058059,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137068859,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137068898,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137076996,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137077017,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137079621,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137079650,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137079988,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137080005,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137081815,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137081835,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137082964,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137082994,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137085702,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137085735,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137086759,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137086780,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137098291,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137098314,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137099885,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137099926,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137103187,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137103213,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137131939,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137131963,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137132884,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137132911,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137140436,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137140462,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137144480,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137144515,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137159117,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137159145,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137160665,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137160693,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557137173770,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557137173805,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557137174590,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557137174610,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137270196,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137270223,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137359450,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137359478,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137452223,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137452273,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137535196,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137535223,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137637354,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137637378,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137642783,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137642808,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137645299,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137645321,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137652093,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137652118,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137654739,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137654786,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137781144,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137781165,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137784564,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137784593,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137788426,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137788452,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137886241,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137886266,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557137988050,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557137988081,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557138104251,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557138104322,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557138106592,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557138106619,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557138113934,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557138113966,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557138193649,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557138193680,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557138196273,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557138196330,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557138199371,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557138199384,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557138199433,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557138199467,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557138200628,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557138200643,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557138989880,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557138989949,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557138990811,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557138990826,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557138990880,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557138991026,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557138991725,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557138991741,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557138992375,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557138992388,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557139000440,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557139000468,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557139001419,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557139001434,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557139007080,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557139011349,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557139011376,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557139013000,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557139013017,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557139016255,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557139016282,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557139018135,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557139025493,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557139025568,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557139039689,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557139039701,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139100482,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139100558,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557139116497,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557139116528,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557139117423,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557139117444,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139120376,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557139167719,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139167927,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139268948,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139268978,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139374051,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139374101,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139452629,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139452658,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139549572,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139549592,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139553057,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139553080,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139555436,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139555462,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139673334,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139673356,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139683092,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139683112,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139686991,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139687032,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139804129,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139804154,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139812892,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139812919,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139816881,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139816915,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139817578,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557139913751,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139913773,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139934929,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139934953,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557139939960,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557139939997,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140077783,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140077819,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140137180,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140137206,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140139115,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140139161,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140181066,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140181091,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140321090,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140321125,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140325687,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140325720,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140327473,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140327493,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140338842,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140338854,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140339826,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140339908,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140357332,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557140449878,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140449909,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140566610,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140566643,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140570608,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140570642,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140573020,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140573048,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557140688350,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557140688433,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557140696842,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557140696906,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557140698111,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557140698129,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557140698174,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557140698302,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557140699668,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557140699696,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557140701433,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557140701450,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557140705378,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557140705407,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557140707024,T전화,com.skt.prod.dialer,True,USER_INTERACTION,True
+1557140707539,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557140709546,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557140709607,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557140719217,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557140719263,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557140720662,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557140720672,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557140730907,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557140730931,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557141048701,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557141048765,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557141056419,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557141056440,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557141340097,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557141340145,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557141341198,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557141341223,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557141341324,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557141341462,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557141342534,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557141342568,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557141343146,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557141343163,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557141358108,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557141358163,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557141358973,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557141359015,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557141361104,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557141361135,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557142339485,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557142339546,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557142341218,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557142341259,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557142358126,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557142358154,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557142455701,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557142455749,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557142467811,마이리틀셰프,com.grampus.cookingadventureforkakao,False,USER_INTERACTION,False
+1557142470456,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557142470487,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142470601,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142470756,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142470878,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142470927,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142471031,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142471260,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142472326,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142472354,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142473463,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142473479,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142474230,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142474251,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142474283,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142474338,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142475111,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142475126,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557142476950,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557142476984,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557142477796,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557142477817,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557142496830,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557142496862,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557142596236,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557142596267,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557142701318,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557142801064,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557142827091,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557142926989,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557142997013,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557143003104,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557143008380,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557143008483,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143009043,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143009059,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557143011334,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557143011480,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143017188,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143017238,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143017553,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143017568,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143018627,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143018680,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143022071,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143022084,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143030833,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143030844,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143061171,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143064932,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143067564,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143067614,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143070029,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143070048,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143070711,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143070722,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143174029,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143174051,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143183722,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143183737,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557143184952,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557143184971,T전화 통화,com.skt.prod.phone,True,MOVE_TO_FOREGROUND,True
+1557143185724,T전화 통화,com.skt.prod.phone,True,MOVE_TO_BACKGROUND,True
+1557143185775,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557143206493,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557143229221,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557143230442,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557143261313,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557143264212,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557143264282,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143265456,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143265510,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143265566,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143265604,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143266419,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143266430,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143273852,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143273886,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143277239,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143277258,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143278670,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143278690,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143280808,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143280829,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143282828,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143282844,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143283646,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143283655,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557143284154,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557143284203,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143298177,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143306075,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557143513018,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557143514684,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143515864,Walkr,com.fourdesire.spacewalk,False,USER_INTERACTION,False
+1557143516506,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143516528,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557143611691,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557143611916,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143612792,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143645544,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557143648536,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143650204,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557143650211,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557143651834,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557143651885,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557143749597,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557143892007,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557143898502,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557143899416,블루라이트 차단 스크린 필터,jp.ne.hardyinfinity.bluelightfilter.free,False,USER_INTERACTION,False
+1557143921176,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557143921320,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557143922506,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144003040,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557144005704,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144006519,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144006533,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144006570,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144006592,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144007358,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144007366,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144008837,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144008861,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144010570,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144010587,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144012152,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144012174,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144013131,블루라이트 차단 스크린 필터,jp.ne.hardyinfinity.bluelightfilter.free,False,USER_INTERACTION,False
+1557144015322,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557144016705,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144016747,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144017840,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144017887,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557144074521,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557144074563,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144075404,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144075429,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_FOREGROUND,False
+1557144096300,Walkr,com.fourdesire.spacewalk,False,MOVE_TO_BACKGROUND,False
+1557144096443,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144100442,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144100495,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144110259,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144110409,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144112051,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144112131,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144113538,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144113552,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144122914,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144122940,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144123896,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557144202697,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144202775,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144203747,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144241651,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557144243329,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144246481,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144246489,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144247252,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144247282,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144252679,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144312056,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557144314655,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144416243,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144416303,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144417981,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144439200,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557144440335,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144446975,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144447046,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144471268,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144471324,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144565313,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144565344,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144568989,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144569064,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144580010,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144580018,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144580924,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144580985,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144587872,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144588007,안드로이드 시스템,android,True,MOVE_TO_FOREGROUND,False
+1557144593239,안드로이드 시스템,android,True,MOVE_TO_BACKGROUND,False
+1557144593443,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557144593944,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557144594247,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144594923,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144594986,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144596041,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144596066,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144596523,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144596532,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144596557,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144596576,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144596771,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144597275,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144598582,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144598628,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144601189,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144601217,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144609469,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144609532,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144610323,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144610344,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144620625,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144620659,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144622629,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144622667,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144636404,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144636429,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144638425,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144638476,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144645228,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144645248,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144648857,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144648900,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144675028,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144675048,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144676444,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144676477,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557144681016,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557144681057,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144682658,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144682705,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144687856,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144687879,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144692334,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144692507,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557144706415,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557144706442,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557144751059,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557144751096,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144751812,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144751832,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144754127,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144754217,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144755418,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144775371,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557144778601,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144780748,블루라이트 차단 스크린 필터,jp.ne.hardyinfinity.bluelightfilter.free,False,USER_INTERACTION,False
+1557144781594,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144781604,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144782418,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144782466,문피아,kr.munpia.forandroid,False,MOVE_TO_FOREGROUND,False
+1557144785965,문피아,kr.munpia.forandroid,False,MOVE_TO_BACKGROUND,False
+1557144785996,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144787162,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144787195,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557144833187,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557144833218,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557144930796,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557144930847,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144931879,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144931893,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144931946,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144932018,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557144933127,DU 배터리 세이버,com.dianxinos.dxbs,False,USER_INTERACTION,False
+1557144933849,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557144933927,10000!,com.gmail.chodongwon82.big_maker,False,MOVE_TO_FOREGROUND,False
+1557144940407,10000!,com.gmail.chodongwon82.big_maker,False,MOVE_TO_BACKGROUND,False
+1557144940509,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144941448,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144941473,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557144945958,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557144946039,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557144946675,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557144946682,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557144948227,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557144948271,10000!,com.gmail.chodongwon82.big_maker,False,MOVE_TO_FOREGROUND,False
+1557145183839,10000!,com.gmail.chodongwon82.big_maker,False,MOVE_TO_BACKGROUND,False
+1557145183902,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557145186441,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557145186494,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557145201658,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557145201695,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557145290834,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557145290897,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557145321200,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557145427598,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1557145437307,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557145438308,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557145438324,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557145439295,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557145439323,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557145467807,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557145467877,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557145475424,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557145488140,T전화,com.skt.prod.dialer,True,MOVE_TO_FOREGROUND,True
+1557145491127,T전화,com.skt.prod.dialer,True,MOVE_TO_BACKGROUND,True
+1557145491192,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557145491240,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557145491304,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557145491395,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557145491572,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557145492564,TouchWiz 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557145648993,카카오톡,com.kakao.talk,False,USER_INTERACTION,False

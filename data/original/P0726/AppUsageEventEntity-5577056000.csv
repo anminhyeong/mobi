@@ -1,0 +1,1199 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557705682709,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557705682729,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557705683949,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557705685367,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557705685435,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557705688858,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557705688968,Gmail,com.google.android.gm,True,MOVE_TO_FOREGROUND,True
+1557705695827,Gmail,com.google.android.gm,True,MOVE_TO_BACKGROUND,True
+1557705695843,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557705696779,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557705726107,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557705726150,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557705727240,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557705727265,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557705760541,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557705760589,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557705761115,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557705761130,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557705761783,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557705761825,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557705767376,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557705769241,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557705769246,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557708653781,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557708655379,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1557708656005,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557708656030,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557708661078,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557708661083,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557710976676,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557710976702,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557710979431,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557710980469,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557710980511,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557710981373,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557710981445,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557710982859,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557710982885,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557710990305,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557710990343,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557710996772,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557710996795,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711000188,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711000207,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711003219,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557711004089,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711004183,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557711008524,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557711008578,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557711008649,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557711008688,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557711011831,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557711011902,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557711019409,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557711019470,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557711038517,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557711038602,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557711044532,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557711044553,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557711045432,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557711045481,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557711048017,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557711050527,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557711050533,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557715386364,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557715389376,메시지,com.samsung.android.messaging,True,USER_INTERACTION,False
+1557715389484,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715389520,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715394265,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557715394269,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557715955678,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557715955757,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557715955795,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715957221,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715957250,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557716319877,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557716319895,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557716330189,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557716330233,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557716331407,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557716331431,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557716354348,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557716354383,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557716356376,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557716356391,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557717069243,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557717070615,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557717070626,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557717316243,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557717316311,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557717316342,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557717318054,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557717318130,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557717319508,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557717319538,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557717322907,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557717322932,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557717333122,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557717333147,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557717788491,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557717888471,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557717889472,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557717889475,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557719705027,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557719705771,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557719705812,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557719705862,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719707182,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719707513,CaptivePortalLogin,com.android.captiveportallogin,True,MOVE_TO_FOREGROUND,False
+1557719710132,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557719711169,CaptivePortalLogin,com.android.captiveportallogin,True,MOVE_TO_BACKGROUND,False
+1557719711261,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557719727540,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557719727577,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557719728771,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557719728813,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557719729110,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557719729168,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719729513,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719729561,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557719821795,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557719821847,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719822079,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719822100,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719822133,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719822175,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719823778,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719823807,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719825084,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719825112,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719826892,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719828264,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557719828268,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557719859723,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719859749,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719859987,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557719863368,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557719863393,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557720163814,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557720164789,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557720164793,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557722484520,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557722486512,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557722488310,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557722488766,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557722488832,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557722507394,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557722507445,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557722509541,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557722509586,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557722743368,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557722743441,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_FOREGROUND,False
+1557722759742,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_BACKGROUND,False
+1557722759760,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557723060188,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557723061279,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557723061283,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557725346093,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557725346894,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557725348434,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557725348706,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557725348752,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557725351070,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557725351132,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557725353252,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557725353299,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725363879,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725363911,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725364949,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725364976,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557725665330,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557725666399,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557725666403,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557726134398,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1557726134401,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1557726134881,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1557726141974,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1557726143531,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726144676,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726144746,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726145915,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726145940,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726149190,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726149214,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726153046,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726153083,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726190526,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726190570,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557726191826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557726191897,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726192844,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726192950,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557726220995,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557726221025,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557726223411,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557726223431,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726224349,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726224402,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557726224863,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557726224928,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557726285955,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557726522642,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557726522805,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557726523009,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726662893,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726662986,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557726663045,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557726965116,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557726965202,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557726965298,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557726966744,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557726967239,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557726967277,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557726970728,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557726970752,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557726973073,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557726973103,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557726975584,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557726975609,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557726976425,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557726976540,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557726976639,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557727185558,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557727190747,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557727676446,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557727974156,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557728129142,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557728129251,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557728129417,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557728132814,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557728134096,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557728134098,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557729132923,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557729133542,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557729133611,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557729133802,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729135351,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729135412,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729135939,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729135956,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729135985,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729136016,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729139720,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729141160,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557729141164,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557729166813,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557729166855,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557729166885,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729168426,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729168438,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729169068,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729169120,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557729184521,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557729308725,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557729308746,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729311472,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729311529,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729318915,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729318941,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729319279,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729319303,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729320948,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729321047,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729321813,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729321837,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729327169,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729327190,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729333919,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729334013,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729335208,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729335229,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729340552,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729340605,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729342214,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729342262,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557729343170,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557729343231,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729346562,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729346627,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557729507873,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557729507890,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729509947,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729512902,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557729512907,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557729613414,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557729614087,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729614882,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729614923,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729616014,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729616068,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557729616849,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557729616902,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557730009956,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557730009995,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730011898,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730014919,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557730014924,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557730466670,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557730467874,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557730467964,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557730468078,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730469693,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557730472485,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730472578,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730475602,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730475683,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730478051,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730478091,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730480787,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730480806,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730481852,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730481874,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557730487575,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557730487595,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730490419,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730490485,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557730493149,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557730493624,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557730493690,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730508851,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730508894,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730510364,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730510389,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730510838,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730510851,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557730512939,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557730512992,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557730513350,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557730513369,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557730513396,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557730513430,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557730515866,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557730517683,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557730517690,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557731211486,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557731213056,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557731213339,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557731213377,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557731217805,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557731217844,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557731220816,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557731220847,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557731222071,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557731222101,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557733107561,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557733107578,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557733108635,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557733108691,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557733110673,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557733110686,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557733111459,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557733111620,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557733111767,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557733113711,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557733349340,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557733349376,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557733349409,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557733349451,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557733349594,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557733349625,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557733349729,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557733349799,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557733366864,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557733366950,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557733443054,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557733443140,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557733444152,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557733444658,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1557733444706,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557733444769,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733460053,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733460085,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733461257,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733461279,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733461477,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733461511,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557733761897,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557733763309,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557733763326,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557734923510,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557735235569,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557735236627,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557735236633,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557736306305,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557736307131,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557736310763,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557736311098,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557736311150,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557736327569,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557736327609,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557736329574,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557736329607,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557736330587,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557736330640,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557736333100,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557736334871,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557736334878,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557736785494,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557736785527,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557736785591,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557736786729,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557736786748,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557736788570,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557736788636,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_FOREGROUND,False
+1557736791926,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_BACKGROUND,False
+1557736791940,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557736794148,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557736794190,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557736794397,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557736794438,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557736795537,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557736795580,밥대생,kr.ac.kaist.bab,False,MOVE_TO_FOREGROUND,False
+1557736805754,밥대생,kr.ac.kaist.bab,False,MOVE_TO_BACKGROUND,False
+1557736808784,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557736808790,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557737458425,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557737459969,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557737460027,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737461043,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737461077,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737494909,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737494957,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737495768,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737495829,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557737496931,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557737498512,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557737498515,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557737540075,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557737540164,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557737540286,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557737541286,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557737541323,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737541530,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737541550,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737541580,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737541610,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737672611,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737672645,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737684533,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737684567,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557737745637,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557737745652,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557737750616,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557737750713,날씨,com.sec.android.daemonapp,True,MOVE_TO_FOREGROUND,False
+1557737769786,날씨,com.sec.android.daemonapp,True,MOVE_TO_BACKGROUND,False
+1557737769800,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557737770480,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557737770549,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557737797192,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557737798857,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557737798865,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557737987488,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557737987527,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557737987864,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1557737999401,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1557737999485,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557737999835,우리카드,com.wooricard.smartapp,False,USER_INTERACTION,False
+1557738163106,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557738163119,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557738165063,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557738165123,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_FOREGROUND,False
+1557738180380,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_BACKGROUND,False
+1557738180417,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557738182572,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557738182613,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557738208692,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557738208720,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557738312273,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557738312332,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557738313561,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557738313587,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557738319015,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557738319036,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557738320128,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557738320173,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557738620633,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557738622093,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557738622097,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557738769633,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557738769649,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557738770341,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1557738782861,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1557738782943,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557738783179,우리카드,com.wooricard.smartapp,False,USER_INTERACTION,False
+1557738845414,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557738845468,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1557738846048,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1557738846086,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557738852952,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557738852997,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_FOREGROUND,False
+1557738865297,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_BACKGROUND,False
+1557738865311,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557738867319,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557738867895,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557738867958,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557738886168,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557738886208,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557738888197,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557738888215,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557738890611,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557738890689,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557738891819,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557738891848,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557738894935,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557738898207,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557738898214,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557743820037,롯데홈쇼핑,com.omnitel.android.lottewebview,False,MOVE_TO_FOREGROUND,False
+1557743820043,롯데홈쇼핑,com.omnitel.android.lottewebview,False,MOVE_TO_BACKGROUND,False
+1557743820213,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557743820217,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557744916297,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557744917109,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557744917278,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557744917318,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557744918380,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557744918394,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557744922495,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557744923646,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557744923844,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744924215,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744924624,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557744929391,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557744931572,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557744931678,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744932778,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744933139,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744945680,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744945731,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744947413,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744947432,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744948058,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744948097,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557744953613,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557744953688,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557744960062,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557744960206,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557744971669,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557744973610,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557744973627,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557744976248,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557744976273,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557744977023,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557744983783,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557744983808,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557744988925,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557745172752,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557746528503,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557746528588,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557746528699,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557746531220,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557746531739,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557746531795,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557746549395,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746549431,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557746551432,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746551452,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557746567162,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746567196,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557746568117,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557746568207,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557746568289,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557746569568,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557746569629,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557746569735,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557746571633,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557746571724,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557746571784,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748020299,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748020376,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748020428,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748021728,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748021761,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748022611,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748022721,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748022827,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748024057,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748024110,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748024180,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748026999,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748027078,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748029223,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748029275,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748039598,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748039627,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748045745,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748045770,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748071345,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748071408,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748072749,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748072790,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748073792,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748073848,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557748118848,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557748118874,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748123472,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748123609,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748123690,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748434335,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557748567557,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748567632,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557748567654,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748569762,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748569793,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748571024,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748571044,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748574046,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748574081,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748576804,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748576855,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748577936,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748577964,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748593304,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748593449,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748709384,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748709397,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748713733,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748713779,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748715642,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748715667,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748716667,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748716684,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557748717601,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557748717638,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557748733318,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557748733451,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557749227581,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557749227608,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557749229099,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557749229121,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557749230519,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557749230565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749230824,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749230844,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749230871,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749230910,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749232438,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749232462,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749235539,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749235561,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749327406,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749327432,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749334208,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749334235,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749334914,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749334961,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749337624,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749337654,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749339774,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749339795,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749359480,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749359507,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749360423,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749360448,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557749394481,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557749394503,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557749396199,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557749396291,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557749426107,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557749426133,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557749428684,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557749590416,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557749590462,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557749590480,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557749595090,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557749595137,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557749595602,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557749595687,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557749616749,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557749616775,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557749618421,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557749618554,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557749618636,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557750948270,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557750948313,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557750948654,우리카드,com.wooricard.smartapp,False,USER_INTERACTION,False
+1557750958870,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557750958904,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557750958945,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557750958989,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557750959125,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557750993224,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557750993245,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557750994080,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557750994170,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557750994285,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557751058391,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557751058463,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557751058643,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751059304,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751059352,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751065068,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751065086,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751066253,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751066292,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751068962,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751068989,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751078664,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751078680,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751079695,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751079747,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1557751081259,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1557751081271,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751082139,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751082173,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1557751087420,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1557751087499,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751087560,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751087598,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751088813,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751088839,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751089876,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751089904,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751089938,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751089965,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751094346,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751094366,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751100595,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751100644,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751104272,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751104296,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751110133,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751110180,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751112569,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751112604,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751112628,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751112681,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751114399,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751114428,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_FOREGROUND,False
+1557751126331,원터치개인 삼성페이,com.wooribank.smart.dream,False,MOVE_TO_BACKGROUND,False
+1557751126353,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557751128696,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557751128802,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751130187,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751130221,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751134160,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751134174,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557751134891,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557751134920,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557751137137,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557751137300,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557751137444,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557751781890,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557751782011,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557751782191,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557751786786,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557751786814,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557751787694,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557751787824,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557751787887,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557752348990,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557752349062,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557752349101,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557752351162,설정,com.android.settings,True,USER_INTERACTION,False
+1557752363411,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557752363459,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557752364566,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557752364588,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557752377707,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557752377744,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557752380191,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557752380234,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557752380828,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557752380871,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557752383065,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557752384504,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557752384548,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752386049,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752386082,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752387027,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752387051,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752390082,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752390119,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752391503,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752393360,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557752393366,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557752474237,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752474257,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752474273,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752475338,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752475351,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557752477033,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557752477077,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557752480073,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557752480116,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557752481345,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557752481371,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557752483922,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557752484006,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557752504557,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557752504588,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557752508332,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557752508369,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557752513516,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557752513560,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557752514903,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557752515015,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557752515827,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557752515864,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557752680034,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557752680077,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752681154,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752681180,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752693271,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752693324,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557752763438,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557752763463,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753011169,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753011205,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557753068190,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557753068209,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753069248,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753069291,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1557753071941,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1557753071953,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753072806,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753072864,연락처,com.samsung.android.contacts,True,MOVE_TO_FOREGROUND,False
+1557753077696,연락처,com.samsung.android.contacts,True,MOVE_TO_BACKGROUND,False
+1557753078222,전화,com.samsung.android.incallui,True,MOVE_TO_FOREGROUND,False
+1557753154017,전화,com.samsung.android.incallui,True,MOVE_TO_BACKGROUND,False
+1557753154039,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753154696,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753154792,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753157371,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753157416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753563516,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753563599,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753567873,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753567912,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753568125,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753568145,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753568174,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753568202,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753571953,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753573217,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557753573221,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557753642961,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753642983,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753643704,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_FOREGROUND,True
+1557753673175,Samsung Pay,com.samsung.android.spay,True,MOVE_TO_BACKGROUND,True
+1557753673277,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557753673497,우리카드,com.wooricard.smartapp,False,USER_INTERACTION,False
+1557753675865,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557753675925,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557753676330,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557753676349,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753677867,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753677932,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_FOREGROUND,False
+1557753691522,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557753693080,똑똑가계부,com.dencreak.spbook,False,MOVE_TO_BACKGROUND,False
+1557753693140,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557753693212,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557753693294,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557753698161,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557753698176,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753712017,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753713435,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557753713440,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557753736811,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753745922,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753745983,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557753747632,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557753747674,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753748157,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753748200,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557753749691,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557753749733,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753793736,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753793781,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557753796570,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557753796583,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753805759,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753805803,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557753806482,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557753806517,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557753806848,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557753806861,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753808357,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753808389,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557753809530,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557753809554,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753811885,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753811933,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753814881,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753814902,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753815375,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753815410,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753816722,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753816748,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753817373,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753817389,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753823039,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753823059,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753827248,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753827313,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753829173,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753829220,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753832307,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753832325,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753837492,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753837529,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753838862,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753838885,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753841353,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753841389,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753843902,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753843916,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557753861207,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557753861253,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753862516,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753862550,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557753866490,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557753866527,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754301442,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754301473,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754317021,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754317073,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754321289,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754321322,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754696413,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754696447,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754699500,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754699540,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754700199,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754700248,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754702715,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754702752,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754704106,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754704162,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754705660,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754705680,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754721949,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754721990,카카오페이지,com.kakao.page,False,MOVE_TO_FOREGROUND,False
+1557754723093,카카오페이지,com.kakao.page,False,MOVE_TO_BACKGROUND,False
+1557754723154,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557754724937,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557754724973,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557754725253,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557754725270,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557754725305,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557754725338,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557754726530,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557754726565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557754739048,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557754739095,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557754739976,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557754740053,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557754745555,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557754745584,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557754747807,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557754747940,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557754757477,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557754757499,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557754760479,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557754760538,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557754765256,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557754765283,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557754768811,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557759072822,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557759072917,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557759072957,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557759076048,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557759076095,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557759077773,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557759077805,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557759106589,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557759106704,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557759108875,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557759108885,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557759114989,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557759115026,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557759124903,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557759124957,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557759127582,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557759127616,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557759164184,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557759164247,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557759166481,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557759166546,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557759180501,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557759180547,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557759185505,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557759187119,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557759187125,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557759434699,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557759438727,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557759438758,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557759440233,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557759440357,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557759440419,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557759619937,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557759620464,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557759621551,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557759621554,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557760406793,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557760408485,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557760408501,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557760414443,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557760414448,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557760416715,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557760416738,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557760420832,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557760420888,oksusu,com.skb.btvmobile,False,MOVE_TO_FOREGROUND,False
+1557760421866,oksusu,com.skb.btvmobile,False,MOVE_TO_BACKGROUND,False
+1557760421879,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557760422285,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557760454556,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557760454589,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557760463674,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557760463701,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557760470881,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557760470948,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557760481914,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557760483185,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557760483188,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557760487313,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557760487342,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557760493114,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557760493117,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557767229276,우리카드,com.wooricard.smartapp,False,MOVE_TO_FOREGROUND,False
+1557767229283,우리카드,com.wooricard.smartapp,False,MOVE_TO_BACKGROUND,False
+1557767229459,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557767229463,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557778801309,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557778801323,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557778802099,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557778819938,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557778820076,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557778820081,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557778820810,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557778827677,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557778827680,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557786600763,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557786600774,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557786601572,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557786610467,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557786610547,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557786610549,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557786611255,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557786619368,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557786619372,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557788401016,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788401021,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788401617,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788409106,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788409221,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557788409227,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557788409911,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557788415854,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557788415859,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557789650172,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557789650187,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557789650242,시계,com.sec.android.app.clockpackage,True,MOVE_TO_FOREGROUND,True
+1557789652784,시계,com.sec.android.app.clockpackage,True,MOVE_TO_BACKGROUND,True
+1557789652794,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557789653811,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789653851,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557789683091,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557789683111,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557789687988,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789688033,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557789688146,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557789688196,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557789695149,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557789696625,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557789696651,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1557789704488,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1557789704540,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557789706311,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557789706371,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557789707793,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789707834,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557789709361,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557789709382,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557789714058,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557789714125,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557789717509,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557789717547,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1557789737523,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1557789737554,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557789737995,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557789738035,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557789747410,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557789747459,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557789748006,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557789748141,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557789770505,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557790110221,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557790110825,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557790110929,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557790112902,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557790112950,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790113326,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790113352,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790113396,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790113432,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790115419,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790115443,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790117480,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790117522,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790118395,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790118416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790133260,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790133284,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790136625,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790136656,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790168620,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790168665,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557790170407,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557790170419,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557790171400,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557790171467,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557790335602,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557790336962,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557790336965,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557791265791,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557791266471,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791267533,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791267546,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791268370,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791268416,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791270778,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791270808,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791370992,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791371006,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791373666,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791373698,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557791388213,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557791388226,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791389655,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791389726,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791415904,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791416027,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1557791418217,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1557791418252,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791418292,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791418565,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791438971,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791438990,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791441347,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791441369,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557791445257,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557791445380,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557791498176,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557791498199,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791500585,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791500616,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557791502914,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557791502947,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557791507140,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557791507212,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557791509666,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557791511130,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557791511135,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557791702418,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557791702987,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557791703002,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557791703186,캘린더,com.samsung.android.calendar,True,MOVE_TO_FOREGROUND,True
+1557791704195,캘린더,com.samsung.android.calendar,True,MOVE_TO_BACKGROUND,True
+1557791704206,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791708069,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791708117,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557791709670,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557791709695,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557791711743,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557791711761,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557791713404,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557791713418,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791714864,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791714915,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791716316,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791716345,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791718207,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791718226,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791795179,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791795250,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791796552,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791796564,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791798038,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791798139,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557791807193,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557791816778,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557791819955,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557791824717,안드로이드 시스템,android,True,CONFIGURATION_CHANGE,False
+1557791825769,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557791825859,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791826996,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791827049,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791829649,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791830987,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_FOREGROUND,False
+1557791830993,스마트 스캔,com.qrcorde.scan.barcode.reader.generator,False,MOVE_TO_BACKGROUND,False
+1557791991466,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557791991919,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791991951,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791992118,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557791993446,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557791993456,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557791994093,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557791994147,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True

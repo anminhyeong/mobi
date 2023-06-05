@@ -1,0 +1,2237 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557715443089,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557715444932,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557715444956,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,True
+1557715445901,플레이윙즈,com.fridaynoons.playwings,False,USER_INTERACTION,False
+1557715446399,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557715446903,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557715484236,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,True
+1557715484246,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557715485511,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557715485525,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557715486168,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557715486187,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557715490738,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557715490846,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1557715492094,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1557715492131,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557715492151,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557715492309,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557715525001,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557715525135,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557715532363,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557715532407,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557715535196,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557715535220,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557715535911,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557715535938,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557715557023,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557715557041,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557715600647,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557715600733,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557715610526,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557715610553,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557715612324,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557715612335,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557715613491,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557715613519,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715613711,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715613736,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715613814,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715613934,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715616278,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715616306,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715616341,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715616400,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557715618177,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557715618208,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557715627473,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557715627500,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715627646,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715627652,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715627681,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715627686,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715634272,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715634298,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715636932,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715636944,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715646851,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715646875,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715654248,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715654264,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715655794,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715655815,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715657910,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715657926,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715659155,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715659177,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715661678,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715661690,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715663699,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715663720,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715666019,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715666034,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715677447,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715677466,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715679178,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715679197,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715683807,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715683829,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715697347,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715697361,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715756028,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715756053,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715763625,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715763638,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715774783,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715774867,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715777215,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557715779732,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715779754,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715781473,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715781486,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715783566,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715783583,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715786465,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715786491,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715852095,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715852106,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715853540,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715853561,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715872691,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715872710,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715885337,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715885353,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715886644,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715886667,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715905322,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715905340,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715907018,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715907043,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715911804,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715911820,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715917320,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715917336,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715919117,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715919130,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715924673,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715924683,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715928860,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715928870,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715932471,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715932490,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715933578,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715933597,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715936939,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715936971,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715938188,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715938206,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715940109,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715940136,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715947748,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715947764,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715957295,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715957316,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715958800,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715958815,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715966736,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715966757,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715975995,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715976009,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715977307,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715977336,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715978342,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715978352,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715978888,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715978905,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715980218,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715980236,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715983991,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715984009,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715985081,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715985094,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715986826,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715986846,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715991093,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715991114,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715991583,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715991619,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557715992680,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557715992692,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716003618,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716003638,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716005712,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716005728,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716010133,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716010146,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716023078,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716023097,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716023967,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716023976,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716024649,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716024660,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716030146,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716030184,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716031660,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716031670,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716037070,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716037102,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716043074,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716043092,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716044133,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716044146,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716053730,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716053793,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716081028,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716099196,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557716102088,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557716102106,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557716108707,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557716108758,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557716109742,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557716109755,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557716113951,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557716113966,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557716116322,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557716116337,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557716116668,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557721129246,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557721129247,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557722951235,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557722952645,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557722952672,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557722955577,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557722955612,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557722966267,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557722966280,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557722969079,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557722969123,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557722970372,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557722970380,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557722971493,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557722971502,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557722973484,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557722973497,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557722977338,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557722977361,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557722978465,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557722978481,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557722992225,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557722992253,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557722993598,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557722993608,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557722997959,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557722998016,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557723000188,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557723000199,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557723002029,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557723002047,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723005761,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723005811,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557723006706,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557723006718,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557723010360,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557723010405,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557723020018,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557723020066,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557723024506,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557723024626,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723025491,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557723026032,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723026052,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723026370,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723026379,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723040307,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723040332,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723042141,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723042160,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723044188,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723044215,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723044658,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723044665,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723044679,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723044694,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723047429,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723047452,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723052166,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723052190,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723089758,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723089776,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723092862,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723092872,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723097291,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723097309,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723098110,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723098121,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723099944,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723099977,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723101203,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723101210,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723104356,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723104376,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723110977,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723110998,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723111160,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723111167,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723111180,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723111191,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723112712,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723112727,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723117941,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723117962,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723118045,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723118053,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723118070,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723118076,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723123397,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723123412,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723127818,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723127840,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723130401,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723130410,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723131002,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723131018,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723132143,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723132161,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723134890,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723134906,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723137719,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723137731,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723139537,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723139557,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723140693,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723140707,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723144385,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723144404,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723146435,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723146444,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723150281,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723150303,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723153465,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723153478,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723154420,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723154440,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723155794,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723155807,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723157041,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723157062,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723159933,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723159951,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557723166387,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557723166400,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723172201,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723172229,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723174465,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723174511,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723175601,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723175614,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723178924,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723178948,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723183994,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723184011,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723187344,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723187361,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723191192,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723191201,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723197378,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723197388,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723198423,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723198432,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723200527,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723200543,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723203181,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723203194,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723204474,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723204484,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723206958,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723206974,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723208596,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723208607,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723210158,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723210170,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723213392,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723213418,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723216565,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723216575,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723219516,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723219540,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723221577,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723221588,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723224497,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723224520,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723226556,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723226565,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723234256,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723234272,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723235945,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723235955,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723238495,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723238508,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723248064,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723248082,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723251729,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723251737,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723252963,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723252975,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723253987,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723254003,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723255669,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723255680,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723259287,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723259297,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723260826,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723260837,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723262480,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723262493,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723263272,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723263283,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723264262,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723264272,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723266259,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723266281,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557723280543,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557723280580,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723283939,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557723833684,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557723836722,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557723840477,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557725402981,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725402982,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725403729,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725403730,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725404567,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725404568,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725405402,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725410857,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725410961,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725410962,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725411402,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725411605,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725411607,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725412506,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725417170,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725417274,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725417276,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725417975,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725417977,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725421043,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725435322,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725435338,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725466536,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725466573,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725474027,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725474074,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725475749,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725475767,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557725479393,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557725479437,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725480568,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725480578,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725494703,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725494742,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725496121,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725496130,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557725516682,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557725516693,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557725517732,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557725517767,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725518873,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725518896,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725524730,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725524767,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557725528012,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557725528109,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557725529093,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557725940299,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557725941681,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557725942183,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557725942763,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557725942778,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725942982,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725943020,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725943092,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725943219,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725944825,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725944856,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725944914,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725944972,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725946660,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725946686,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725950309,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725950330,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725954192,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725954200,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725956225,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725956236,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557725958560,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557725958590,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557725960020,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557727796205,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557727800493,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557728095836,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557728095838,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557728103442,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728104033,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728104035,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728104342,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728104343,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728105679,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728109940,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728110053,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728110054,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728112231,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728114243,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728114260,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557728119263,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557728119285,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557728120349,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557728120360,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557728131188,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557728131217,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557728132613,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557728132622,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557728135593,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557728135631,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557728137587,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557728137602,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557728139250,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557728139315,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728150510,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728150544,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728157984,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728158014,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557728160385,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557728160399,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557728161721,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557728161756,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728161878,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728161927,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728162328,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728162340,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728162359,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557728162376,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557728163065,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729159718,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729183870,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729478335,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557729481317,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557729481347,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557729484711,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557729484741,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729486707,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729486727,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729489954,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729490070,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729495082,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729495102,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729497908,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729497915,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729502941,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729502988,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729506966,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729507036,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729511912,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729511971,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729514216,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729514285,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729516766,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729516780,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729518960,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729518972,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729521383,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729521463,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729525939,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729525970,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729527751,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729527769,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729533573,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729533586,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729534508,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729534519,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729539742,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729539810,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729549778,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729551436,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729554743,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729569123,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729576960,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729576979,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729577036,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729577062,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729577107,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729577181,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729577658,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729577677,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729577752,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729577850,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729618921,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729619001,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729621070,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729621117,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729621169,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729621237,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729636259,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729636321,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729636725,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729636839,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729636969,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729637101,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729646319,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729646372,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729668377,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729668473,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557729673453,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557729673480,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729674544,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729674598,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729675044,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729675097,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729679827,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729679897,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729679952,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729680061,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729682114,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729682131,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729682516,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729682569,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729685757,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729685789,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729688235,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729688275,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729688323,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729688604,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729692891,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729692909,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729696951,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729696968,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729701986,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729701990,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729702854,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729702864,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729710822,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729710839,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729721724,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729721736,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729725095,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729725102,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729725914,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729725925,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729728419,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729728470,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729731748,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729731774,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729735014,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729735029,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729739753,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729739777,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729742469,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729742477,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729743012,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729743020,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729744135,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729744143,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729746247,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729746292,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729749371,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729749383,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729750997,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729751021,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729752972,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729753010,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729755385,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729755393,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729755837,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729755846,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729756350,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729756359,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729759032,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729759072,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729760916,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729760942,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729762564,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729762575,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729764342,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729764358,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729765882,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729765890,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729766324,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729766332,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729766845,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729766851,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729769726,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729769766,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729771515,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729771535,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729772634,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729772660,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729774521,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729774534,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729776075,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729776084,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729776559,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729776566,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729777176,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729777186,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729780390,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729780435,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729785529,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729785543,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729786859,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729786876,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729787882,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729787895,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729802314,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729802376,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729804435,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729804449,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729805450,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729805464,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729806380,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729806394,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729807332,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729807506,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557729816573,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557729816595,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729817193,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729817200,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729823332,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729823347,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729823374,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729823427,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729826952,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729826963,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729829775,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729829795,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729830783,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729830796,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729831870,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729831908,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557729836228,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557729836319,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557729845107,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557729845125,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557729845150,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557729845191,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729846004,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729846065,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729850414,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729850427,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729850579,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729850658,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729853622,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729853642,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729861733,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729861749,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729868335,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729868372,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729869955,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729869969,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729870929,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729870942,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729871748,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729871758,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729872749,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729872784,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557729876780,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557729876814,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557729879556,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557729879569,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557729879590,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557729879605,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729879735,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729879743,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729882625,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729882640,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729882656,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729882692,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729883424,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729883438,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729886065,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729886079,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729890409,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729890467,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729893226,원터치알림,com.wr.alrim,False,USER_INTERACTION,False
+1557729894569,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729894593,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729905395,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729905412,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729918226,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729918279,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729919652,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729919663,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729922317,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729922333,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729930070,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729930101,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729966992,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729967050,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729977081,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729977090,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557729995375,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557729995437,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730003996,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730004010,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730004441,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730004446,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730009251,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730009274,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730014630,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730014638,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730017290,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730017298,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730019391,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730019401,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730021390,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730021410,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730022668,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730022689,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730023927,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730023944,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730027649,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730027658,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730031808,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730031850,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557730034082,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557730034098,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730037225,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730037242,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730048348,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730048532,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730052040,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730052109,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_FOREGROUND,False
+1557730054257,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_BACKGROUND,False
+1557730054273,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730067083,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730067155,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730067282,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730067289,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730070914,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730070926,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730084019,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730084043,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730084102,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730084122,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730088448,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730088469,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730089895,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730089905,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730095296,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730095315,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730097726,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730097749,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730097769,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730097773,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730102371,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730102404,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_FOREGROUND,False
+1557730105227,콘텐츠 잠금,com.lge.privacylock,True,MOVE_TO_BACKGROUND,False
+1557730105246,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730106086,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730106132,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730107161,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730107289,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730113705,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730113734,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730114437,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1557730125105,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730212519,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730224386,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730224411,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730224559,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730224568,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730224901,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730224949,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730225011,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730225052,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730226505,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730226621,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730226706,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730226723,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730242282,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730242375,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730242876,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730243151,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730244840,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557730245837,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557730246842,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557730247854,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557730249354,Android 시스템,android,True,USER_INTERACTION,False
+1557730289829,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730289864,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730292035,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730292069,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730294105,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730294123,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730294769,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730294783,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730297893,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730297911,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730301416,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730301449,Google Play 스토어,com.android.vending,True,MOVE_TO_FOREGROUND,True
+1557730303065,Google Play 스토어,com.android.vending,True,MOVE_TO_BACKGROUND,True
+1557730303078,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557730303969,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557730303994,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730336874,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730336913,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730340800,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730340820,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730351215,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730351382,Bluetooth,com.lge.bluetoothsetting,True,MOVE_TO_FOREGROUND,False
+1557730353892,Bluetooth,com.lge.bluetoothsetting,True,MOVE_TO_BACKGROUND,False
+1557730353914,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730357474,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730357606,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730367812,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730367833,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730373573,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730373615,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730380353,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730380390,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557730382676,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557730382717,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730401299,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730401323,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730403914,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730403945,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730412357,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730412367,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730414522,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730414560,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730418009,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730418022,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557730423833,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557730423857,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730424511,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730424521,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557730426189,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557730426201,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730430072,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730430109,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730433537,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730433708,CamScanner,com.intsig.camscanner,False,MOVE_TO_FOREGROUND,False
+1557730436210,CamScanner,com.intsig.camscanner,False,MOVE_TO_BACKGROUND,False
+1557730436374,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557730439375,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557730439402,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730442015,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730442071,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730461090,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730461106,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730466510,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730466544,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730468588,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730468739,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557730471825,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557730471847,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557730473972,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557730473981,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_FOREGROUND,False
+1557730475242,플레이윙즈,com.fridaynoons.playwings,False,MOVE_TO_BACKGROUND,False
+1557730475331,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730481261,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730481279,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557730485816,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557730802370,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557730802371,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557730803372,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557730803373,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557730803645,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557730803646,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557730816611,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557730817806,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557730817849,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557730817898,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557730818406,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557730819135,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557730820140,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557730822571,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557730822615,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730822662,Slack,com.Slack,False,USER_INTERACTION,False
+1557730846451,Slack,com.Slack,False,USER_INTERACTION,False
+1557730882668,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730882721,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730884137,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730884147,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730887230,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730887265,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557730889034,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557730889045,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557730891284,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557730891300,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557731349419,Slack,com.Slack,False,USER_INTERACTION,False
+1557731493115,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557731994521,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557732084785,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557732103880,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557732105679,Slack,com.Slack,False,USER_INTERACTION,False
+1557732106179,Android 시스템,android,True,USER_INTERACTION,False
+1557732106315,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557732106349,Slack,com.Slack,False,MOVE_TO_FOREGROUND,False
+1557732106894,Slack,com.Slack,False,SHORTCUT_INVOCATION,False
+1557732108162,Slack,com.Slack,False,USER_INTERACTION,False
+1557732111005,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557732114663,Slack,com.Slack,False,MOVE_TO_BACKGROUND,False
+1557732114684,Slack,com.Slack,False,MOVE_TO_FOREGROUND,False
+1557732115647,Slack,com.Slack,False,MOVE_TO_BACKGROUND,False
+1557732115654,Slack,com.Slack,False,MOVE_TO_FOREGROUND,False
+1557732121033,Slack,com.Slack,False,MOVE_TO_BACKGROUND,False
+1557732168459,Slack,com.Slack,False,MOVE_TO_FOREGROUND,False
+1557732170869,Slack,com.Slack,False,MOVE_TO_BACKGROUND,False
+1557732170884,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557732172038,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557732172059,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557732173406,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557732173416,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557732176038,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557732176082,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732176944,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732177007,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732177036,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732177051,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732177459,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732177978,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557732181410,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557732181443,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732182668,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732182680,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557732189523,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557732189568,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557732190463,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557732190473,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557732193638,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557732193662,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557732203835,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557732203876,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557732205566,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557732205582,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557732206628,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557732206663,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732207439,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732207459,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557732209283,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557732209307,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732214636,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732214696,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732216154,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732216176,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732270526,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732270545,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732272472,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732272487,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732284248,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732284264,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732301454,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732301494,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732309181,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732309264,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732312085,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732312107,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732339443,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732339481,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732343679,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732343707,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732396432,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732396446,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732401165,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732401186,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732402968,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732402982,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732407817,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732407857,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732422620,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732422637,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732426091,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732426110,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732427595,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732427611,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732454958,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732454982,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732459407,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732459419,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732464609,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557732464621,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557732467725,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557733502223,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733502224,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733502755,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733502756,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733503010,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733503011,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733504020,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733509157,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733509192,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733509194,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733509890,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733509891,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733511075,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733511559,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733511593,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733511594,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733529156,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733531908,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733531990,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733532614,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557733533321,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733533385,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733547453,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733547480,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733549100,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733549109,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733551753,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733551794,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557733563279,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557733563296,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557733564500,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557733564594,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733569747,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733569765,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733578843,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733578931,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557733582300,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557733582401,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557733583407,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557733795292,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1557733795293,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1557733795858,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1557733825620,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1557733825687,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557733825740,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557733860220,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557733861951,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557733861966,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557733862109,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557733862162,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1557733865881,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1557733865915,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557733867438,주소록,com.android.contacts,True,USER_INTERACTION,False
+1557733867932,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557733869317,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557733872600,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557733872617,주소록,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1557733874615,주소록,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1557733874635,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557733876723,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557734321015,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557734322829,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557734990476,원터치알림,com.wr.alrim,False,MOVE_TO_FOREGROUND,False
+1557734990478,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557735019601,원터치알림,com.wr.alrim,False,MOVE_TO_BACKGROUND,False
+1557736203478,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736203479,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736204050,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736204052,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736204309,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736204310,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736205136,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736211796,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736211848,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736211850,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736212403,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736212573,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736212620,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736212622,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736213788,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736216089,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736216137,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736217902,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736217922,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557736221412,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557736221425,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557736225990,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557736226010,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557736226623,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557736226633,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557736226938,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557736226947,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557736229226,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557736229252,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557736230213,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557736230218,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557736239772,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557736239800,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557736744297,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557736744314,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557736747147,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557736747203,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557736749865,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557736749877,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557736756898,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557736756993,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557736757220,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557736757306,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1557736757409,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1557736757417,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557736759019,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557736759044,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557736759525,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557736759677,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1557736760101,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1557736760162,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557736763486,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557736763496,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557736769368,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557736769434,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736770324,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736770337,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736772874,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736772915,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736785121,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736785216,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557736788604,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557736788801,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557736789736,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557736838895,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557736842846,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557736842901,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557736875742,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557736881878,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1557736895582,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1557739202462,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739202464,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739203060,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739203330,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739203332,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739204422,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739215013,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739215100,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739215101,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739215791,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739215796,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739216317,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739216322,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739217698,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739221576,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739221681,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739222417,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739222435,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557739224369,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557739224387,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557739232322,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557739232338,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739233708,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739233716,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739245923,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739245959,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739247865,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739247881,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739251098,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739251136,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557739256849,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557739256866,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557739258520,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557739258535,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557739262503,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557739262546,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739263365,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739263377,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739264808,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557739265316,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557739267335,Android 시스템,android,True,USER_INTERACTION,False
+1557739267837,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557739269797,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739269835,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739275666,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739275750,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557739278762,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557739278902,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557739279783,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557739479057,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557739485439,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557740308768,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557740309824,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557740309855,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557740311377,Slack,com.Slack,False,USER_INTERACTION,False
+1557740311878,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557740312379,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557740313416,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557740313492,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740313884,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740313901,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740314391,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740314908,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557740314926,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557740315170,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557740318499,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557740321676,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557740321711,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740329427,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740329440,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740347301,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740347317,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740348057,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740348066,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740350627,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740350704,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557740353290,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557740353307,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557740354234,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557740354280,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557740432725,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557740478987,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557740515435,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557741603452,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741603455,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741604426,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741604427,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741604668,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741604669,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741614549,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741616195,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741616251,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741616252,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741616886,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741616900,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741617456,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741617458,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741617629,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741617631,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741617856,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741625852,Slack,com.Slack,False,USER_INTERACTION,False
+1557741631852,Slack,com.Slack,False,USER_INTERACTION,False
+1557741632863,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557741637442,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557741639857,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741639917,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557741641496,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557741641509,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557741644566,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557741644583,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741645947,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741645958,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741657919,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741657946,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741659193,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741659204,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741662653,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741662692,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557741669672,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557741669684,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557741671564,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557741671579,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557741675900,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557741675947,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741676854,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741676872,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741676988,Slack,com.Slack,False,USER_INTERACTION,False
+1557741679396,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741679417,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741684779,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741684863,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557741686011,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557741686030,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557741687757,Slack,com.Slack,False,USER_INTERACTION,False
+1557741687965,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557741687973,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557741688095,Slack,com.Slack,False,USER_INTERACTION,False
+1557741688614,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557742151630,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557742153148,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557744002841,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744002843,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744003947,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744003948,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744004266,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744004268,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744013504,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744014907,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744014968,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744014969,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744015540,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744016116,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744016140,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744016142,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744016666,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744016668,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744063896,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744066739,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744066785,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557744074569,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557744074602,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744075607,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744075618,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744088733,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744088764,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744089291,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744089380,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744089462,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744089549,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744089611,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744090120,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744095510,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744095619,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557744105144,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557744105158,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557744109710,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557744109726,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557744116687,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557744116736,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744117639,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744117652,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744119998,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744120034,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744120815,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744120857,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744123282,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744123299,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744128114,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744128195,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744129282,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557744130874,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557744132010,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557745602756,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557745606272,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557745606303,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557745607416,Slack,com.Slack,False,USER_INTERACTION,False
+1557745607810,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557745607888,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557745609882,Slack,com.Slack,False,USER_INTERACTION,False
+1557745629643,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557745776201,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557745777703,트위터,com.twitter.android,False,USER_INTERACTION,False
+1557745778837,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557745778929,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745779242,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745779283,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745779452,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745779650,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745781438,표류소녀,exize.tapas.girlAdrift,False,USER_INTERACTION,False
+1557745781940,Android 시스템,android,True,USER_INTERACTION,False
+1557745785217,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745785230,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745787007,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745787020,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745788144,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745788157,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745798457,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745798470,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745799278,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745799290,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745800857,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745800867,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557745801665,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557745801686,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557745804097,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557745804216,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745805164,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745805194,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745805499,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745805972,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557745806008,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557745806092,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557745807058,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557745807087,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745834300,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745834330,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745842028,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745842059,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745846699,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745846726,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745849227,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745849238,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745861128,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745861151,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745866550,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745866569,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745867105,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745867120,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745868655,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745868673,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745871567,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745877166,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745878336,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745878363,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557745878790,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557745878853,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745878856,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745903038,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745904156,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745904186,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557745906799,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557745906826,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745907132,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745907147,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745912770,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745912799,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745917463,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745917489,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745919434,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745919457,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745921400,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745921413,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745975421,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745996548,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557745997883,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557745997910,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557745998053,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557745998346,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746003808,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746005510,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746007917,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746007955,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746018114,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746018133,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746028593,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746028629,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746030056,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746030077,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557746031838,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557746031875,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746039331,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746039348,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746043915,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746043929,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746054850,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746054864,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557746058776,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557746059725,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557746707259,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746707262,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746708136,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746708137,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746708670,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746708673,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746709854,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746779399,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746779542,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746779543,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746779767,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746780375,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746780434,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746780438,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746791983,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746794370,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1557746795396,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557746795424,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557746805405,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746805444,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557746807263,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746807273,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557746810669,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746810698,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557746820710,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557746820727,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557746821936,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557746822005,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557746828897,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557747419324,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557747421117,통화 서비스,com.android.phone,True,USER_INTERACTION,False
+1557747422124,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557747423125,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557747423140,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557747429809,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557747429850,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557747431091,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557747431456,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557747434978,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557747435018,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557747440902,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557747440932,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557747444969,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557747986370,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557747987605,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557747987639,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557747990720,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557747990749,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557747993329,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557747993344,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557747994806,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557747994820,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557748000681,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557748000748,U-OTP+,com.atsolution.android.uotp2,False,MOVE_TO_FOREGROUND,False
+1557748001873,U-OTP+,com.atsolution.android.uotp2,False,MOVE_TO_BACKGROUND,False
+1557748001888,U-OTP+,com.atsolution.android.uotp2,False,MOVE_TO_FOREGROUND,False
+1557748005574,U-OTP+,com.atsolution.android.uotp2,False,MOVE_TO_BACKGROUND,False
+1557748005602,U-OTP+,com.atsolution.android.uotp2,False,MOVE_TO_FOREGROUND,False
+1557748013065,U-OTP+,com.atsolution.android.uotp2,False,MOVE_TO_BACKGROUND,False
+1557748013074,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557748018178,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557748018191,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557748018641,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557749584308,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557749587171,통화 서비스,com.android.phone,True,USER_INTERACTION,False
+1557749591600,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557749596210,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557749597501,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557749611339,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557749615163,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557749615186,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749615393,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749615405,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749615435,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749615441,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749616248,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749616643,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557749617859,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557749617883,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749627132,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749638739,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749639965,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749639993,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557749641701,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557749641739,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749646722,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749646793,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749651684,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749651763,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749657723,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749657754,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749671453,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749671465,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749690922,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749690947,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749705527,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749705541,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749708145,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749708171,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749715365,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749715382,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749739711,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749739749,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749749484,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749749522,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749759624,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749759653,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749762852,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749762870,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749765424,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749765438,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749767361,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749767384,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749767665,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749767687,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749769105,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749769118,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749780057,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749780073,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749782410,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749782456,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749787604,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749787628,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749812523,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749812544,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749813408,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749813421,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749815544,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749815562,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749815917,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749815925,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749816819,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749816831,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749822652,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749822686,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749830495,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749830530,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749830789,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749831225,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749871496,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749871676,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749872798,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749872831,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557749874654,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557749874687,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749876881,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749876905,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749879282,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749879328,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749879412,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749879452,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749928186,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749928339,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557749929426,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557749929475,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749930419,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749930504,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749931790,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749932312,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557749932332,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557749932429,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557749933420,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557749933469,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749937261,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749937281,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749939805,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749939828,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749939929,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749939965,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557749947972,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557749948050,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749948932,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749948941,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749949294,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749949328,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557749951370,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557749951393,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749953305,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749953316,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749955114,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749955121,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749961252,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749961284,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749971799,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749971813,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749973132,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749973146,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749974949,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749974964,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749980815,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749980836,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749982164,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749982181,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749982376,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749982388,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749986573,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749986593,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749987740,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749987754,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557749988028,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557749988041,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750003583,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750003607,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750005379,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750005394,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750009841,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750009867,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750011816,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750011828,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750017282,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750017332,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750018889,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750018902,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750020184,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750020201,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750031112,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750031135,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750034582,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750034594,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750037636,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750037657,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750110353,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750110405,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750112229,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750112258,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750113683,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750113698,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750121532,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750121546,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750124131,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750124144,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750140502,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750140517,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750144132,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750144148,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750148089,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750148106,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750154431,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750154446,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750200037,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750200055,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750204477,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750204492,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750212118,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750212140,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750212792,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750212800,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750215039,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750215060,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750221081,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750221101,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750222554,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750222566,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750231840,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750231861,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750249992,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750344376,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750345722,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750345766,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557750346247,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557750346404,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557750348171,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557750348219,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750351049,통화 서비스,com.android.phone,True,USER_INTERACTION,False
+1557750353705,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750353719,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557750358643,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557750358671,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557750359238,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557750359248,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557750359265,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557750359280,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557750363530,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557750363555,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557750369710,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557750369724,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557750374577,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557750374668,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750375734,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750376245,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557750376258,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557750376372,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557750377518,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557750377547,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750382110,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750382128,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750382225,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750382257,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750385161,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750385230,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557750385513,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557750385563,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557750423108,Slack,com.Slack,False,USER_INTERACTION,False
+1557750521411,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557750521501,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750522691,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750522721,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557750522803,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557750522970,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750535460,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750535481,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750537480,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750537502,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750540134,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750540151,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557750540267,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557750540301,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557750542525,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557750542559,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750543430,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750543436,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750543728,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750543797,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557750545417,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557750545448,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750553007,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557750553028,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557750588787,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760201104,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760201522,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760201930,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760203247,Slack,com.Slack,False,USER_INTERACTION,False
+1557760203552,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760203603,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557760204059,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557760204203,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557760204249,업데이트 센터,com.lge.updatecenter,True,USER_INTERACTION,False
+1557760204711,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557760204735,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,True
+1557760210947,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,True
+1557760210964,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557760213423,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557760218080,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557760221411,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557760221459,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557760222432,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557760222449,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557760226257,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557760226356,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557760233029,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557760233084,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557760236032,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557760236057,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557760237126,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557760237226,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,True
+1557760238698,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,True
+1557760239111,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557760239540,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557760239549,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557760240492,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557760240577,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760241732,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760242244,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557760242255,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557760242365,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557760243801,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557760243844,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760248026,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760248049,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760249828,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760249837,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760255936,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760255957,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760257067,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760257088,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760262761,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760262780,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760264297,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760264310,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760302208,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760302250,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760310173,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760310204,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760312767,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760312781,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760314087,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760314105,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760332026,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760332051,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760333617,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760333624,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760343231,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760343392,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557760343740,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557760343809,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1557760363581,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1557760363777,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760364857,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760364876,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760364942,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760365067,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557760366119,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557760366256,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557760367630,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557760367674,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760368898,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760368927,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760370776,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557760370801,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557760371773,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557761222533,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557761224680,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557761224722,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557761225133,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557761225141,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557761228752,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557761243012,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557761252226,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557761252253,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557761255901,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557761255917,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557761258727,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557761258752,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557761260356,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557761260392,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557761285691,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557761285710,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557761309314,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557761323107,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557761327873,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557761330683,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557766877815,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557766888696,Android 시스템,android,True,USER_INTERACTION,False
+1557766889214,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557766889597,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557766889684,Slack,com.Slack,False,MOVE_TO_FOREGROUND,False
+1557766890675,Slack,com.Slack,False,SHORTCUT_INVOCATION,False
+1557766897994,Slack,com.Slack,False,MOVE_TO_BACKGROUND,False
+1557766898025,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557766898414,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557766898424,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557766951493,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557766951515,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557766960785,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557766960807,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557766961985,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557766962504,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557766962515,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557766962629,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557766963918,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557766963951,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557766971929,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557766971953,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767053469,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767053489,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767060087,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767060109,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767061316,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767061335,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767068345,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767068433,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767069688,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767069710,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767071490,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767071522,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767072558,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767072566,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767074544,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767074567,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767081097,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767081114,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767087511,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767087536,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767089713,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767089732,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767094467,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767094490,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767095836,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767095846,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767101877,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767101904,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767118215,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767118234,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767121006,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767127902,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767130049,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767130074,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767132773,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767132795,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767134041,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767134062,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767141590,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767141609,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767161804,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767161822,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767163853,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767163866,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767175123,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767175145,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767176071,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767176093,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557767182223,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557767182265,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767186894,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767186916,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767204472,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767204491,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767214019,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767214061,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767217215,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767217274,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767220273,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767220287,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767224266,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767224290,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767225647,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767225663,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767227895,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767227923,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767228960,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767228970,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767235609,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767372789,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767373794,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767373831,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557767376114,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557767376165,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767381889,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767381923,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767385795,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767385822,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767389764,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767389807,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767410740,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767410763,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767414866,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767414882,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767421151,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767421195,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767424909,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767424946,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767475483,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767475546,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767477411,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767477426,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767487384,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767487408,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767488922,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767488943,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767494991,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767495015,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767505832,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767505872,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767513172,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767513191,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767514743,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767514757,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767533226,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767533246,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767535468,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767535485,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767539064,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767539091,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767542019,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767542034,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767563886,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767563907,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767568145,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767568159,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767572381,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767572400,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767573703,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767573725,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767635697,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767635798,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767637429,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557767637438,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557767657216,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557769779521,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557769781447,Google Play 스토어,com.android.vending,True,USER_INTERACTION,True
+1557769781532,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557769781583,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557769782049,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557769782148,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557769782187,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557769782676,Android 시스템,android,True,USER_INTERACTION,False
+1557769785437,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557769785454,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557769790330,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557769790359,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557769791393,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557769791413,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557769792615,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557769792627,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557769794019,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557769794033,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557769797571,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770737961,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770739343,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770739469,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557770741115,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1557770741630,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557770741994,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557770742014,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770759614,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770759663,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770761593,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770761608,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770764119,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770764166,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770767596,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770767637,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770771740,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770771753,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770776414,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770776464,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770781887,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770781906,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770786572,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770786588,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770789450,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770789468,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770792664,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770792677,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770805148,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770805192,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770808285,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770808302,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770809392,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770809407,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770813220,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770813244,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770814944,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770814955,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770817676,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770817696,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770827800,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770827818,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770834580,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770834594,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770839574,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770839596,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770842533,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770842551,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770844705,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770844723,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770851076,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770851087,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770857087,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770857109,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770859417,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770859442,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770868953,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770868979,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770873208,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770873220,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770875147,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770875174,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770877009,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770877020,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770897878,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770897899,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770903774,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770903784,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770911302,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770911326,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770912639,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770912654,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770914634,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770914651,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770920196,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770920213,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770925017,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557770925033,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557770941342,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557771054015,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557771054906,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557771054949,App Lock,com.getkeepsafe.applock,False,MOVE_TO_FOREGROUND,False
+1557771057044,App Lock,com.getkeepsafe.applock,False,MOVE_TO_BACKGROUND,False
+1557771057073,트위터,com.twitter.android,False,MOVE_TO_FOREGROUND,False
+1557771058244,트위터,com.twitter.android,False,MOVE_TO_BACKGROUND,False
+1557771058260,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557771062810,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557771062831,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1557771064761,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1557771064771,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557771070640,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557771070661,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557771071287,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557771071293,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557771071528,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557771071580,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557771074431,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557771074462,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557771082098,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557771082104,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1557771083426,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1557771083440,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557771088349,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557771088371,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557771093706,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557771093887,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1557771097954,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1557771097967,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557771100578,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557771100591,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557771101114,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557771132305,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557771135637,Polar Beat,fi.polar.beat,False,USER_INTERACTION,False
+1557771137120,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557771139449,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557771167165,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557771767272,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557772560420,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557772562480,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557772564858,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557772566335,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557772567571,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557772573826,통화 서비스,com.android.phone,True,USER_INTERACTION,False
+1557772574450,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557772574512,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772575534,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772575547,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772579340,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772579387,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772587576,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772587613,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772589902,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772589930,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772592714,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772592755,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772596396,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772596435,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772609171,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772609200,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772611734,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772611750,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772619207,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772619248,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772622404,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772622432,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772626806,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772626836,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772628936,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772628966,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772639229,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772639256,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557772642153,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557772642260,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557772643453,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557775419348,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557775421172,알람몬,com.malangstudio.alarmmon,False,USER_INTERACTION,False
+1557775421656,App Lock,com.getkeepsafe.applock,False,USER_INTERACTION,False
+1557775432313,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557775432335,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557775432813,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557775432829,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_FOREGROUND,False
+1557775439945,알람몬,com.malangstudio.alarmmon,False,MOVE_TO_BACKGROUND,False
+1557775440105,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557775441268,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True
+1557775444402,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,True
+1557775445303,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,True

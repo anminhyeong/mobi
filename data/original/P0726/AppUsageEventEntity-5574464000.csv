@@ -1,0 +1,412 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1557523102300,좋은 카메라,com.oss.mcam,False,MOVE_TO_FOREGROUND,False
+1557523102313,좋은 카메라,com.oss.mcam,False,MOVE_TO_BACKGROUND,False
+1557523102497,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557523102501,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557526222553,좋은 카메라,com.oss.mcam,False,MOVE_TO_FOREGROUND,False
+1557526222563,좋은 카메라,com.oss.mcam,False,MOVE_TO_BACKGROUND,False
+1557526222857,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557526222861,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557529342357,좋은 카메라,com.oss.mcam,False,MOVE_TO_FOREGROUND,False
+1557529342365,좋은 카메라,com.oss.mcam,False,MOVE_TO_BACKGROUND,False
+1557529342513,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557529342518,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557530691432,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557530705091,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557530707403,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557530707427,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557530727306,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557530727351,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557530728450,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557530728520,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557530730101,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557530730176,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557530792905,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557530792933,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557530793645,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557530793707,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557530814744,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557530814815,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557530816668,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557530816712,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557530863436,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557530863591,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557530870900,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557530870959,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557530871009,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557530871086,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557530871472,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557530871519,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557530872216,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557530872259,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557530877863,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557530882339,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557530882414,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557530884394,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557530884432,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557530884468,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557530884530,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557530959794,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557530959806,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557530966179,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557530966226,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557530967821,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557530967854,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531023265,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531023294,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531044045,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531044071,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531045058,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531045122,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557531062564,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557531062599,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531063306,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531063377,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531107574,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531107612,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531109166,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531109275,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531117570,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531117596,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531119073,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531119161,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531129534,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531129559,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531130603,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531130700,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531146303,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531146329,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531147658,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531147735,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531151951,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531152008,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531152129,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531152183,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531154151,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531154186,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531155461,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531155550,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531168925,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531168951,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531170349,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531170439,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531179694,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531179722,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531180773,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531180855,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531206771,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531206781,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531207946,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531208002,메시지,com.samsung.android.messaging,True,MOVE_TO_FOREGROUND,False
+1557531213397,메시지,com.samsung.android.messaging,True,MOVE_TO_BACKGROUND,False
+1557531213409,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531216549,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531216580,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531218785,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531218880,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531252929,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531252953,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531255267,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531255353,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531256460,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531256471,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531259522,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531259564,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531272380,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531272417,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531274627,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531274653,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531284833,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531284861,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531300455,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531300538,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531316290,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531316317,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531317335,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531317421,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531320777,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531320820,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531326828,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531326853,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531327856,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531327887,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531331370,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531331420,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531333543,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531333587,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531334557,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531334596,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531351142,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531351181,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531352955,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531352983,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531354643,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531354695,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531355289,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531355310,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531363704,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531363835,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531363906,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531363943,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531364920,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531364941,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531365070,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531365117,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531365201,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531365257,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531373655,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531373687,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531376448,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531376540,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531377332,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531377360,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531378102,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531378161,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531425275,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531425360,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531425377,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531425407,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531427113,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531427172,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531431198,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531431227,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531432133,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531432187,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531432681,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531432711,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531434092,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531434171,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531455800,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531455826,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531456718,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531456780,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531463224,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531463258,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531464987,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531465067,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531466126,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531466166,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531467875,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531467962,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531471726,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531471763,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531472668,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531472748,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531473303,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531473337,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531474744,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531474828,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531477275,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531477301,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531479236,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531479316,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531480627,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531480655,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531482971,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531483003,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531484110,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531484196,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531488075,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531488101,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531490248,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531490335,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531491158,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531491181,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531492901,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531492983,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531493761,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531493783,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531496996,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531497022,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531497864,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531497889,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531498764,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531498845,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531501381,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531501407,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531502313,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531502365,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531502937,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531502967,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531509106,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531509136,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531511369,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531511409,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531513533,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531513557,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531514189,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531514236,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531519303,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531519337,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531520078,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531520132,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531520881,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531520907,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531526491,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531526527,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531527622,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531527656,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531528173,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531528254,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531530018,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531530043,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531530791,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531530853,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1557531534427,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1557531534511,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531547369,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531547429,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557531548024,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557531548044,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557531548082,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557531548116,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557531551192,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1557531553878,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557531553890,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531558830,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531558866,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531566944,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531567028,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531583985,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531583999,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531587896,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531587938,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531727718,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531727740,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531728509,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531728546,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531732007,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531732123,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531750798,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531750826,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531752032,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531752124,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531773463,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531773495,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531774267,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531774334,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531783447,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531783482,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531784065,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531784182,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531795146,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531795177,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531821212,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531821233,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531826204,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531826218,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531826832,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531826861,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531828060,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531828093,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531832219,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531832267,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531832456,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531832495,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_FOREGROUND,False
+1557531845561,Microsoft Band,com.microsoft.kapp,False,MOVE_TO_BACKGROUND,False
+1557531845570,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531846356,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531846417,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531851494,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531851547,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531854578,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531854629,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531873195,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531873317,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531878385,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531878414,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531878446,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531878507,드라이브,com.google.android.apps.docs,True,MOVE_TO_FOREGROUND,True
+1557531924166,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1557531925291,드라이브,com.google.android.apps.docs,True,MOVE_TO_BACKGROUND,True
+1557531925362,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557531928932,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557531928960,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557531932059,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557531932083,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557531991543,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557531991553,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531992359,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531992412,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531995780,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531995793,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557531996703,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557531996758,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557531997762,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557531997788,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557531999575,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557531999597,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557532002936,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557532002977,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557532003354,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557532003418,YouTube,com.google.android.youtube,True,MOVE_TO_FOREGROUND,True
+1557532012901,YouTube,com.google.android.youtube,True,MOVE_TO_BACKGROUND,True
+1557532012974,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557532013837,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557532013886,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_FOREGROUND,True
+1557532081821,삼성 인터넷,com.sec.android.app.sbrowser,True,MOVE_TO_BACKGROUND,True
+1557532081837,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557532085391,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557532085436,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532085581,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532085629,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532098000,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532098029,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532099538,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532099591,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532101001,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532101030,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532158780,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532158806,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557532160317,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557532160396,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532161402,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532161430,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532179909,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532180009,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557532186950,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557532187005,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532187033,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532187124,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532188893,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532188949,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532192135,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532192175,파일,com.android.documentsui,True,MOVE_TO_FOREGROUND,False
+1557532199216,파일,com.android.documentsui,True,MOVE_TO_BACKGROUND,False
+1557532199265,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532199291,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532199378,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532215669,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532215752,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532299820,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532299862,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532301966,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532302004,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532310070,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532310103,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532313165,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532313205,Suunto,com.stt.android.suunto,False,MOVE_TO_FOREGROUND,False
+1557532330716,Suunto,com.stt.android.suunto,False,MOVE_TO_BACKGROUND,False
+1557532330776,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557532331825,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557532331876,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557532332291,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557532332309,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557532332343,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557532332378,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1557532333664,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1557532333691,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1557532335003,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1557532335022,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557532336082,안드로이드 시스템,android,True,USER_INTERACTION,False
+1557532337547,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557532337629,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557532340771,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557532340801,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_FOREGROUND,True
+1557532368449,디바이스 관리,com.samsung.android.lool,True,MOVE_TO_BACKGROUND,True
+1557532368483,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1557532369513,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1557532369602,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_FOREGROUND,False
+1557532371455,Samsung Experience 홈,com.sec.android.app.launcher,True,MOVE_TO_BACKGROUND,False
+1557532462670,좋은 카메라,com.oss.mcam,False,MOVE_TO_FOREGROUND,False
+1557532462673,좋은 카메라,com.oss.mcam,False,MOVE_TO_BACKGROUND,False

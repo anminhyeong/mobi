@@ -1,0 +1,885 @@
+timestamp,name,packageName,isSystemApp,type,isUpdatedSystemApp
+1556582505847,카카오뱅크,com.kakaobank.channel,False,USER_INTERACTION,False
+1556582598198,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556582714194,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556582714306,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556582714897,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556582881529,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556582884302,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556582950891,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556584471234,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556584472338,메시지,com.android.mms,True,USER_INTERACTION,False
+1556584476284,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556584506056,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585713171,Facebook,com.facebook.katana,False,USER_INTERACTION,False
+1556585715238,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585724180,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556585724688,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556585730905,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585730956,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556585743647,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556585743704,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556585745971,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556585756951,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556585757010,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556585759436,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556585759446,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585761166,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585762957,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585765476,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585831061,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585833144,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556585833645,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556585835763,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585835788,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556585845502,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556585845511,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585854577,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585884691,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556585887230,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585889095,Android 시스템,android,True,USER_INTERACTION,False
+1556585889596,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556585893785,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585893803,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556585898842,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556585898892,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556585902985,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556585903050,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_FOREGROUND,False
+1556585905721,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_BACKGROUND,False
+1556585905745,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_FOREGROUND,False
+1556585907362,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_BACKGROUND,False
+1556585907377,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_FOREGROUND,False
+1556585907413,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_BACKGROUND,False
+1556585907552,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585912238,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585912257,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585914570,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585914582,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585918038,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585918059,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585919672,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585919686,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585932370,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585932383,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585933678,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585933691,Google Play 서비스,com.google.android.gms,True,MOVE_TO_FOREGROUND,True
+1556585934697,Google Play 서비스,com.google.android.gms,True,MOVE_TO_BACKGROUND,True
+1556585934713,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_FOREGROUND,False
+1556585935527,잠금화면 설정,com.lge.lockscreensettings,True,MOVE_TO_BACKGROUND,False
+1556585935546,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556585938099,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556585938111,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556585940716,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556585940763,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556585944291,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556585954188,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556585954211,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556585964756,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556587681677,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556587682188,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556593270014,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556593270984,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556593273066,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556593273082,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556593274157,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556593274661,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556593280375,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556593280883,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556593281414,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556593281917,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556593283307,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556593295865,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556593295911,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593304269,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593304290,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593330564,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593330592,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593334660,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593334676,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593339982,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593339996,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593342439,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593342454,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556593371112,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556593885526,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556593888522,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556593890346,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556593892216,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556593892259,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593921384,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593921423,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593924095,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593924113,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556593925610,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556593925629,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556593932749,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556593977674,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556593978839,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556593978863,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556594060470,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556596037671,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556596038288,메시지,com.android.mms,True,USER_INTERACTION,False
+1556596682881,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556596685812,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556596692514,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556596693017,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556596694774,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556596694851,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556596734026,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556596734067,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556596736508,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556596736527,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556596737464,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556596737482,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556596739132,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556596739142,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556596740001,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556597054826,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556597057073,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556597093384,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556597291673,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556597295010,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556597296522,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556597296697,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556599295541,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556599298179,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556599301484,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556599301527,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556599323624,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556599323686,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556599325074,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556599325091,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556599326009,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556599326020,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556599326788,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556601161104,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556601161107,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556601162196,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556601181749,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556601181820,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556601181847,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556601182389,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556601182905,주소록,com.android.contacts,True,USER_INTERACTION,False
+1556601723424,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556601725862,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556601726817,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556601731630,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556602686338,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556602688598,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556602688653,주소록,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556602691091,주소록,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556602754221,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556602757197,주소록,com.android.contacts,True,MOVE_TO_FOREGROUND,False
+1556602761753,주소록,com.android.contacts,True,MOVE_TO_BACKGROUND,False
+1556602761798,Gmail,com.google.android.gm,True,MOVE_TO_FOREGROUND,True
+1556602778380,Gmail,com.google.android.gm,True,MOVE_TO_BACKGROUND,True
+1556602778392,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556602780041,당근마켓,com.towneers.www,False,USER_INTERACTION,False
+1556602780042,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556602782848,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556602798465,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556602798497,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556602799210,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556602799225,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556602816361,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556602816412,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556602817957,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556602817974,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556602819536,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556602819547,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556602820435,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556602928841,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556602929358,메시지,com.android.mms,True,USER_INTERACTION,False
+1556602934961,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556602936733,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556602936750,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556602966758,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556605218179,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556605221079,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556605224487,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556605224990,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556605226780,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556605226794,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556605228299,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556605228323,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556605239761,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556605239772,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556605240984,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556605241015,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556605242138,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556605242162,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556605268130,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556605268163,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556605269378,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556605269391,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556605270855,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556606709519,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556607423337,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556607430348,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556607430372,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556607431415,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556607432663,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556607432703,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556607466204,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556607466228,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556607467633,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556607467646,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556607468976,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556607469477,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556607470564,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556607470596,당근마켓,com.towneers.www,False,MOVE_TO_FOREGROUND,False
+1556607470726,당근마켓,com.towneers.www,False,MOVE_TO_BACKGROUND,False
+1556607470782,당근마켓,com.towneers.www,False,MOVE_TO_FOREGROUND,False
+1556607475749,당근마켓,com.towneers.www,False,MOVE_TO_BACKGROUND,False
+1556607475759,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556607477088,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556607992621,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556607993124,메시지,com.android.mms,True,USER_INTERACTION,False
+1556607998185,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556608000508,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556608000522,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556608006582,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556608006728,갤러리,com.android.gallery3d,True,MOVE_TO_FOREGROUND,False
+1556608011182,갤러리,com.android.gallery3d,True,MOVE_TO_BACKGROUND,False
+1556608011198,메시지,com.android.mms,True,MOVE_TO_FOREGROUND,False
+1556608012701,메시지,com.android.mms,True,MOVE_TO_BACKGROUND,False
+1556608012713,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556608013861,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556609824365,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556609826125,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556609826624,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556609828032,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556609828061,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556609841759,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556609841798,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556609843065,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556609843079,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556609844142,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556611101073,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556611104288,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556611107244,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556611109178,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556611109198,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556611123174,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556611258423,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556611258937,메시지,com.android.mms,True,USER_INTERACTION,False
+1556611259558,메시지,com.android.mms,True,USER_INTERACTION,False
+1556611275837,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556611283387,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556611285982,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556611285991,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556611287219,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556611778443,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556611779250,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556611780652,Facebook,com.facebook.katana,False,USER_INTERACTION,False
+1556611785306,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556611789419,Android 시스템,android,True,USER_INTERACTION,False
+1556611790282,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556611790530,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556611790720,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556611976202,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556611976205,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556611976660,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556612004920,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556612030806,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556612030957,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556612030994,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556612031042,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556612031877,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556612032881,주소록,com.android.contacts,True,USER_INTERACTION,False
+1556612190363,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556612222528,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556612225348,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556612979214,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556612985373,카카오톡,com.kakao.talk,False,USER_INTERACTION,False
+1556612987994,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556612993236,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556612993286,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556613024959,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556613024992,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556613026566,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556613026576,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556613031348,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556613031366,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556613031654,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556613031748,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556613031960,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556613032485,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556613035673,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556613035818,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556613037822,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556613037841,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556613038942,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556613038974,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556613052865,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556613068953,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556614009500,메시지,com.android.mms,True,USER_INTERACTION,False
+1556614010386,메시지,com.android.mms,True,USER_INTERACTION,False
+1556614851532,카카오톡,com.kakao.talk,False,MOVE_TO_FOREGROUND,False
+1556614859165,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556614859166,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556614863193,카카오톡,com.kakao.talk,False,MOVE_TO_BACKGROUND,False
+1556614863214,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556614869998,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556614870040,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556614871983,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556614871998,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556614902626,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556614902675,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556614905310,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556614905326,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556614906333,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556614906345,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556614916528,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556614944423,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556616959243,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556616959896,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556616959897,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556616974590,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556617021928,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556617024741,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556617026680,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556617027068,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_FOREGROUND,False
+1556617028662,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_BACKGROUND,False
+1556617028701,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_FOREGROUND,False
+1556617038347,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_BACKGROUND,False
+1556617038367,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_FOREGROUND,False
+1556617040095,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556617750786,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_BACKGROUND,False
+1556617750874,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556617751280,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556617756933,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556617757015,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556617758494,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556617758513,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556617773116,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556617773152,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556617775380,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556617775392,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556617777795,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556617777813,시스템 UI,com.android.systemui,True,MOVE_TO_FOREGROUND,False
+1556617779231,시스템 UI,com.android.systemui,True,MOVE_TO_BACKGROUND,False
+1556617779372,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556617779501,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_FOREGROUND,False
+1556618344022,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556618346944,MX 플레이어,com.mxtech.videoplayer.ad,False,MOVE_TO_BACKGROUND,False
+1556618347106,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618347611,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556618351300,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556618353161,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556618354308,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556618356520,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_FOREGROUND,False
+1556618356557,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_BACKGROUND,False
+1556618357102,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_FOREGROUND,False
+1556618357107,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_BACKGROUND,False
+1556618357341,시스템 UI,com.android.systemui,True,USER_INTERACTION,False
+1556618359110,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_FOREGROUND,False
+1556618359160,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_BACKGROUND,False
+1556618359349,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_FOREGROUND,False
+1556618359360,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_BACKGROUND,False
+1556618360480,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_FOREGROUND,False
+1556618360489,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_BACKGROUND,False
+1556618360640,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_FOREGROUND,False
+1556618360651,Shutdown Monitor,com.lge.shutdownmonitor,True,MOVE_TO_BACKGROUND,False
+1556618799873,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618799891,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618799915,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618799976,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618804490,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618804508,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618809714,설정,com.android.settings,True,MOVE_TO_FOREGROUND,False
+1556618810315,설정,com.android.settings,True,MOVE_TO_BACKGROUND,False
+1556618817599,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556618817603,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556618821469,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556618824019,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556618827781,Android 시스템,android,True,USER_INTERACTION,False
+1556618895819,EyeFilter,com.lunatouch.eyefilter.pro,False,MOVE_TO_FOREGROUND,False
+1556618895821,EyeFilter,com.lunatouch.eyefilter.pro,False,MOVE_TO_BACKGROUND,False
+1556619067401,Facebook,com.facebook.katana,False,USER_INTERACTION,False
+1556619067957,메시지,com.android.mms,True,USER_INTERACTION,False
+1556619068591,메시지,com.android.mms,True,USER_INTERACTION,False
+1556622932731,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556622963078,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556622963589,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556622963590,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556622965290,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556622966590,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556622966694,Gmail,com.google.android.gm,True,MOVE_TO_FOREGROUND,True
+1556623013256,Gmail,com.google.android.gm,True,MOVE_TO_BACKGROUND,True
+1556623013265,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556623016200,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556623016702,Android 시스템,android,True,USER_INTERACTION,False
+1556623018475,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556623018977,Google,com.google.android.googlequicksearchbox,True,USER_INTERACTION,True
+1556623023481,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556623023557,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623025222,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623025243,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623030481,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623030498,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623032687,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623032697,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623075600,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623075642,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556623075822,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623088196,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623088226,Android 시스템,android,True,CONFIGURATION_CHANGE,False
+1556623088345,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623091434,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623091445,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623091580,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623091598,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556623092568,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556623092583,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556623095729,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556623095753,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556623096028,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556623096150,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556623096335,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556623096349,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556623098152,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556623098271,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1556623107125,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1556623107147,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556623112145,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556623112153,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556623117765,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556623117788,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623120085,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623120099,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623142648,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623142687,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623144249,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623144258,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623144594,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623144615,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556623145793,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556623326595,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556623328604,Paco,com.pacoapp.paco,False,USER_INTERACTION,False
+1556623329102,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556623330236,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556623330284,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623357476,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623357531,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623359400,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623359419,Paco,com.pacoapp.paco,False,MOVE_TO_FOREGROUND,False
+1556623362250,Paco,com.pacoapp.paco,False,MOVE_TO_BACKGROUND,False
+1556623362272,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556623365958,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556623366456,Android 시스템,android,True,USER_INTERACTION,False
+1556623368876,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556623376062,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556623376091,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556623377016,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556623391086,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556639553134,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556639559932,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556639903397,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556639903411,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556639906227,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556639906243,Gmail,com.google.android.gm,True,MOVE_TO_FOREGROUND,True
+1556639958169,Gmail,com.google.android.gm,True,MOVE_TO_BACKGROUND,True
+1556639958179,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556639974332,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556639974834,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556639976760,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556640009509,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556640188951,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556640214523,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556640214543,캘린더,com.android.calendar,True,MOVE_TO_FOREGROUND,False
+1556640217080,캘린더,com.android.calendar,True,MOVE_TO_BACKGROUND,False
+1556640217102,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556640221544,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556640221627,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640223144,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640223158,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640227005,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556640227505,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556640230809,통화 서비스,com.android.phone,True,USER_INTERACTION,False
+1556640233564,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556640252436,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640252454,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640258349,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640258365,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640300953,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640300967,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640309618,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640309639,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640326904,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640326913,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640331074,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640331090,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640434241,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640434262,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640440164,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640440179,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640465644,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640465671,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640468867,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640468887,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640491712,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640491727,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640497533,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640497542,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640668234,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640668252,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640678068,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640678078,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640695291,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640695307,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640700317,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640700330,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640772392,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556640772409,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556640787940,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556662800443,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556662800444,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556662808841,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556662811229,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556662811295,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556662811297,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556662811895,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556664000939,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556664000947,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556664001276,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556664001522,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556664004110,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556664004129,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556664004135,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556664004563,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556665635639,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556665638822,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665640675,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556665643266,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556665644347,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556665651583,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665651596,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665725626,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665725641,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665733340,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665733357,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665789030,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665789047,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665798056,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665798071,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665804014,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665901420,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665935488,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665935508,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665944254,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665944272,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665986948,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665987002,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556666030020,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556666030100,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666032722,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666032738,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666065163,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666065175,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666072552,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666072562,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666073244,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666190886,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556666192544,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666200486,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666200499,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666246704,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666273081,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556666276060,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666307235,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666366729,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556666368033,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666385099,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666385115,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666392967,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666392980,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666399419,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666399435,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666402833,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666402848,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666424660,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666424676,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666428774,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666428787,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666451354,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666451370,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556666453606,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556666453630,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556666481347,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556666481393,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556666490720,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556666490743,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556666544089,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556666544099,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556666574162,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667459480,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556667462347,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667463872,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556667464986,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556667472225,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667472257,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556667510353,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556667510386,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667512085,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667512107,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556667513793,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556667513815,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667515452,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667515477,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667522112,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667522133,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667527559,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667527571,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667546608,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667546620,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667560032,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667560051,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667581970,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556667604756,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556667608136,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667608155,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667616803,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667616815,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667617867,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667617886,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667620838,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667620917,BAND,com.nhn.android.band,False,MOVE_TO_FOREGROUND,False
+1556667622725,BAND,com.nhn.android.band,False,MOVE_TO_BACKGROUND,False
+1556667622734,BAND,com.nhn.android.band,False,MOVE_TO_FOREGROUND,False
+1556667634073,BAND,com.nhn.android.band,False,MOVE_TO_BACKGROUND,False
+1556667634098,BAND,com.nhn.android.band,False,MOVE_TO_FOREGROUND,False
+1556667635501,BAND,com.nhn.android.band,False,MOVE_TO_BACKGROUND,False
+1556667635533,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667637166,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667637181,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1556667637367,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1556667637425,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1556667642191,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1556667642211,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556667642455,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556667642505,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556667656153,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556668433231,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556668435666,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556668435712,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668440590,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668440816,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556668441163,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556668441297,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556668441494,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556668441507,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556668443379,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556668443458,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1556668449869,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1556668449890,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556668451466,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556668451477,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668452367,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668452442,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668454904,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668454920,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668457516,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668457529,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668461335,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668461347,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668462441,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668462462,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668464004,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668464028,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668465525,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668465547,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668495815,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668495848,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668496792,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668496810,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668516487,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668516497,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668580113,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668580131,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556668666592,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556668666642,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556668678759,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556668678813,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556668685507,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556668685557,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668695006,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668695060,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1556668703134,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1556668703156,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668708581,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556662800443,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556662800444,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556662808841,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556662811229,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556662811295,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556662811297,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556662811895,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556664000939,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556664000947,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556664001276,알람/시계,com.lge.clock,True,MOVE_TO_FOREGROUND,False
+1556664001522,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556664004110,알람/시계,com.lge.clock,True,MOVE_TO_BACKGROUND,False
+1556664004129,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556664004135,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556664004563,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556665635639,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556665638822,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665640675,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556665643266,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556665644347,ABC Logger,kaist.iclab.abclogger,False,USER_INTERACTION,False
+1556665651583,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665651596,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665725626,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665725641,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665733340,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665733357,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665789030,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665789047,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665798056,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665798071,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665804014,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665901420,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665935488,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665935508,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665944254,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665944272,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556665986948,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556665987002,통화 화면,com.android.incallui,True,MOVE_TO_FOREGROUND,False
+1556666030020,통화 화면,com.android.incallui,True,MOVE_TO_BACKGROUND,False
+1556666030100,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666032722,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666032738,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666065163,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666065175,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666072552,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666072562,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666073244,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666190886,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556666192544,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666200486,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666200499,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666246704,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666273081,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556666276060,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666307235,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666366729,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556666368033,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666385099,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666385115,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666392967,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666392980,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666399419,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666399435,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666402833,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666402848,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666424660,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666424676,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666428774,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666428787,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556666451354,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556666451370,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556666453606,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556666453630,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556666481347,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556666481393,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556666490720,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556666490743,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556666544089,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556666544099,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556666574162,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667459480,Gmail,com.google.android.gm,True,USER_INTERACTION,True
+1556667462347,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667463872,Dropsync,com.ttxapps.dropsync,False,USER_INTERACTION,False
+1556667464986,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556667472225,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667472257,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556667510353,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556667510386,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667512085,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667512107,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556667513793,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556667513815,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667515452,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667515477,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667522112,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667522133,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667527559,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667527571,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667546608,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667546620,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667560032,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667560051,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667581970,Mi Fit,com.xiaomi.hm.health,False,USER_INTERACTION,False
+1556667604756,AccuBattery,com.digibites.accubattery,False,USER_INTERACTION,False
+1556667608136,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667608155,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667616803,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667616815,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_FOREGROUND,False
+1556667617867,네이버 카페,com.nhn.android.navercafe,False,MOVE_TO_BACKGROUND,False
+1556667617886,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667620838,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667620917,BAND,com.nhn.android.band,False,MOVE_TO_FOREGROUND,False
+1556667622725,BAND,com.nhn.android.band,False,MOVE_TO_BACKGROUND,False
+1556667622734,BAND,com.nhn.android.band,False,MOVE_TO_FOREGROUND,False
+1556667634073,BAND,com.nhn.android.band,False,MOVE_TO_BACKGROUND,False
+1556667634098,BAND,com.nhn.android.band,False,MOVE_TO_FOREGROUND,False
+1556667635501,BAND,com.nhn.android.band,False,MOVE_TO_BACKGROUND,False
+1556667635533,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556667637166,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556667637181,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1556667637367,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1556667637425,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_FOREGROUND,True
+1556667642191,Google,com.google.android.googlequicksearchbox,True,MOVE_TO_BACKGROUND,True
+1556667642211,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556667642455,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556667642505,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556667656153,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556668433231,Chrome,com.android.chrome,True,MOVE_TO_FOREGROUND,True
+1556668435666,Chrome,com.android.chrome,True,MOVE_TO_BACKGROUND,True
+1556668435712,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668440590,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668440816,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556668441163,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556668441297,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_FOREGROUND,False
+1556668441494,패키지 설치 프로그램,com.google.android.packageinstaller,True,MOVE_TO_BACKGROUND,False
+1556668441507,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556668443379,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556668443458,접근성,com.android.settingsaccessibility,True,MOVE_TO_FOREGROUND,False
+1556668449869,접근성,com.android.settingsaccessibility,True,MOVE_TO_BACKGROUND,False
+1556668449890,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_FOREGROUND,False
+1556668451466,Logger,iclab.kaist.ac.kr.msband_logger,False,MOVE_TO_BACKGROUND,False
+1556668451477,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668452367,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668452442,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668454904,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668454920,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668457516,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668457529,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668461335,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668461347,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668462441,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668462462,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668464004,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668464028,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668465525,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668465547,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668495815,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668495848,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668496792,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668496810,Polar Beat,fi.polar.beat,False,MOVE_TO_FOREGROUND,False
+1556668516487,Polar Beat,fi.polar.beat,False,MOVE_TO_BACKGROUND,False
+1556668516497,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668580113,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668580131,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556668666592,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556668666642,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556668678759,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556668678813,Facebook,com.facebook.katana,False,MOVE_TO_FOREGROUND,False
+1556668685507,Facebook,com.facebook.katana,False,MOVE_TO_BACKGROUND,False
+1556668685557,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668695006,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False
+1556668695060,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_FOREGROUND,False
+1556668703134,Dropsync,com.ttxapps.dropsync,False,MOVE_TO_BACKGROUND,False
+1556668703156,기본홈,com.lge.launcher3,True,MOVE_TO_FOREGROUND,False
+1556668708581,기본홈,com.lge.launcher3,True,MOVE_TO_BACKGROUND,False

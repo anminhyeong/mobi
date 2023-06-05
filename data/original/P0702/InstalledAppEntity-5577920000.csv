@@ -1,0 +1,1561 @@
+timestamp,name,lastUpdateTime,packageName,isSystemApp,firstInstallTime,isUpdatedSystemApp
+1557797513711,Filter Provider,1230735600000,com.samsung.android.provider.filterprovider,True,1230735600000,False
+1557797513711,Automation Test,1230735600000,com.sec.android.app.DataCreate,True,1230735600000,False
+1557797513711,LED 아이콘 편집,1230735600000,com.samsung.android.app.ledcoverdream,True,1230735600000,False
+1557797513711,com.android.cts.priv.ctsshim,1230735600000,com.android.cts.priv.ctsshim,True,1230735600000,False
+1557797513711,RootPA,1230735600000,com.gd.mobicore.pa,True,1230735600000,False
+1557797513711,Galaxy Essentials 위젯,1230735600000,com.sec.android.widgetapp.samsungapps,True,1230735600000,False
+1557797513711,com.samsung.android.smartswitchassistant,1230735600000,com.samsung.android.smartswitchassistant,True,1230735600000,False
+1557797513711,NSDSWebApp,1230735600000,com.sec.vsim.ericssonnsds.webapp,True,1230735600000,False
+1557797513711,SetupWizardLegalProvider,1230735600000,com.sec.android.app.setupwizardlegalprovider,True,1230735600000,False
+1557797513711,YouTube,1556824773803,com.google.android.youtube,True,1230735600000,True
+1557797513711,직방,1556911091737,com.chbreeze.jikbang4a,False,1551429718241,False
+1557797513711,파인더,1230735600000,com.samsung.android.app.galaxyfinder,True,1230735600000,False
+1557797513711,Samsung Location SDK,1230735600000,com.sec.location.nsflp2,True,1230735600000,False
+1557797513711,Galaxy Themes,1552075278508,com.samsung.android.themestore,True,1230735600000,True
+1557797513711,com.sec.android.app.chromecustomizations,1230735600000,com.sec.android.app.chromecustomizations,True,1230735600000,False
+1557797513711,Always On Display,1556368541149,com.samsung.android.app.aodservice,True,1230735600000,True
+1557797513711,Edge screen,1556143080179,com.samsung.android.app.cocktailbarservice,True,1230735600000,True
+1557797513711,모서리 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.corner,True,1230735600000,False
+1557797513711,Android Services Library,1230735600000,com.google.android.ext.services,True,1230735600000,False
+1557797513711,SuwScriptPlayer,1230735600000,com.sec.android.app.suwscriptplayer,True,1230735600000,False
+1557797513711,더블 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.double,True,1230735600000,False
+1557797513711,다이얼러 저장소,1230735600000,com.android.providers.telephony,True,1230735600000,False
+1557797513711,DRParser Mode,1230735600000,com.sec.android.app.parser,True,1230735600000,False
+1557797513711,음성 서비스,1230735600000,com.samsung.svoice.sync,True,1230735600000,False
+1557797513711,Google,1556652061184,com.google.android.googlequicksearchbox,True,1230735600000,True
+1557797513711,캘린더,1554146442128,com.samsung.android.calendar,True,1230735600000,True
+1557797513711,시간대 업데이터,1230735600000,com.samsung.android.timezone.updater,True,1230735600000,False
+1557797513711,캘린더 저장공간,1230735600000,com.android.providers.calendar,True,1230735600000,False
+1557797513711,삼성 계정,1230735600000,com.osp.app.signin,True,1230735600000,False
+1557797513711,ABC Logger,1557201337228,kaist.iclab.abclogger,False,1557201337228,False
+1557797513711,Puffin,1556220326093,com.cloudmosa.puffinFree,False,1549993162171,False
+1557797513711,ClipboardSaveService,1230735600000,com.samsung.clipboardsaveservice,True,1230735600000,False
+1557797513711,TetheringAutomation,1230735600000,com.sec.automation,True,1230735600000,False
+1557797513711,도돌 키보드,1557343197339,com.fiberthemax.OpQ2keyboard,False,1540718257290,False
+1557797513711,미디어 저장공간,1230735600000,com.android.providers.media,True,1230735600000,False
+1557797513711,새 소식,1230735600000,com.samsung.android.app.social,True,1230735600000,False
+1557797513711,Google One Time Init,1230735600000,com.google.android.onetimeinitializer,True,1230735600000,False
+1557797513711,360° 포토 에디터,1230735600000,com.sec.android.mimage.gear360editor,True,1230735600000,False
+1557797513711,Android Shared Library,1230735600000,com.google.android.ext.shared,True,1230735600000,False
+1557797513711,보안정책 업데이트,1230735600000,com.samsung.android.spdclient,True,1230735600000,False
+1557797513711,SNOW,1555528431919,com.campmobile.snow,False,1542452429062,False
+1557797513711,com.android.wallpapercropper,1230735600000,com.android.wallpapercropper,True,1230735600000,False
+1557797513711,com.samsung.android.wallpaper.res,1230735600000,com.samsung.android.wallpaper.res,True,1230735600000,False
+1557797513711,Smart View,1230735600000,com.samsung.android.smartmirroring,True,1230735600000,False
+1557797513711,SKMSAgentService,1230735600000,com.skms.android.agent,True,1230735600000,False
+1557797513711,DeX community,1230735600000,com.sec.android.desktopcommunity,True,1230735600000,False
+1557797513711,안전 지킴이,1230735600000,com.sec.android.app.safetyassurance,True,1230735600000,False
+1557797513711,LGU_GPSnWPS,1230735600000,com.lguplus.lgugpsnwps,True,1230735600000,False
+1557797513711,전화,1230735600000,com.samsung.android.incallui,True,1230735600000,False
+1557797513711,퍼스널 홈,1230735600000,com.samsung.android.knox.containercore,True,1230735600000,False
+1557797513711,키즈 홈 인스톨러,1230735600000,com.samsung.android.kidsinstaller,True,1230735600000,False
+1557797513711,FactoryCamera,1230735600000,com.sec.factory.camera,True,1230735600000,False
+1557797513711,com.sec.internal.vsim.VSimServiceApp,1230735600000,com.sec.vsimservice,True,1230735600000,False
+1557797513711,USBSettings,1230735600000,com.sec.usbsettings,True,1230735600000,False
+1557797513711,SmartThings,1230735600000,com.samsung.android.easysetup,True,1230735600000,False
+1557797513711,파일,1230735600000,com.android.documentsui,True,1230735600000,False
+1557797513711,고속버스 모바일,1556651852685,com.kscc.scxb.mbl,False,1556258062548,False
+1557797513711,android.auto_generated_rro__,1230735600000,android.auto_generated_rro__,True,1230735600000,False
+1557797513711,외부 저장소,1230735600000,com.android.externalstorage,True,1230735600000,False
+1557797513711,EasyOneHand,1230735600000,com.sec.android.easyonehand,True,1230735600000,False
+1557797513711,DeviceTest,1230735600000,com.sec.factory,True,1230735600000,False
+1557797513711,StickerProvider,1230735600000,com.samsung.android.provider.stickerprovider,True,1230735600000,False
+1557797513711,HTML 뷰어,1230735600000,com.android.htmlviewer,True,1230735600000,False
+1557797513711,Naver V Panel,1551920003475,com.samsung.android.app.panel.naver.v,False,1514732582352,False
+1557797513711,삼성 인터넷 패널,1230735600000,com.samsung.android.app.sbrowseredge,True,1230735600000,False
+1557797513711,Companion Device Manager,1230735600000,com.android.companiondevicemanager,True,1230735600000,False
+1557797513711,MmsService,1230735600000,com.android.mms.service,True,1230735600000,False
+1557797513711,맞춤형 서비스,1230735600000,com.samsung.android.rubin.app,True,1230735600000,False
+1557797513711,배경화면,1230735600000,com.sec.android.wallpapercropper2,True,1230735600000,False
+1557797513711,마이 이모지 메이커,1230735600000,com.sec.android.app.camera.avatarauth,True,1230735600000,False
+1557797513711,다운로드 관리자,1230735600000,com.android.providers.downloads,True,1230735600000,False
+1557797513711,사전,1230735600000,com.diotek.sec.lookup.dictionary,True,1230735600000,False
+1557797513711,LED Cover Service,1230735600000,com.sec.android.cover.ledcover,True,1230735600000,False
+1557797513711,Smart Switch 에이전트,1230735600000,com.sec.android.easyMover.Agent,True,1230735600000,False
+1557797513711,bootagent,1230735600000,com.samsung.ucs.agent.boot,True,1230735600000,False
+1557797513711,설정메시지,1230735600000,com.wsomacp,True,1230735600000,False
+1557797513711,com.samsung.faceservice,1230735600000,com.samsung.faceservice,True,1230735600000,False
+1557797513711,음성 녹음,1555729071365,com.sec.android.app.voicenote,False,1541352616961,False
+1557797513711,AhnLab V3 Mobile Plus 2.0,1555105305022,com.ahnlab.v3mobileplus,False,1541570301679,False
+1557797513711,Foundation,1230735600000,com.monotype.android.font.foundation,True,1230735600000,False
+1557797513711,즐겨찾는 연락처,1230735600000,com.sec.android.widgetapp.easymodecontactswidget,True,1230735600000,False
+1557797513711,MTP 애플리케이션,1230735600000,com.samsung.android.MtpApplication,True,1230735600000,False
+1557797513711,DeviceKeystring,1230735600000,com.sec.android.app.factorykeystring,True,1230735600000,False
+1557797513711,Galaxy Store,1556650215215,com.sec.android.app.samsungapps,True,1230735600000,True
+1557797513711,EmergencyManagerService,1230735600000,com.sec.android.emergencymode.service,True,1230735600000,False
+1557797513711,ConfigUpdater,1230735600000,com.google.android.configupdater,True,1230735600000,False
+1557797513711,WlanTest,1230735600000,com.sec.android.app.wlantest,True,1230735600000,False
+1557797513711,기본 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear.preload,True,1230735600000,False
+1557797513711,SettingsBixby,1230735600000,com.samsung.android.app.settings.bixby,True,1230735600000,False
+1557797513711,삼성 결제,1557254412656,com.sec.android.app.billing,True,1230735600000,True
+1557797513711,모션 와이드 셀프 샷 뷰어,1230735600000,com.samsung.android.app.selfmotionpanoramaviewer,True,1230735600000,False
+1557797513711,EpdgTestApp,1230735600000,com.sec.epdgtestapp,True,1230735600000,False
+1557797513711,Samsung Time Zone Data,1230735600000,com.samsung.android.timezone.data_P,True,1230735600000,False
+1557797513711,게임런처,1554233063807,com.samsung.android.game.gamehome,True,1230735600000,True
+1557797513711,Samsung DeX 홈,1230735600000,com.sec.android.app.desktoplauncher,True,1230735600000,False
+1557797513711,Polar Beat,1557200841996,fi.polar.beat,False,1557200841996,False
+1557797513711,패키지 액세스 도움말,1230735600000,com.android.defcontainer,True,1230735600000,False
+1557797513711,AppleMint,1230735600000,com.monotype.android.font.applemint,True,1230735600000,False
+1557797513711,날씨,1230735600000,com.sec.android.daemonapp,True,1230735600000,False
+1557797513711,com.samsung.daydream.customization,1230735600000,com.samsung.daydream.customization,True,1230735600000,False
+1557797513711,ARCore,1554914833966,com.google.ar.core,True,1230735600000,True
+1557797513711,com.sec.ims,1230735600000,com.sec.ims,True,1230735600000,False
+1557797513711,SecVideoEngineService,1230735600000,com.sec.sve,True,1230735600000,False
+1557797513711,com.sec.enterprise.knox.attestation,1230735600000,com.sec.enterprise.knox.attestation,True,1230735600000,False
+1557797513711,다운로드,1230735600000,com.android.providers.downloads.ui,True,1230735600000,False
+1557797513711,Google Play 스토어,1557199240412,com.android.vending,True,1230735600000,True
+1557797513711,PacProcessor,1230735600000,com.android.pacprocessor,True,1230735600000,False
+1557797513711,Sim App Dialog,1230735600000,com.android.simappdialog,True,1230735600000,False
+1557797513711,SystemUIBixby2,1230735600000,com.samsung.systemui.bixby2,True,1230735600000,False
+1557797513711,ANT Radio Service,1557547670584,com.dsi.ant.service.socket,True,1230735600000,True
+1557797513711,AutoPreconfig,1230735600000,com.sec.android.AutoPreconfig,True,1230735600000,False
+1557797513711,설정,1230735600000,com.samsung.android.SettingsReceiver,True,1230735600000,False
+1557797513711,Daum 스포츠,1551919995033,com.samsung.android.widgetapp.daumedge.sports,False,1514732578619,False
+1557797513711,세로로 긴 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.tall,True,1230735600000,False
+1557797513711,SoundAlive,1230735600000,com.sec.android.app.soundalive,True,1230735600000,False
+1557797513711,보안 저장소,1230735600000,com.sec.android.providers.security,True,1230735600000,False
+1557797513711,BadgeProvider,1230735600000,com.sec.android.provider.badge,True,1230735600000,False
+1557797513711,인증서 설치 마법사,1230735600000,com.android.certinstaller,True,1230735600000,False
+1557797513711,SecurityLogAgent,1230735600000,com.samsung.android.securitylogagent,True,1230735600000,False
+1557797513711,com.android.carrierconfig,1230735600000,com.android.carrierconfig,True,1230735600000,False
+1557797513711,원스토어,1556588015538,com.lguplus.appstore,True,1230735600000,True
+1557797513711,설정,1230735600000,com.samsung.android.knox.containeragent,True,1230735600000,False
+1557797513711,Assistant menu,1230735600000,com.samsung.android.app.assistantmenu,True,1230735600000,False
+1557797513711,삼성 TTS 엔진,1230735600000,com.samsung.SMT,True,1230735600000,False
+1557797513711,CMHProvider,1230735600000,com.samsung.cmh,True,1230735600000,False
+1557797513711,mlp,1230735600000,com.samsung.mlp,True,1230735600000,False
+1557797513711,아웃 포커스,1230735600000,com.sec.android.ofviewer,True,1230735600000,False
+1557797513711,Camera Iris User Test,1230735600000,com.sec.factory.iris.usercamera,True,1230735600000,False
+1557797513711,CarmodeStub,1230735600000,com.samsung.android.drivelink.stub,True,1230735600000,False
+1557797513711,안드로이드 시스템,1230735600000,android,True,1230735600000,False
+1557797513711,X Google enrollment,1230735600000,com.android.hotwordenrollment.xgoogle,True,1230735600000,False
+1557797513711,Knox Key Chain,1230735600000,com.samsung.knox.keychain,True,1230735600000,False
+1557797513711,러브데이,1557429424804,com.wonderabbit.lovedays,False,1552049533113,False
+1557797513711,디바이스 보호,1230735600000,com.samsung.android.sm.devicesecurity,True,1230735600000,False
+1557797513711,기본 프레임,1230735600000,com.samsung.android.app.camera.sticker.facearframe.preload,True,1230735600000,False
+1557797513711,ANT + DUT,1230735600000,com.dsi.ant.sample.acquirechannels,True,1230735600000,False
+1557797513711,AirCommandManager,1230735600000,com.samsung.android.aircommandmanager,True,1230735600000,False
+1557797513711,Wi-Fi 사용 팁,1230735600000,com.samsung.android.net.wifi.wifiguider,True,1230735600000,False
+1557797513711,빅스비 서비스,1555196483580,com.samsung.android.bixby.service,True,1230735600000,True
+1557797513711,SmartFaceService,1230735600000,com.samsung.android.smartface,True,1230735600000,False
+1557797513711,Android Easter Egg,1230735600000,com.android.egg,True,1230735600000,False
+1557797513711,MTP 호스트,1230735600000,com.android.mtp,True,1230735600000,False
+1557797513711,NFC,1230735600000,com.android.nfc,True,1230735600000,False
+1557797513711,SIM 툴킷,1230735600000,com.android.stk,True,1230735600000,False
+1557797513711,메시지,1555526844963,com.samsung.android.messaging,True,1230735600000,True
+1557797513711,emojiupdater,1230735600000,com.samsung.android.emojiupdater,True,1230735600000,False
+1557797513711,com.android.backupconfirm,1230735600000,com.android.backupconfirm,True,1230735600000,False
+1557797513711,KLMS Agent,1230735600000,com.samsung.klmsagent,True,1230735600000,False
+1557797513711,카톡 프리뷰,1555874253613,com.taeyoung.jimoon.kakaopreview,False,1543590975989,False
+1557797513711,Naver TV Cast Panel,1551919984807,com.samsung.android.app.panel.naver.tv,False,1514732581114,False
+1557797513711,SmartFittingService,1230735600000,com.samsung.android.smartfitting,True,1230735600000,False
+1557797513711,삼성 설정 마법사,1230735600000,com.sec.android.app.SecSetupWizard,True,1230735600000,False
+1557797513711,전화,1230735600000,com.samsung.android.app.telephonyui,True,1230735600000,False
+1557797513711,앱 추가 설치,1230735600000,com.samsung.preloadapp,True,1230735600000,False
+1557797513711,SamsungPositioning,1230735600000,com.samsung.android.samsungpositioning,True,1230735600000,False
+1557797513711,Intent Filter Verification Service,1230735600000,com.android.statementservice,True,1230735600000,False
+1557797513711,Gmail,1555729312310,com.google.android.gm,True,1230735600000,True
+1557797513711,빅스비 보이스,1555969823972,com.samsung.android.bixby.agent,True,1230735600000,True
+1557797513711,어피치,1555785597188,com.kakao.talk.theme.apeach,False,1545225688089,False
+1557797513711,UsimDownload,1230735600000,com.sec.android.UsimRegistrationKOR,True,1230735600000,False
+1557797513711,Microsoft Health,1557200054867,com.microsoft.kapp,False,1557200054867,False
+1557797513711,HwModuleTest,1230735600000,com.sec.android.app.hwmoduletest,True,1230735600000,False
+1557797513711,Settings Suggestions,1230735600000,com.android.settings.intelligence,True,1230735600000,False
+1557797513711,com.sec.bcservice,1230735600000,com.sec.bcservice,True,1230735600000,False
+1557797513711,SilentLogging,1230735600000,com.sec.modem.settings,True,1230735600000,False
+1557797513711,홍채,1230735600000,com.samsung.android.server.iris,True,1230735600000,False
+1557797513711,LGUHiddenMenu,1230735600000,com.samsung.hidden.LGU,True,1230735600000,False
+1557797513711,어두움,1230735600000,com.android.systemui.theme.dark,True,1230735600000,False
+1557797513711,Dropsync,1557201776408,com.ttxapps.dropsync,False,1557201776408,False
+1557797513711,Context Service,1230735600000,com.samsung.android.providers.context,True,1230735600000,False
+1557797513711,Service mode,1230735600000,com.sec.android.app.servicemodeapp,True,1230735600000,False
+1557797513711,앱 설치 마법사,1230735600000,com.sec.android.preloadinstaller,True,1230735600000,False
+1557797513711,UIBCVirtualSoftkey,1230735600000,com.sec.android.uibcvirtualsoftkey,True,1230735600000,False
+1557797513711,Android 설정,1230735600000,com.google.android.setupwizard,True,1230735600000,False
+1557797513711,갤러리,1553627324611,com.sec.android.gallery3d,True,1230735600000,True
+1557797513711,설정 저장소,1230735600000,com.android.providers.settings,True,1230735600000,False
+1557797513711,접근성,1230735600000,com.samsung.accessibility,True,1230735600000,False
+1557797513711,IMS Service,1230735600000,com.sec.imsservice,True,1230735600000,False
+1557797513711,com.android.sharedstoragebackup,1230735600000,com.android.sharedstoragebackup,True,1230735600000,False
+1557797513711,U+ 고객센터,1556478984307,com.lguplus.mobile.cs,True,1230735600000,True
+1557797513711,Samsung Experience Service,1556650304777,com.samsung.android.mobileservice,True,1230735600000,True
+1557797513711,인쇄 스풀러,1230735600000,com.android.printspooler,True,1230735600000,False
+1557797513711,OK Google enrollment,1230735600000,com.android.hotwordenrollment.okgoogle,True,1230735600000,False
+1557797513711,Gear VR Service,1230735600000,com.samsung.android.hmt.vrsvc,True,1230735600000,False
+1557797513711,Bixby Global Action,1540770362026,com.samsung.android.bixby.es.globalaction,False,1230735600000,False
+1557797513711,갤러리 스토리,1230735600000,com.samsung.storyservice,True,1230735600000,False
+1557797513711,기본 화면 보호기,1230735600000,com.android.dreams.basic,True,1230735600000,False
+1557797513711,Samsung Music,1557427587687,com.sec.android.app.music,False,1540700790904,False
+1557797513711,SecureElementApplication,1230735600000,com.android.se,True,1230735600000,False
+1557797513711,입력 기기,1230735600000,com.android.inputdevices,True,1230735600000,False
+1557797513711,Daum 뉴스,1551919972187,com.samsung.android.widgetapp.daumedge.news,False,1514732576308,False
+1557797513711,Payment Services,1230735600000,com.samsung.android.kgclient,True,1230735600000,False
+1557797513711,보안 폴더,1230735600000,com.samsung.knox.securefolder,True,1230735600000,False
+1557797513711,컬러노트,1556368896231,com.socialnmobile.dictapps.notepad.color.note,False,1551015473605,False
+1557797513711,Voice Assistant,1230735600000,com.samsung.android.app.talkback,True,1230735600000,False
+1557797513711,기본 인쇄 서비스,1230735600000,com.android.bips,True,1230735600000,False
+1557797513711,게임툴즈,1230735600000,com.samsung.android.game.gametools,True,1230735600000,False
+1557797513711,Samsung DeX 시스템 UI,1230735600000,com.samsung.desktopsystemui,True,1230735600000,False
+1557797513711,링크 공유,1230735600000,com.samsung.android.app.simplesharing,True,1230735600000,False
+1557797513711,Hidden Network Setting,1230735600000,com.samsung.hiddennetworksetting,True,1230735600000,False
+1557797513711,People edge,1230735600000,com.samsung.android.service.peoplestripe,True,1230735600000,False
+1557797513711,서라운드 샷,1230735600000,com.sec.android.gallery3d.panorama360view,True,1230735600000,False
+1557797513711,듀얼 메신저,1230735600000,com.samsung.android.da.daagent,True,1230735600000,False
+1557797513711,리마인더,1554406435968,com.samsung.android.app.reminder,True,1230735600000,True
+1557797513711,슬로우 모션 에디터,1230735600000,com.samsung.app.slowmotion,True,1230735600000,False
+1557797513711,Time Zone Updater,1542827404377,com.samsung.android.timezone.autoupdate_O,False,1230735600000,False
+1557797513711,Smart Call,1230735600000,com.samsung.android.smartcallprovider,True,1230735600000,False
+1557797513711,삼성 캡처,1230735600000,com.samsung.android.app.smartcapture,True,1230735600000,False
+1557797513711,Samsung DeX,1230735600000,com.sec.android.desktopmode.uiservice,True,1230735600000,False
+1557797513711,U+ 편의기능,1230735600000,com.lguplus.lgusetting,True,1230735600000,False
+1557797513711,지도,1556738367848,com.google.android.apps.maps,True,1230735600000,True
+1557797513711,ANT+ Plugins Service,1541127923541,com.dsi.ant.plugins.antplus,True,1230735600000,True
+1557797513711,Tasks edge,1230735600000,com.samsung.android.app.taskedge,True,1230735600000,False
+1557797513711,Paco,1557199095250,com.pacoapp.paco,False,1557199095250,False
+1557797513711,IMS Settings,1230735600000,com.samsung.advp.imssettings,True,1230735600000,False
+1557797513711,slocation,1230735600000,com.samsung.android.location,True,1230735600000,False
+1557797513711,삼성 키보드,1557254494913,com.sec.android.inputmethod,True,1230735600000,True
+1557797513711,Sound detectors,1230735600000,com.samsung.android.app.advsounddetector,True,1230735600000,False
+1557797513711,시계,1556634810566,com.sec.android.app.clockpackage,True,1230735600000,True
+1557797513711,Service mode RIL,1230735600000,com.sec.android.RilServiceModeApp,True,1230735600000,False
+1557797513711,Android System WebView,1230735600000,com.google.android.webview,True,1230735600000,False
+1557797513711,SIM 카드 관리자,1230735600000,com.sec.android.app.simsettingmgr,True,1230735600000,False
+1557797513711,Samsung MirrorLink 1.1,1230735600000,com.samsung.android.app.mirrorlink,True,1230735600000,False
+1557797513711,전화,1230735600000,com.android.server.telecom,True,1230735600000,False
+1557797513711,Google 주소록 동기화,1230735600000,com.google.android.syncadapters.contacts,True,1230735600000,False
+1557797513711,ImsLogger,1230735600000,com.sec.imslogger,True,1230735600000,False
+1557797513711,ClipboardUIService,1230735600000,com.samsung.android.clipboarduiservice,True,1230735600000,False
+1557797513711,키 체인,1230735600000,com.android.keychain,True,1230735600000,False
+1557797513711,다방,1556652297079,kr.co.station3.dabang,False,1554568326210,False
+1557797513711,Chrome,1556911245031,com.android.chrome,True,1230735600000,True
+1557797513711,IpsGeofence,1230735600000,com.samsung.android.ipsgeofence,True,1230735600000,False
+1557797513711,Samsung Themes,1230735600000,com.samsung.android.themecenter,True,1230735600000,False
+1557797513711,패키지 설치 프로그램,1230735600000,com.google.android.packageinstaller,True,1230735600000,False
+1557797513711,Google Play 서비스,1557343137845,com.google.android.gms,True,1230735600000,True
+1557797513711,Google Services Framework,1230735600000,com.google.android.gsf,True,1230735600000,False
+1557797513711,Google TTS 엔진,1554483223917,com.google.android.tts,True,1230735600000,True
+1557797513711,ConfigAPK,1540581344230,android.autoinstalls.config.samsung,True,1230735600000,True
+1557797513711,Call Log Backup/Restore,1230735600000,com.android.calllogbackup,True,1230735600000,False
+1557797513711,Google Partner Setup,1230735600000,com.google.android.partnersetup,True,1230735600000,False
+1557797513711,에브리타임,1556651770942,com.everytime.v2,False,1551014047566,False
+1557797513711,DiagMonAgent,1230735600000,com.sec.android.diagmonagent,True,1230735600000,False
+1557797513711,KnoxContainerDesktop,1230735600000,com.samsung.android.knox.containerdesktop,True,1230735600000,False
+1557797513711,USIM Agent,1230735600000,com.lguplus.tsmproxy,True,1230735600000,False
+1557797513711,Samsung Push Service,1230735600000,com.sec.spp.push,True,1230735600000,False
+1557797513711,이동통신사 기본 앱,1230735600000,com.android.carrierdefaultapp,True,1230735600000,False
+1557797513711,ANT+ HAL 서비스,1230735600000,com.dsi.ant.server,True,1230735600000,False
+1557797513711,Intelligent Scan,1230735600000,com.samsung.android.biometrics.service,True,1230735600000,False
+1557797513711,내 파일,1230735600000,com.sec.android.app.myfiles,True,1230735600000,False
+1557797513711,ProxyHandler,1230735600000,com.android.proxyhandler,True,1230735600000,False
+1557797513711,한컴오피스 viewer,1555615142942,com.tf.thinkdroid.viewer,False,1540965071484,False
+1557797513711,Wi-Fi 다이렉트,1230735600000,com.samsung.android.allshare.service.fileshare,True,1230735600000,False
+1557797513711,Daum 검색,1551919979658,com.samsung.android.widgetapp.daumedge.kakao,False,1514732574451,False
+1557797513711,포토 에디터,1230735600000,com.sec.android.mimage.photoretouching,True,1230735600000,False
+1557797513711,Samsung Experience 홈,1230735600000,com.sec.android.app.launcher,True,1230735600000,False
+1557797513711,Universal switch,1230735600000,com.samsung.android.universalswitch,True,1230735600000,False
+1557797513711,Samsung ApexService,1230735600000,com.sec.android.app.apex,True,1230735600000,False
+1557797513711,Briefing,1557522411072,flipboard.boxer.app,True,1230735600000,True
+1557797513711,마켓 피드백 에이전트,1230735600000,com.google.android.feedback,True,1230735600000,False
+1557797513711,Print Service Recommendation Service,1230735600000,com.google.android.printservice.recommendation,True,1230735600000,False
+1557797513711,Tinker,1230735600000,com.monotype.android.font.tinkerbell,True,1230735600000,False
+1557797513711,캘린더,1557170336013,com.google.android.calendar,False,1551012693294,False
+1557797513711,Google 캘린더 동기화,1230735600000,com.google.android.syncadapters.calendar,True,1230735600000,False
+1557797513711,직장 프로필 설정,1230735600000,com.android.managedprovisioning,True,1230735600000,False
+1557797513711,앱 소리 분리 재생,1230735600000,com.samsung.android.setting.multisound,True,1230735600000,False
+1557797513711,VisionProvider,1230735600000,com.samsung.visionprovider,True,1230735600000,False
+1557797513711,Authentication Framework,1230735600000,com.samsung.android.authfw,True,1230735600000,False
+1557797513711,ChocoEUKor,1230735600000,com.monotype.android.font.chococooky,True,1230735600000,False
+1557797513711,사진 스크린세이버,1230735600000,com.android.dreams.phototable,True,1230735600000,False
+1557797513711,기본 3D 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear3d.preload,True,1230735600000,False
+1557797513711,BixbyVision Framework,1230735600000,com.samsung.android.bixbyvision.framework,True,1230735600000,False
+1557797513711,Health Service,1230735600000,com.sec.android.service.health,True,1230735600000,False
+1557797513711,안전정보,1230735600000,com.samsung.safetyinformation,True,1230735600000,False
+1557797513711,전화,1555969802039,com.samsung.android.dialer,True,1230735600000,True
+1557797513711,DQA,1230735600000,com.samsung.android.dqagent,True,1230735600000,False
+1557797513711,스토리 비디오 에디터,1230735600000,com.samsung.app.highlightplayer,True,1230735600000,False
+1557797513711,ringtonebackup,1230735600000,com.sec.android.app.ringtoneBR,True,1230735600000,False
+1557797513711,Game Optimizing Service,1556143145687,com.samsung.android.game.gos,True,1230735600000,True
+1557797513711,비디오 에디터,1230735600000,com.sec.android.app.vepreload,True,1230735600000,False
+1557797513711,Galaxy Graphics Driver,1230735600000,com.samsung.gpudriver.S9MaliG72_90,True,1230735600000,False
+1557797513711,com.android.providers.partnerbookmarks,1230735600000,com.android.providers.partnerbookmarks,True,1230735600000,False
+1557797513711,SEMFactoryApp,1230735600000,com.sem.factoryapp,True,1230735600000,False
+1557797513711,Keyguard Wallpaper Updator,1230735600000,com.samsung.android.keyguardwallpaperupdator,True,1230735600000,False
+1557797513711,TeeService,1230735600000,com.trustonic.teeservice,True,1230735600000,False
+1557797513711,라이브 배경화면 선택기,1230735600000,com.android.wallpaper.livepicker,True,1230735600000,False
+1557797513711,SmartThings,1230735600000,com.samsung.android.beaconmanager,True,1230735600000,False
+1557797513711,밥대생,1551722621385,kr.ac.kaist.bab,False,1545725718018,False
+1557797513711,Enterprise Sim Pin Service,1230735600000,com.sec.enterprise.mdm.services.simpin,True,1230735600000,False
+1557797513711,태그,1230735600000,com.android.apps.tag,True,1230735600000,False
+1557797513711,Messenger,1556911194705,com.facebook.orca,False,1542123481817,False
+1557797513711,IMS DM,1230735600000,com.ims.dm,True,1230735600000,False
+1557797513711,StickerCenter,1230735600000,com.samsung.android.stickercenter,True,1230735600000,False
+1557797513711,번호 안내 서비스,1230735600000,com.samsung.kt114provider2,True,1230735600000,False
+1557797513711,소프트웨어 업데이트,1230735600000,com.sec.android.soagent,True,1230735600000,False
+1557797513711,com.google.android.gms.policy_sidecar_aps,1230735600000,com.google.android.gms.policy_sidecar_aps,True,1230735600000,False
+1557797513711,빠른 도구 모음,1230735600000,com.sec.android.app.quicktool,True,1230735600000,False
+1557797513711,내 디바이스 찾기,1555709989334,com.samsung.android.fmm,True,1230735600000,True
+1557797513711,MDMApp,1230735600000,com.samsung.android.mdm,True,1230735600000,False
+1557797513711,Wi-Fi 전화,1230735600000,com.sec.unifiedwfc,True,1230735600000,False
+1557797513711,com.sec.phone,1230735600000,com.sec.phone,True,1230735600000,False
+1557797513711,MLDAPlog,1230735600000,com.sec.mldapchecker,True,1230735600000,False
+1557797513711,음성 호출,1555196503536,com.samsung.android.bixby.wakeup,True,1230735600000,True
+1557797513711,Adobe Acrobat,1555442825164,com.adobe.reader,False,1540910659965,False
+1557797513711,Google 백업 전송,1230735600000,com.google.android.backuptransport,True,1230735600000,False
+1557797513711,Samsung Pass,1551306729202,com.samsung.android.samsungpass,True,1230735600000,True
+1557797513711,Bixby Service,1540770365453,com.samsung.android.bixby.plmsync,False,1230735600000,False
+1557797513711,저장용량 관리자,1230735600000,com.android.storagemanager,True,1230735600000,False
+1557797513711,삼성 클라우드,1230735600000,com.samsung.android.scloud,True,1230735600000,False
+1557797513711,사운드 선택기,1230735600000,com.samsung.android.app.soundpicker,True,1230735600000,False
+1557797513711,통신상태알림,1230735600000,com.sec.app.RilErrorNotifier,True,1230735600000,False
+1557797513711,Samsung PaymentFramework,1230735600000,com.samsung.android.spayfw,True,1230735600000,False
+1557797513711,Logger,1557201160374,iclab.kaist.ac.kr.msband_logger,False,1557201160374,False
+1557797513711,Bookmark Provider,1230735600000,com.android.bookmarkprovider,True,1230735600000,False
+1557797513711,설정,1230735600000,com.android.settings,True,1230735600000,False
+1557797513711,동영상 잘라내기,1230735600000,com.samsung.app.newtrim,True,1230735600000,False
+1557797513711,Dsms,1230735600000,com.samsung.android.dsms,True,1230735600000,False
+1557797513711,디바이스 케어,1556056426577,com.samsung.android.lool,True,1230735600000,True
+1557797513711,BluetoothTest,1230735600000,com.sec.android.app.bluetoothtest,True,1230735600000,False
+1557797513711,Samsung Device Health Manager Service,1230735600000,com.sec.android.sdhms,True,1230735600000,False
+1557797513711,빅스비 홈,1553957253322,com.samsung.android.app.spage,True,1230735600000,True
+1557797513711,Knox Analytics Uploader,1230735600000,com.samsung.android.knox.analytics.uploader,True,1230735600000,False
+1557797513711,SCPM Client,1230735600000,com.samsung.android.sm.policy,True,1230735600000,False
+1557797513711,실행 프로그램,1230735600000,com.sec.android.emergencylauncher,True,1230735600000,False
+1557797513711,카카오톡,1556824948437,com.kakao.talk,False,1540702663384,False
+1557797513711,Adapt sound,1230735600000,com.sec.hearingadjust,True,1230735600000,False
+1557797513711,Smart Switch,1551920014733,com.sec.android.easyMover,False,1514732587622,False
+1557797513711,Device Health Services,1554233443741,com.google.android.apps.turbo,True,1230735600000,True
+1557797513711,블루라이트 필터,1230735600000,com.samsung.android.bluelightfilter,True,1230735600000,False
+1557797513711,BBCAgent,1230735600000,com.samsung.android.bbc.bbcagent,True,1230735600000,False
+1557797513711,빅스비 비전,1553957281005,com.samsung.android.visionintelligence,True,1230735600000,True
+1557797513711,KnoxVpnPacProcessor,1230735600000,com.knox.vpn.proxyhandler,True,1230735600000,False
+1557797513711,com.android.cts.ctsshim,1230735600000,com.android.cts.ctsshim,True,1230735600000,False
+1557797513711,SplitSoundService,1230735600000,com.sec.android.splitsound,True,1230735600000,False
+1557797513711,Wearable Manager Installer,1230735600000,com.samsung.android.app.watchmanagerstub,True,1230735600000,False
+1557797513711,SVC Agent,1230735600000,com.samsung.android.svcagent,True,1230735600000,False
+1557797513711,삼성 음성 입력,1230735600000,com.samsung.android.svoiceime,True,1230735600000,False
+1557797513711,Samsung Galaxy Friends,1230735600000,com.samsung.android.mateagent,True,1230735600000,False
+1557797513711,NetworkDiagnostic,1230735600000,com.samsung.android.networkdiagnostic,True,1230735600000,False
+1557797513711,GOS Legacy,1230735600000,com.enhance.gameservice,True,1230735600000,False
+1557797513711,ShortcutBNR,1230735600000,com.samsung.android.shortcutbackupservice,True,1230735600000,False
+1557797513711,VpnDialogs,1230735600000,com.android.vpndialogs,True,1230735600000,False
+1557797513711,eSE UCS Plugin,1230735600000,com.samsung.ucs.agent.ese,True,1230735600000,False
+1557797513711,연락처 저장공간,1230735600000,com.samsung.android.providers.contacts,True,1230735600000,False
+1557797513711,원스토어 서비스,1556587983905,com.skt.skaf.OA00018282,True,1230735600000,True
+1557797513711,전화,1230735600000,com.android.phone,True,1230735600000,False
+1557797513711,Google VR 서비스,1551727172107,com.google.vr.vrcore,True,1230735600000,True
+1557797513711,셸,1230735600000,com.android.shell,True,1230735600000,False
+1557797513711,com.android.wallpaperbackup,1230735600000,com.android.wallpaperbackup,True,1230735600000,False
+1557797513711,차단된 번호 스토리지,1230735600000,com.android.providers.blockednumber,True,1230735600000,False
+1557797513711,구성 업데이트,1230735600000,com.samsung.android.app.omcagent,True,1230735600000,False
+1557797513711,사용자 사전,1230735600000,com.android.providers.userdictionary,True,1230735600000,False
+1557797513711,DMB,1230735600000,com.samsung.android.app.dtv.dmb,True,1230735600000,False
+1557797513711,Knox Enrollment Service,1230735600000,com.sec.enterprise.knox.cloudmdm.smdms,True,1230735600000,False
+1557797513711,기본 스탬프,1230735600000,com.samsung.android.app.camera.sticker.stamp.preload,True,1230735600000,False
+1557797513711,긴급 상황 정보,1230735600000,com.android.emergency,True,1230735600000,False
+1557797513711,소프트웨어 업데이트,1230735600000,com.wssyncmldm,True,1230735600000,False
+1557797513711,소프트웨어 업데이트,1230735600000,com.skt.skaf.OA00412131,True,1230735600000,False
+1557797513711,Fused Location,1230735600000,com.android.location.fused,True,1230735600000,False
+1557797513711,Apps edge,1230735600000,com.samsung.android.app.appsedge,True,1230735600000,False
+1557797513711,Samsung Pass 자동 완성,1549048445054,com.samsung.android.samsungpassautofill,True,1230735600000,True
+1557797513711,com.sec.epdg,1230735600000,com.sec.epdg,True,1230735600000,False
+1557797513711,시스템 UI,1230735600000,com.android.systemui,True,1230735600000,False
+1557797513711,Perso,1230735600000,com.sec.android.app.personalization,True,1230735600000,False
+1557797513711,Bluetooth MIDI Service,1230735600000,com.android.bluetoothmidiservice,True,1230735600000,False
+1557797513711,HandwritingService,1230735600000,com.samsung.android.sdk.handwriting,True,1230735600000,False
+1557797513711,미세미세,1556738271933,cheehoon.ha.particulateforecaster,False,1551498069153,False
+1557797513711,AASAservice,1230735600000,com.samsung.aasaservice,True,1230735600000,False
+1557797513711,시스템 추적,1230735600000,com.android.traceur,True,1230735600000,False
+1557797513711,Nearby Service,1230735600000,com.samsung.android.allshare.service.mediashare,True,1230735600000,False
+1557797513711,라디오,1230735600000,com.sec.android.app.fm,True,1230735600000,False
+1557797513711,Camera Iris Factory Test,1230735600000,com.sec.factory.iris.camera,True,1230735600000,False
+1557797513711,EmergencyProvider,1230735600000,com.sec.android.provider.emergencymode,True,1230735600000,False
+1557797513711,AppLinker,1230735600000,com.sec.android.app.applinker,True,1230735600000,False
+1557797513711,원터치개인,1556368588738,com.wooribank.pib.smart,False,1541570263092,False
+1557797513711,카메라,1230735600000,com.sec.android.app.camera,True,1230735600000,False
+1557797513711,블루투스,1230735600000,com.android.bluetooth,True,1230735600000,False
+1557797513711,연락처,1555969774820,com.samsung.android.contacts,True,1230735600000,True
+1557797513711,Clipboard edge,1230735600000,com.samsung.android.app.clipboardedge,True,1230735600000,False
+1557797513711,IPService,1230735600000,com.samsung.ipservice,True,1230735600000,False
+1557797513711,QRreader,1230735600000,com.sec.android.QRreader,True,1230735600000,False
+1557797513711,돋보기,1230735600000,com.sec.android.app.magnifier,True,1230735600000,False
+1557797513711,사용 설명서,1230735600000,com.sec.android.widgetapp.webmanual,True,1230735600000,False
+1557797513711,CSC,1230735600000,com.samsung.sec.android.application.csc,True,1230735600000,False
+1557797513711,CaptivePortalLogin,1230735600000,com.android.captiveportallogin,True,1230735600000,False
+1557797513711,구성 업데이트,1230735600000,com.samsung.android.sdm.config,True,1230735600000,False
+1557797513711,모션 파노라마 뷰어,1230735600000,com.samsung.android.app.motionpanoramaviewer,True,1230735600000,False
+1557797513711,라이브 포커스,1230735600000,com.samsung.android.app.dofviewer,True,1230735600000,False
+1557797513711,Face,1230735600000,com.samsung.android.bio.face.service,True,1230735600000,False
+1557797513711,Bixby Voice Stub,1230735600000,com.samsung.android.bixby.agent.dummy,True,1230735600000,False
+1557797513711,비디오 플레이어,1556332833583,com.samsung.android.video,True,1230735600000,True
+1557797513711,Android 설정,1230735600000,com.google.android.apps.restore,True,1230735600000,False
+1557808324231,Filter Provider,1230735600000,com.samsung.android.provider.filterprovider,True,1230735600000,False
+1557808324231,Automation Test,1230735600000,com.sec.android.app.DataCreate,True,1230735600000,False
+1557808324231,LED 아이콘 편집,1230735600000,com.samsung.android.app.ledcoverdream,True,1230735600000,False
+1557808324231,com.android.cts.priv.ctsshim,1230735600000,com.android.cts.priv.ctsshim,True,1230735600000,False
+1557808324231,RootPA,1230735600000,com.gd.mobicore.pa,True,1230735600000,False
+1557808324231,Galaxy Essentials 위젯,1230735600000,com.sec.android.widgetapp.samsungapps,True,1230735600000,False
+1557808324231,com.samsung.android.smartswitchassistant,1230735600000,com.samsung.android.smartswitchassistant,True,1230735600000,False
+1557808324231,NSDSWebApp,1230735600000,com.sec.vsim.ericssonnsds.webapp,True,1230735600000,False
+1557808324231,SetupWizardLegalProvider,1230735600000,com.sec.android.app.setupwizardlegalprovider,True,1230735600000,False
+1557808324231,YouTube,1556824773803,com.google.android.youtube,True,1230735600000,True
+1557808324231,직방,1556911091737,com.chbreeze.jikbang4a,False,1551429718241,False
+1557808324231,파인더,1230735600000,com.samsung.android.app.galaxyfinder,True,1230735600000,False
+1557808324231,Samsung Location SDK,1230735600000,com.sec.location.nsflp2,True,1230735600000,False
+1557808324231,Galaxy Themes,1552075278508,com.samsung.android.themestore,True,1230735600000,True
+1557808324231,com.sec.android.app.chromecustomizations,1230735600000,com.sec.android.app.chromecustomizations,True,1230735600000,False
+1557808324231,Always On Display,1556368541149,com.samsung.android.app.aodservice,True,1230735600000,True
+1557808324231,Edge screen,1556143080179,com.samsung.android.app.cocktailbarservice,True,1230735600000,True
+1557808324231,모서리 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.corner,True,1230735600000,False
+1557808324231,Android Services Library,1230735600000,com.google.android.ext.services,True,1230735600000,False
+1557808324231,SuwScriptPlayer,1230735600000,com.sec.android.app.suwscriptplayer,True,1230735600000,False
+1557808324231,더블 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.double,True,1230735600000,False
+1557808324231,다이얼러 저장소,1230735600000,com.android.providers.telephony,True,1230735600000,False
+1557808324231,DRParser Mode,1230735600000,com.sec.android.app.parser,True,1230735600000,False
+1557808324231,음성 서비스,1230735600000,com.samsung.svoice.sync,True,1230735600000,False
+1557808324231,Google,1556652061184,com.google.android.googlequicksearchbox,True,1230735600000,True
+1557808324231,캘린더,1554146442128,com.samsung.android.calendar,True,1230735600000,True
+1557808324231,시간대 업데이터,1230735600000,com.samsung.android.timezone.updater,True,1230735600000,False
+1557808324231,캘린더 저장공간,1230735600000,com.android.providers.calendar,True,1230735600000,False
+1557808324231,삼성 계정,1230735600000,com.osp.app.signin,True,1230735600000,False
+1557808324231,ABC Logger,1557201337228,kaist.iclab.abclogger,False,1557201337228,False
+1557808324231,Puffin,1556220326093,com.cloudmosa.puffinFree,False,1549993162171,False
+1557808324231,ClipboardSaveService,1230735600000,com.samsung.clipboardsaveservice,True,1230735600000,False
+1557808324231,TetheringAutomation,1230735600000,com.sec.automation,True,1230735600000,False
+1557808324231,도돌 키보드,1557343197339,com.fiberthemax.OpQ2keyboard,False,1540718257290,False
+1557808324231,미디어 저장공간,1230735600000,com.android.providers.media,True,1230735600000,False
+1557808324231,새 소식,1230735600000,com.samsung.android.app.social,True,1230735600000,False
+1557808324231,Google One Time Init,1230735600000,com.google.android.onetimeinitializer,True,1230735600000,False
+1557808324231,360° 포토 에디터,1230735600000,com.sec.android.mimage.gear360editor,True,1230735600000,False
+1557808324231,Android Shared Library,1230735600000,com.google.android.ext.shared,True,1230735600000,False
+1557808324231,보안정책 업데이트,1230735600000,com.samsung.android.spdclient,True,1230735600000,False
+1557808324231,SNOW,1555528431919,com.campmobile.snow,False,1542452429062,False
+1557808324231,com.android.wallpapercropper,1230735600000,com.android.wallpapercropper,True,1230735600000,False
+1557808324231,com.samsung.android.wallpaper.res,1230735600000,com.samsung.android.wallpaper.res,True,1230735600000,False
+1557808324231,Smart View,1230735600000,com.samsung.android.smartmirroring,True,1230735600000,False
+1557808324231,SKMSAgentService,1230735600000,com.skms.android.agent,True,1230735600000,False
+1557808324231,DeX community,1230735600000,com.sec.android.desktopcommunity,True,1230735600000,False
+1557808324231,안전 지킴이,1230735600000,com.sec.android.app.safetyassurance,True,1230735600000,False
+1557808324231,LGU_GPSnWPS,1230735600000,com.lguplus.lgugpsnwps,True,1230735600000,False
+1557808324231,전화,1230735600000,com.samsung.android.incallui,True,1230735600000,False
+1557808324231,퍼스널 홈,1230735600000,com.samsung.android.knox.containercore,True,1230735600000,False
+1557808324231,키즈 홈 인스톨러,1230735600000,com.samsung.android.kidsinstaller,True,1230735600000,False
+1557808324231,FactoryCamera,1230735600000,com.sec.factory.camera,True,1230735600000,False
+1557808324231,com.sec.internal.vsim.VSimServiceApp,1230735600000,com.sec.vsimservice,True,1230735600000,False
+1557808324231,USBSettings,1230735600000,com.sec.usbsettings,True,1230735600000,False
+1557808324231,SmartThings,1230735600000,com.samsung.android.easysetup,True,1230735600000,False
+1557808324231,파일,1230735600000,com.android.documentsui,True,1230735600000,False
+1557808324231,고속버스 모바일,1556651852685,com.kscc.scxb.mbl,False,1556258062548,False
+1557808324231,android.auto_generated_rro__,1230735600000,android.auto_generated_rro__,True,1230735600000,False
+1557808324231,외부 저장소,1230735600000,com.android.externalstorage,True,1230735600000,False
+1557808324231,EasyOneHand,1230735600000,com.sec.android.easyonehand,True,1230735600000,False
+1557808324231,DeviceTest,1230735600000,com.sec.factory,True,1230735600000,False
+1557808324231,StickerProvider,1230735600000,com.samsung.android.provider.stickerprovider,True,1230735600000,False
+1557808324231,HTML 뷰어,1230735600000,com.android.htmlviewer,True,1230735600000,False
+1557808324231,Naver V Panel,1551920003475,com.samsung.android.app.panel.naver.v,False,1514732582352,False
+1557808324231,삼성 인터넷 패널,1230735600000,com.samsung.android.app.sbrowseredge,True,1230735600000,False
+1557808324231,Companion Device Manager,1230735600000,com.android.companiondevicemanager,True,1230735600000,False
+1557808324231,MmsService,1230735600000,com.android.mms.service,True,1230735600000,False
+1557808324231,맞춤형 서비스,1230735600000,com.samsung.android.rubin.app,True,1230735600000,False
+1557808324231,배경화면,1230735600000,com.sec.android.wallpapercropper2,True,1230735600000,False
+1557808324231,마이 이모지 메이커,1230735600000,com.sec.android.app.camera.avatarauth,True,1230735600000,False
+1557808324231,다운로드 관리자,1230735600000,com.android.providers.downloads,True,1230735600000,False
+1557808324231,사전,1230735600000,com.diotek.sec.lookup.dictionary,True,1230735600000,False
+1557808324231,LED Cover Service,1230735600000,com.sec.android.cover.ledcover,True,1230735600000,False
+1557808324231,Smart Switch 에이전트,1230735600000,com.sec.android.easyMover.Agent,True,1230735600000,False
+1557808324231,bootagent,1230735600000,com.samsung.ucs.agent.boot,True,1230735600000,False
+1557808324231,설정메시지,1230735600000,com.wsomacp,True,1230735600000,False
+1557808324231,com.samsung.faceservice,1230735600000,com.samsung.faceservice,True,1230735600000,False
+1557808324231,음성 녹음,1555729071365,com.sec.android.app.voicenote,False,1541352616961,False
+1557808324231,AhnLab V3 Mobile Plus 2.0,1555105305022,com.ahnlab.v3mobileplus,False,1541570301679,False
+1557808324231,Foundation,1230735600000,com.monotype.android.font.foundation,True,1230735600000,False
+1557808324231,즐겨찾는 연락처,1230735600000,com.sec.android.widgetapp.easymodecontactswidget,True,1230735600000,False
+1557808324231,MTP 애플리케이션,1230735600000,com.samsung.android.MtpApplication,True,1230735600000,False
+1557808324231,DeviceKeystring,1230735600000,com.sec.android.app.factorykeystring,True,1230735600000,False
+1557808324231,Galaxy Store,1556650215215,com.sec.android.app.samsungapps,True,1230735600000,True
+1557808324231,EmergencyManagerService,1230735600000,com.sec.android.emergencymode.service,True,1230735600000,False
+1557808324231,ConfigUpdater,1230735600000,com.google.android.configupdater,True,1230735600000,False
+1557808324231,WlanTest,1230735600000,com.sec.android.app.wlantest,True,1230735600000,False
+1557808324231,기본 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear.preload,True,1230735600000,False
+1557808324231,SettingsBixby,1230735600000,com.samsung.android.app.settings.bixby,True,1230735600000,False
+1557808324231,삼성 결제,1557254412656,com.sec.android.app.billing,True,1230735600000,True
+1557808324231,모션 와이드 셀프 샷 뷰어,1230735600000,com.samsung.android.app.selfmotionpanoramaviewer,True,1230735600000,False
+1557808324231,EpdgTestApp,1230735600000,com.sec.epdgtestapp,True,1230735600000,False
+1557808324231,Samsung Time Zone Data,1230735600000,com.samsung.android.timezone.data_P,True,1230735600000,False
+1557808324231,게임런처,1554233063807,com.samsung.android.game.gamehome,True,1230735600000,True
+1557808324231,Samsung DeX 홈,1230735600000,com.sec.android.app.desktoplauncher,True,1230735600000,False
+1557808324231,Polar Beat,1557200841996,fi.polar.beat,False,1557200841996,False
+1557808324231,패키지 액세스 도움말,1230735600000,com.android.defcontainer,True,1230735600000,False
+1557808324231,AppleMint,1230735600000,com.monotype.android.font.applemint,True,1230735600000,False
+1557808324231,날씨,1230735600000,com.sec.android.daemonapp,True,1230735600000,False
+1557808324231,com.samsung.daydream.customization,1230735600000,com.samsung.daydream.customization,True,1230735600000,False
+1557808324231,ARCore,1554914833966,com.google.ar.core,True,1230735600000,True
+1557808324231,com.sec.ims,1230735600000,com.sec.ims,True,1230735600000,False
+1557808324231,SecVideoEngineService,1230735600000,com.sec.sve,True,1230735600000,False
+1557808324231,com.sec.enterprise.knox.attestation,1230735600000,com.sec.enterprise.knox.attestation,True,1230735600000,False
+1557808324231,다운로드,1230735600000,com.android.providers.downloads.ui,True,1230735600000,False
+1557808324231,Google Play 스토어,1557199240412,com.android.vending,True,1230735600000,True
+1557808324231,PacProcessor,1230735600000,com.android.pacprocessor,True,1230735600000,False
+1557808324231,Sim App Dialog,1230735600000,com.android.simappdialog,True,1230735600000,False
+1557808324231,SystemUIBixby2,1230735600000,com.samsung.systemui.bixby2,True,1230735600000,False
+1557808324231,ANT Radio Service,1557547670584,com.dsi.ant.service.socket,True,1230735600000,True
+1557808324231,AutoPreconfig,1230735600000,com.sec.android.AutoPreconfig,True,1230735600000,False
+1557808324231,설정,1230735600000,com.samsung.android.SettingsReceiver,True,1230735600000,False
+1557808324231,Daum 스포츠,1551919995033,com.samsung.android.widgetapp.daumedge.sports,False,1514732578619,False
+1557808324231,세로로 긴 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.tall,True,1230735600000,False
+1557808324231,SoundAlive,1230735600000,com.sec.android.app.soundalive,True,1230735600000,False
+1557808324231,보안 저장소,1230735600000,com.sec.android.providers.security,True,1230735600000,False
+1557808324231,BadgeProvider,1230735600000,com.sec.android.provider.badge,True,1230735600000,False
+1557808324231,인증서 설치 마법사,1230735600000,com.android.certinstaller,True,1230735600000,False
+1557808324231,SecurityLogAgent,1230735600000,com.samsung.android.securitylogagent,True,1230735600000,False
+1557808324231,com.android.carrierconfig,1230735600000,com.android.carrierconfig,True,1230735600000,False
+1557808324231,원스토어,1556588015538,com.lguplus.appstore,True,1230735600000,True
+1557808324231,설정,1230735600000,com.samsung.android.knox.containeragent,True,1230735600000,False
+1557808324231,Assistant menu,1230735600000,com.samsung.android.app.assistantmenu,True,1230735600000,False
+1557808324231,삼성 TTS 엔진,1230735600000,com.samsung.SMT,True,1230735600000,False
+1557808324231,CMHProvider,1230735600000,com.samsung.cmh,True,1230735600000,False
+1557808324231,mlp,1230735600000,com.samsung.mlp,True,1230735600000,False
+1557808324231,아웃 포커스,1230735600000,com.sec.android.ofviewer,True,1230735600000,False
+1557808324231,Camera Iris User Test,1230735600000,com.sec.factory.iris.usercamera,True,1230735600000,False
+1557808324231,CarmodeStub,1230735600000,com.samsung.android.drivelink.stub,True,1230735600000,False
+1557808324231,안드로이드 시스템,1230735600000,android,True,1230735600000,False
+1557808324231,X Google enrollment,1230735600000,com.android.hotwordenrollment.xgoogle,True,1230735600000,False
+1557808324231,Knox Key Chain,1230735600000,com.samsung.knox.keychain,True,1230735600000,False
+1557808324231,러브데이,1557429424804,com.wonderabbit.lovedays,False,1552049533113,False
+1557808324231,디바이스 보호,1230735600000,com.samsung.android.sm.devicesecurity,True,1230735600000,False
+1557808324231,기본 프레임,1230735600000,com.samsung.android.app.camera.sticker.facearframe.preload,True,1230735600000,False
+1557808324231,ANT + DUT,1230735600000,com.dsi.ant.sample.acquirechannels,True,1230735600000,False
+1557808324231,AirCommandManager,1230735600000,com.samsung.android.aircommandmanager,True,1230735600000,False
+1557808324231,Wi-Fi 사용 팁,1230735600000,com.samsung.android.net.wifi.wifiguider,True,1230735600000,False
+1557808324231,빅스비 서비스,1555196483580,com.samsung.android.bixby.service,True,1230735600000,True
+1557808324231,SmartFaceService,1230735600000,com.samsung.android.smartface,True,1230735600000,False
+1557808324231,Android Easter Egg,1230735600000,com.android.egg,True,1230735600000,False
+1557808324231,MTP 호스트,1230735600000,com.android.mtp,True,1230735600000,False
+1557808324231,NFC,1230735600000,com.android.nfc,True,1230735600000,False
+1557808324231,SIM 툴킷,1230735600000,com.android.stk,True,1230735600000,False
+1557808324231,메시지,1555526844963,com.samsung.android.messaging,True,1230735600000,True
+1557808324231,emojiupdater,1230735600000,com.samsung.android.emojiupdater,True,1230735600000,False
+1557808324231,com.android.backupconfirm,1230735600000,com.android.backupconfirm,True,1230735600000,False
+1557808324231,KLMS Agent,1230735600000,com.samsung.klmsagent,True,1230735600000,False
+1557808324231,카톡 프리뷰,1555874253613,com.taeyoung.jimoon.kakaopreview,False,1543590975989,False
+1557808324231,Naver TV Cast Panel,1551919984807,com.samsung.android.app.panel.naver.tv,False,1514732581114,False
+1557808324231,SmartFittingService,1230735600000,com.samsung.android.smartfitting,True,1230735600000,False
+1557808324231,삼성 설정 마법사,1230735600000,com.sec.android.app.SecSetupWizard,True,1230735600000,False
+1557808324231,전화,1230735600000,com.samsung.android.app.telephonyui,True,1230735600000,False
+1557808324231,앱 추가 설치,1230735600000,com.samsung.preloadapp,True,1230735600000,False
+1557808324231,SamsungPositioning,1230735600000,com.samsung.android.samsungpositioning,True,1230735600000,False
+1557808324231,Intent Filter Verification Service,1230735600000,com.android.statementservice,True,1230735600000,False
+1557808324231,Gmail,1555729312310,com.google.android.gm,True,1230735600000,True
+1557808324231,빅스비 보이스,1555969823972,com.samsung.android.bixby.agent,True,1230735600000,True
+1557808324231,어피치,1555785597188,com.kakao.talk.theme.apeach,False,1545225688089,False
+1557808324231,UsimDownload,1230735600000,com.sec.android.UsimRegistrationKOR,True,1230735600000,False
+1557808324231,Microsoft Health,1557200054867,com.microsoft.kapp,False,1557200054867,False
+1557808324231,HwModuleTest,1230735600000,com.sec.android.app.hwmoduletest,True,1230735600000,False
+1557808324231,Settings Suggestions,1230735600000,com.android.settings.intelligence,True,1230735600000,False
+1557808324231,com.sec.bcservice,1230735600000,com.sec.bcservice,True,1230735600000,False
+1557808324231,SilentLogging,1230735600000,com.sec.modem.settings,True,1230735600000,False
+1557808324231,홍채,1230735600000,com.samsung.android.server.iris,True,1230735600000,False
+1557808324231,LGUHiddenMenu,1230735600000,com.samsung.hidden.LGU,True,1230735600000,False
+1557808324231,어두움,1230735600000,com.android.systemui.theme.dark,True,1230735600000,False
+1557808324231,Dropsync,1557201776408,com.ttxapps.dropsync,False,1557201776408,False
+1557808324231,Context Service,1230735600000,com.samsung.android.providers.context,True,1230735600000,False
+1557808324231,Service mode,1230735600000,com.sec.android.app.servicemodeapp,True,1230735600000,False
+1557808324231,앱 설치 마법사,1230735600000,com.sec.android.preloadinstaller,True,1230735600000,False
+1557808324231,UIBCVirtualSoftkey,1230735600000,com.sec.android.uibcvirtualsoftkey,True,1230735600000,False
+1557808324231,Android 설정,1230735600000,com.google.android.setupwizard,True,1230735600000,False
+1557808324231,갤러리,1553627324611,com.sec.android.gallery3d,True,1230735600000,True
+1557808324231,설정 저장소,1230735600000,com.android.providers.settings,True,1230735600000,False
+1557808324231,접근성,1230735600000,com.samsung.accessibility,True,1230735600000,False
+1557808324231,IMS Service,1230735600000,com.sec.imsservice,True,1230735600000,False
+1557808324231,com.android.sharedstoragebackup,1230735600000,com.android.sharedstoragebackup,True,1230735600000,False
+1557808324231,U+ 고객센터,1556478984307,com.lguplus.mobile.cs,True,1230735600000,True
+1557808324231,Samsung Experience Service,1556650304777,com.samsung.android.mobileservice,True,1230735600000,True
+1557808324231,인쇄 스풀러,1230735600000,com.android.printspooler,True,1230735600000,False
+1557808324231,OK Google enrollment,1230735600000,com.android.hotwordenrollment.okgoogle,True,1230735600000,False
+1557808324231,Gear VR Service,1230735600000,com.samsung.android.hmt.vrsvc,True,1230735600000,False
+1557808324231,Bixby Global Action,1540770362026,com.samsung.android.bixby.es.globalaction,False,1230735600000,False
+1557808324231,갤러리 스토리,1230735600000,com.samsung.storyservice,True,1230735600000,False
+1557808324231,기본 화면 보호기,1230735600000,com.android.dreams.basic,True,1230735600000,False
+1557808324231,Samsung Music,1557427587687,com.sec.android.app.music,False,1540700790904,False
+1557808324231,SecureElementApplication,1230735600000,com.android.se,True,1230735600000,False
+1557808324231,입력 기기,1230735600000,com.android.inputdevices,True,1230735600000,False
+1557808324231,Daum 뉴스,1551919972187,com.samsung.android.widgetapp.daumedge.news,False,1514732576308,False
+1557808324231,Payment Services,1230735600000,com.samsung.android.kgclient,True,1230735600000,False
+1557808324231,보안 폴더,1230735600000,com.samsung.knox.securefolder,True,1230735600000,False
+1557808324231,컬러노트,1556368896231,com.socialnmobile.dictapps.notepad.color.note,False,1551015473605,False
+1557808324231,Voice Assistant,1230735600000,com.samsung.android.app.talkback,True,1230735600000,False
+1557808324231,기본 인쇄 서비스,1230735600000,com.android.bips,True,1230735600000,False
+1557808324231,게임툴즈,1230735600000,com.samsung.android.game.gametools,True,1230735600000,False
+1557808324231,Samsung DeX 시스템 UI,1230735600000,com.samsung.desktopsystemui,True,1230735600000,False
+1557808324231,링크 공유,1230735600000,com.samsung.android.app.simplesharing,True,1230735600000,False
+1557808324231,Hidden Network Setting,1230735600000,com.samsung.hiddennetworksetting,True,1230735600000,False
+1557808324231,People edge,1230735600000,com.samsung.android.service.peoplestripe,True,1230735600000,False
+1557808324231,서라운드 샷,1230735600000,com.sec.android.gallery3d.panorama360view,True,1230735600000,False
+1557808324231,듀얼 메신저,1230735600000,com.samsung.android.da.daagent,True,1230735600000,False
+1557808324231,리마인더,1554406435968,com.samsung.android.app.reminder,True,1230735600000,True
+1557808324231,슬로우 모션 에디터,1230735600000,com.samsung.app.slowmotion,True,1230735600000,False
+1557808324231,Time Zone Updater,1542827404377,com.samsung.android.timezone.autoupdate_O,False,1230735600000,False
+1557808324231,Smart Call,1230735600000,com.samsung.android.smartcallprovider,True,1230735600000,False
+1557808324231,삼성 캡처,1230735600000,com.samsung.android.app.smartcapture,True,1230735600000,False
+1557808324231,Samsung DeX,1230735600000,com.sec.android.desktopmode.uiservice,True,1230735600000,False
+1557808324231,U+ 편의기능,1230735600000,com.lguplus.lgusetting,True,1230735600000,False
+1557808324231,지도,1556738367848,com.google.android.apps.maps,True,1230735600000,True
+1557808324231,ANT+ Plugins Service,1541127923541,com.dsi.ant.plugins.antplus,True,1230735600000,True
+1557808324231,Tasks edge,1230735600000,com.samsung.android.app.taskedge,True,1230735600000,False
+1557808324231,Paco,1557199095250,com.pacoapp.paco,False,1557199095250,False
+1557808324231,IMS Settings,1230735600000,com.samsung.advp.imssettings,True,1230735600000,False
+1557808324231,slocation,1230735600000,com.samsung.android.location,True,1230735600000,False
+1557808324231,삼성 키보드,1557254494913,com.sec.android.inputmethod,True,1230735600000,True
+1557808324231,Sound detectors,1230735600000,com.samsung.android.app.advsounddetector,True,1230735600000,False
+1557808324231,시계,1556634810566,com.sec.android.app.clockpackage,True,1230735600000,True
+1557808324231,Service mode RIL,1230735600000,com.sec.android.RilServiceModeApp,True,1230735600000,False
+1557808324231,Android System WebView,1230735600000,com.google.android.webview,True,1230735600000,False
+1557808324231,SIM 카드 관리자,1230735600000,com.sec.android.app.simsettingmgr,True,1230735600000,False
+1557808324231,Samsung MirrorLink 1.1,1230735600000,com.samsung.android.app.mirrorlink,True,1230735600000,False
+1557808324231,전화,1230735600000,com.android.server.telecom,True,1230735600000,False
+1557808324231,Google 주소록 동기화,1230735600000,com.google.android.syncadapters.contacts,True,1230735600000,False
+1557808324231,ImsLogger,1230735600000,com.sec.imslogger,True,1230735600000,False
+1557808324231,ClipboardUIService,1230735600000,com.samsung.android.clipboarduiservice,True,1230735600000,False
+1557808324231,키 체인,1230735600000,com.android.keychain,True,1230735600000,False
+1557808324231,다방,1556652297079,kr.co.station3.dabang,False,1554568326210,False
+1557808324231,Chrome,1556911245031,com.android.chrome,True,1230735600000,True
+1557808324231,IpsGeofence,1230735600000,com.samsung.android.ipsgeofence,True,1230735600000,False
+1557808324231,Samsung Themes,1230735600000,com.samsung.android.themecenter,True,1230735600000,False
+1557808324231,패키지 설치 프로그램,1230735600000,com.google.android.packageinstaller,True,1230735600000,False
+1557808324231,Google Play 서비스,1557343137845,com.google.android.gms,True,1230735600000,True
+1557808324231,Google Services Framework,1230735600000,com.google.android.gsf,True,1230735600000,False
+1557808324231,Google TTS 엔진,1554483223917,com.google.android.tts,True,1230735600000,True
+1557808324231,ConfigAPK,1540581344230,android.autoinstalls.config.samsung,True,1230735600000,True
+1557808324231,Call Log Backup/Restore,1230735600000,com.android.calllogbackup,True,1230735600000,False
+1557808324231,Google Partner Setup,1230735600000,com.google.android.partnersetup,True,1230735600000,False
+1557808324231,에브리타임,1556651770942,com.everytime.v2,False,1551014047566,False
+1557808324231,DiagMonAgent,1230735600000,com.sec.android.diagmonagent,True,1230735600000,False
+1557808324231,KnoxContainerDesktop,1230735600000,com.samsung.android.knox.containerdesktop,True,1230735600000,False
+1557808324231,USIM Agent,1230735600000,com.lguplus.tsmproxy,True,1230735600000,False
+1557808324231,Samsung Push Service,1230735600000,com.sec.spp.push,True,1230735600000,False
+1557808324231,이동통신사 기본 앱,1230735600000,com.android.carrierdefaultapp,True,1230735600000,False
+1557808324231,ANT+ HAL 서비스,1230735600000,com.dsi.ant.server,True,1230735600000,False
+1557808324231,Intelligent Scan,1230735600000,com.samsung.android.biometrics.service,True,1230735600000,False
+1557808324231,내 파일,1230735600000,com.sec.android.app.myfiles,True,1230735600000,False
+1557808324231,ProxyHandler,1230735600000,com.android.proxyhandler,True,1230735600000,False
+1557808324231,한컴오피스 viewer,1555615142942,com.tf.thinkdroid.viewer,False,1540965071484,False
+1557808324231,Wi-Fi 다이렉트,1230735600000,com.samsung.android.allshare.service.fileshare,True,1230735600000,False
+1557808324231,Daum 검색,1551919979658,com.samsung.android.widgetapp.daumedge.kakao,False,1514732574451,False
+1557808324231,포토 에디터,1230735600000,com.sec.android.mimage.photoretouching,True,1230735600000,False
+1557808324231,Samsung Experience 홈,1230735600000,com.sec.android.app.launcher,True,1230735600000,False
+1557808324231,Universal switch,1230735600000,com.samsung.android.universalswitch,True,1230735600000,False
+1557808324231,Samsung ApexService,1230735600000,com.sec.android.app.apex,True,1230735600000,False
+1557808324231,Briefing,1557522411072,flipboard.boxer.app,True,1230735600000,True
+1557808324231,마켓 피드백 에이전트,1230735600000,com.google.android.feedback,True,1230735600000,False
+1557808324231,Print Service Recommendation Service,1230735600000,com.google.android.printservice.recommendation,True,1230735600000,False
+1557808324231,Tinker,1230735600000,com.monotype.android.font.tinkerbell,True,1230735600000,False
+1557808324231,캘린더,1557170336013,com.google.android.calendar,False,1551012693294,False
+1557808324231,Google 캘린더 동기화,1230735600000,com.google.android.syncadapters.calendar,True,1230735600000,False
+1557808324231,직장 프로필 설정,1230735600000,com.android.managedprovisioning,True,1230735600000,False
+1557808324231,앱 소리 분리 재생,1230735600000,com.samsung.android.setting.multisound,True,1230735600000,False
+1557808324231,VisionProvider,1230735600000,com.samsung.visionprovider,True,1230735600000,False
+1557808324231,Authentication Framework,1230735600000,com.samsung.android.authfw,True,1230735600000,False
+1557808324231,ChocoEUKor,1230735600000,com.monotype.android.font.chococooky,True,1230735600000,False
+1557808324231,사진 스크린세이버,1230735600000,com.android.dreams.phototable,True,1230735600000,False
+1557808324231,기본 3D 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear3d.preload,True,1230735600000,False
+1557808324231,BixbyVision Framework,1230735600000,com.samsung.android.bixbyvision.framework,True,1230735600000,False
+1557808324231,Health Service,1230735600000,com.sec.android.service.health,True,1230735600000,False
+1557808324231,안전정보,1230735600000,com.samsung.safetyinformation,True,1230735600000,False
+1557808324231,전화,1555969802039,com.samsung.android.dialer,True,1230735600000,True
+1557808324231,DQA,1230735600000,com.samsung.android.dqagent,True,1230735600000,False
+1557808324231,스토리 비디오 에디터,1230735600000,com.samsung.app.highlightplayer,True,1230735600000,False
+1557808324231,ringtonebackup,1230735600000,com.sec.android.app.ringtoneBR,True,1230735600000,False
+1557808324231,Game Optimizing Service,1556143145687,com.samsung.android.game.gos,True,1230735600000,True
+1557808324231,비디오 에디터,1230735600000,com.sec.android.app.vepreload,True,1230735600000,False
+1557808324231,Galaxy Graphics Driver,1230735600000,com.samsung.gpudriver.S9MaliG72_90,True,1230735600000,False
+1557808324231,com.android.providers.partnerbookmarks,1230735600000,com.android.providers.partnerbookmarks,True,1230735600000,False
+1557808324231,SEMFactoryApp,1230735600000,com.sem.factoryapp,True,1230735600000,False
+1557808324231,Keyguard Wallpaper Updator,1230735600000,com.samsung.android.keyguardwallpaperupdator,True,1230735600000,False
+1557808324231,TeeService,1230735600000,com.trustonic.teeservice,True,1230735600000,False
+1557808324231,라이브 배경화면 선택기,1230735600000,com.android.wallpaper.livepicker,True,1230735600000,False
+1557808324231,SmartThings,1230735600000,com.samsung.android.beaconmanager,True,1230735600000,False
+1557808324231,밥대생,1551722621385,kr.ac.kaist.bab,False,1545725718018,False
+1557808324231,Enterprise Sim Pin Service,1230735600000,com.sec.enterprise.mdm.services.simpin,True,1230735600000,False
+1557808324231,태그,1230735600000,com.android.apps.tag,True,1230735600000,False
+1557808324231,Messenger,1556911194705,com.facebook.orca,False,1542123481817,False
+1557808324231,IMS DM,1230735600000,com.ims.dm,True,1230735600000,False
+1557808324231,StickerCenter,1230735600000,com.samsung.android.stickercenter,True,1230735600000,False
+1557808324231,번호 안내 서비스,1230735600000,com.samsung.kt114provider2,True,1230735600000,False
+1557808324231,소프트웨어 업데이트,1230735600000,com.sec.android.soagent,True,1230735600000,False
+1557808324231,com.google.android.gms.policy_sidecar_aps,1230735600000,com.google.android.gms.policy_sidecar_aps,True,1230735600000,False
+1557808324231,빠른 도구 모음,1230735600000,com.sec.android.app.quicktool,True,1230735600000,False
+1557808324231,내 디바이스 찾기,1555709989334,com.samsung.android.fmm,True,1230735600000,True
+1557808324231,MDMApp,1230735600000,com.samsung.android.mdm,True,1230735600000,False
+1557808324231,Wi-Fi 전화,1230735600000,com.sec.unifiedwfc,True,1230735600000,False
+1557808324231,com.sec.phone,1230735600000,com.sec.phone,True,1230735600000,False
+1557808324231,MLDAPlog,1230735600000,com.sec.mldapchecker,True,1230735600000,False
+1557808324231,음성 호출,1555196503536,com.samsung.android.bixby.wakeup,True,1230735600000,True
+1557808324231,Adobe Acrobat,1555442825164,com.adobe.reader,False,1540910659965,False
+1557808324231,Google 백업 전송,1230735600000,com.google.android.backuptransport,True,1230735600000,False
+1557808324231,Samsung Pass,1551306729202,com.samsung.android.samsungpass,True,1230735600000,True
+1557808324231,Bixby Service,1540770365453,com.samsung.android.bixby.plmsync,False,1230735600000,False
+1557808324231,저장용량 관리자,1230735600000,com.android.storagemanager,True,1230735600000,False
+1557808324231,삼성 클라우드,1230735600000,com.samsung.android.scloud,True,1230735600000,False
+1557808324231,사운드 선택기,1230735600000,com.samsung.android.app.soundpicker,True,1230735600000,False
+1557808324231,통신상태알림,1230735600000,com.sec.app.RilErrorNotifier,True,1230735600000,False
+1557808324231,Samsung PaymentFramework,1230735600000,com.samsung.android.spayfw,True,1230735600000,False
+1557808324231,Logger,1557201160374,iclab.kaist.ac.kr.msband_logger,False,1557201160374,False
+1557808324231,Bookmark Provider,1230735600000,com.android.bookmarkprovider,True,1230735600000,False
+1557808324231,설정,1230735600000,com.android.settings,True,1230735600000,False
+1557808324231,동영상 잘라내기,1230735600000,com.samsung.app.newtrim,True,1230735600000,False
+1557808324231,Dsms,1230735600000,com.samsung.android.dsms,True,1230735600000,False
+1557808324231,디바이스 케어,1556056426577,com.samsung.android.lool,True,1230735600000,True
+1557808324231,BluetoothTest,1230735600000,com.sec.android.app.bluetoothtest,True,1230735600000,False
+1557808324231,Samsung Device Health Manager Service,1230735600000,com.sec.android.sdhms,True,1230735600000,False
+1557808324231,빅스비 홈,1553957253322,com.samsung.android.app.spage,True,1230735600000,True
+1557808324231,Knox Analytics Uploader,1230735600000,com.samsung.android.knox.analytics.uploader,True,1230735600000,False
+1557808324231,SCPM Client,1230735600000,com.samsung.android.sm.policy,True,1230735600000,False
+1557808324231,실행 프로그램,1230735600000,com.sec.android.emergencylauncher,True,1230735600000,False
+1557808324231,카카오톡,1556824948437,com.kakao.talk,False,1540702663384,False
+1557808324231,Adapt sound,1230735600000,com.sec.hearingadjust,True,1230735600000,False
+1557808324231,Smart Switch,1551920014733,com.sec.android.easyMover,False,1514732587622,False
+1557808324231,Device Health Services,1554233443741,com.google.android.apps.turbo,True,1230735600000,True
+1557808324231,블루라이트 필터,1230735600000,com.samsung.android.bluelightfilter,True,1230735600000,False
+1557808324231,BBCAgent,1230735600000,com.samsung.android.bbc.bbcagent,True,1230735600000,False
+1557808324231,빅스비 비전,1553957281005,com.samsung.android.visionintelligence,True,1230735600000,True
+1557808324231,KnoxVpnPacProcessor,1230735600000,com.knox.vpn.proxyhandler,True,1230735600000,False
+1557808324231,com.android.cts.ctsshim,1230735600000,com.android.cts.ctsshim,True,1230735600000,False
+1557808324231,SplitSoundService,1230735600000,com.sec.android.splitsound,True,1230735600000,False
+1557808324231,Wearable Manager Installer,1230735600000,com.samsung.android.app.watchmanagerstub,True,1230735600000,False
+1557808324231,SVC Agent,1230735600000,com.samsung.android.svcagent,True,1230735600000,False
+1557808324231,삼성 음성 입력,1230735600000,com.samsung.android.svoiceime,True,1230735600000,False
+1557808324231,Samsung Galaxy Friends,1230735600000,com.samsung.android.mateagent,True,1230735600000,False
+1557808324231,NetworkDiagnostic,1230735600000,com.samsung.android.networkdiagnostic,True,1230735600000,False
+1557808324231,GOS Legacy,1230735600000,com.enhance.gameservice,True,1230735600000,False
+1557808324231,ShortcutBNR,1230735600000,com.samsung.android.shortcutbackupservice,True,1230735600000,False
+1557808324231,VpnDialogs,1230735600000,com.android.vpndialogs,True,1230735600000,False
+1557808324231,eSE UCS Plugin,1230735600000,com.samsung.ucs.agent.ese,True,1230735600000,False
+1557808324231,연락처 저장공간,1230735600000,com.samsung.android.providers.contacts,True,1230735600000,False
+1557808324231,원스토어 서비스,1556587983905,com.skt.skaf.OA00018282,True,1230735600000,True
+1557808324231,전화,1230735600000,com.android.phone,True,1230735600000,False
+1557808324231,Google VR 서비스,1551727172107,com.google.vr.vrcore,True,1230735600000,True
+1557808324231,셸,1230735600000,com.android.shell,True,1230735600000,False
+1557808324231,com.android.wallpaperbackup,1230735600000,com.android.wallpaperbackup,True,1230735600000,False
+1557808324231,차단된 번호 스토리지,1230735600000,com.android.providers.blockednumber,True,1230735600000,False
+1557808324231,구성 업데이트,1230735600000,com.samsung.android.app.omcagent,True,1230735600000,False
+1557808324231,사용자 사전,1230735600000,com.android.providers.userdictionary,True,1230735600000,False
+1557808324231,DMB,1230735600000,com.samsung.android.app.dtv.dmb,True,1230735600000,False
+1557808324231,Knox Enrollment Service,1230735600000,com.sec.enterprise.knox.cloudmdm.smdms,True,1230735600000,False
+1557808324231,기본 스탬프,1230735600000,com.samsung.android.app.camera.sticker.stamp.preload,True,1230735600000,False
+1557808324231,긴급 상황 정보,1230735600000,com.android.emergency,True,1230735600000,False
+1557808324231,소프트웨어 업데이트,1230735600000,com.wssyncmldm,True,1230735600000,False
+1557808324231,소프트웨어 업데이트,1230735600000,com.skt.skaf.OA00412131,True,1230735600000,False
+1557808324231,Fused Location,1230735600000,com.android.location.fused,True,1230735600000,False
+1557808324231,Apps edge,1230735600000,com.samsung.android.app.appsedge,True,1230735600000,False
+1557808324231,Samsung Pass 자동 완성,1549048445054,com.samsung.android.samsungpassautofill,True,1230735600000,True
+1557808324231,com.sec.epdg,1230735600000,com.sec.epdg,True,1230735600000,False
+1557808324231,시스템 UI,1230735600000,com.android.systemui,True,1230735600000,False
+1557808324231,Perso,1230735600000,com.sec.android.app.personalization,True,1230735600000,False
+1557808324231,Bluetooth MIDI Service,1230735600000,com.android.bluetoothmidiservice,True,1230735600000,False
+1557808324231,HandwritingService,1230735600000,com.samsung.android.sdk.handwriting,True,1230735600000,False
+1557808324231,미세미세,1556738271933,cheehoon.ha.particulateforecaster,False,1551498069153,False
+1557808324231,AASAservice,1230735600000,com.samsung.aasaservice,True,1230735600000,False
+1557808324231,시스템 추적,1230735600000,com.android.traceur,True,1230735600000,False
+1557808324231,Nearby Service,1230735600000,com.samsung.android.allshare.service.mediashare,True,1230735600000,False
+1557808324231,라디오,1230735600000,com.sec.android.app.fm,True,1230735600000,False
+1557808324231,Camera Iris Factory Test,1230735600000,com.sec.factory.iris.camera,True,1230735600000,False
+1557808324231,EmergencyProvider,1230735600000,com.sec.android.provider.emergencymode,True,1230735600000,False
+1557808324231,AppLinker,1230735600000,com.sec.android.app.applinker,True,1230735600000,False
+1557808324231,원터치개인,1556368588738,com.wooribank.pib.smart,False,1541570263092,False
+1557808324231,카메라,1230735600000,com.sec.android.app.camera,True,1230735600000,False
+1557808324231,블루투스,1230735600000,com.android.bluetooth,True,1230735600000,False
+1557808324231,연락처,1555969774820,com.samsung.android.contacts,True,1230735600000,True
+1557808324231,Clipboard edge,1230735600000,com.samsung.android.app.clipboardedge,True,1230735600000,False
+1557808324231,IPService,1230735600000,com.samsung.ipservice,True,1230735600000,False
+1557808324231,QRreader,1230735600000,com.sec.android.QRreader,True,1230735600000,False
+1557808324231,돋보기,1230735600000,com.sec.android.app.magnifier,True,1230735600000,False
+1557808324231,사용 설명서,1230735600000,com.sec.android.widgetapp.webmanual,True,1230735600000,False
+1557808324231,CSC,1230735600000,com.samsung.sec.android.application.csc,True,1230735600000,False
+1557808324231,CaptivePortalLogin,1230735600000,com.android.captiveportallogin,True,1230735600000,False
+1557808324231,구성 업데이트,1230735600000,com.samsung.android.sdm.config,True,1230735600000,False
+1557808324231,모션 파노라마 뷰어,1230735600000,com.samsung.android.app.motionpanoramaviewer,True,1230735600000,False
+1557808324231,라이브 포커스,1230735600000,com.samsung.android.app.dofviewer,True,1230735600000,False
+1557808324231,Face,1230735600000,com.samsung.android.bio.face.service,True,1230735600000,False
+1557808324231,Bixby Voice Stub,1230735600000,com.samsung.android.bixby.agent.dummy,True,1230735600000,False
+1557808324231,비디오 플레이어,1556332833583,com.samsung.android.video,True,1230735600000,True
+1557808324231,Android 설정,1230735600000,com.google.android.apps.restore,True,1230735600000,False
+1557819137949,Filter Provider,1230735600000,com.samsung.android.provider.filterprovider,True,1230735600000,False
+1557819137949,Automation Test,1230735600000,com.sec.android.app.DataCreate,True,1230735600000,False
+1557819137949,LED 아이콘 편집,1230735600000,com.samsung.android.app.ledcoverdream,True,1230735600000,False
+1557819137949,com.android.cts.priv.ctsshim,1230735600000,com.android.cts.priv.ctsshim,True,1230735600000,False
+1557819137949,RootPA,1230735600000,com.gd.mobicore.pa,True,1230735600000,False
+1557819137949,Galaxy Essentials 위젯,1230735600000,com.sec.android.widgetapp.samsungapps,True,1230735600000,False
+1557819137949,com.samsung.android.smartswitchassistant,1230735600000,com.samsung.android.smartswitchassistant,True,1230735600000,False
+1557819137949,NSDSWebApp,1230735600000,com.sec.vsim.ericssonnsds.webapp,True,1230735600000,False
+1557819137949,SetupWizardLegalProvider,1230735600000,com.sec.android.app.setupwizardlegalprovider,True,1230735600000,False
+1557819137949,YouTube,1556824773803,com.google.android.youtube,True,1230735600000,True
+1557819137949,직방,1556911091737,com.chbreeze.jikbang4a,False,1551429718241,False
+1557819137949,파인더,1230735600000,com.samsung.android.app.galaxyfinder,True,1230735600000,False
+1557819137949,Samsung Location SDK,1230735600000,com.sec.location.nsflp2,True,1230735600000,False
+1557819137949,Galaxy Themes,1552075278508,com.samsung.android.themestore,True,1230735600000,True
+1557819137949,com.sec.android.app.chromecustomizations,1230735600000,com.sec.android.app.chromecustomizations,True,1230735600000,False
+1557819137949,Always On Display,1556368541149,com.samsung.android.app.aodservice,True,1230735600000,True
+1557819137949,Edge screen,1556143080179,com.samsung.android.app.cocktailbarservice,True,1230735600000,True
+1557819137949,모서리 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.corner,True,1230735600000,False
+1557819137949,Android Services Library,1230735600000,com.google.android.ext.services,True,1230735600000,False
+1557819137949,SuwScriptPlayer,1230735600000,com.sec.android.app.suwscriptplayer,True,1230735600000,False
+1557819137949,더블 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.double,True,1230735600000,False
+1557819137949,다이얼러 저장소,1230735600000,com.android.providers.telephony,True,1230735600000,False
+1557819137949,DRParser Mode,1230735600000,com.sec.android.app.parser,True,1230735600000,False
+1557819137949,음성 서비스,1230735600000,com.samsung.svoice.sync,True,1230735600000,False
+1557819137949,Google,1556652061184,com.google.android.googlequicksearchbox,True,1230735600000,True
+1557819137949,캘린더,1554146442128,com.samsung.android.calendar,True,1230735600000,True
+1557819137949,시간대 업데이터,1230735600000,com.samsung.android.timezone.updater,True,1230735600000,False
+1557819137949,캘린더 저장공간,1230735600000,com.android.providers.calendar,True,1230735600000,False
+1557819137949,삼성 계정,1230735600000,com.osp.app.signin,True,1230735600000,False
+1557819137949,ABC Logger,1557201337228,kaist.iclab.abclogger,False,1557201337228,False
+1557819137949,Puffin,1556220326093,com.cloudmosa.puffinFree,False,1549993162171,False
+1557819137949,ClipboardSaveService,1230735600000,com.samsung.clipboardsaveservice,True,1230735600000,False
+1557819137949,TetheringAutomation,1230735600000,com.sec.automation,True,1230735600000,False
+1557819137949,도돌 키보드,1557343197339,com.fiberthemax.OpQ2keyboard,False,1540718257290,False
+1557819137949,미디어 저장공간,1230735600000,com.android.providers.media,True,1230735600000,False
+1557819137949,새 소식,1230735600000,com.samsung.android.app.social,True,1230735600000,False
+1557819137949,Google One Time Init,1230735600000,com.google.android.onetimeinitializer,True,1230735600000,False
+1557819137949,360° 포토 에디터,1230735600000,com.sec.android.mimage.gear360editor,True,1230735600000,False
+1557819137949,Android Shared Library,1230735600000,com.google.android.ext.shared,True,1230735600000,False
+1557819137949,보안정책 업데이트,1230735600000,com.samsung.android.spdclient,True,1230735600000,False
+1557819137949,SNOW,1555528431919,com.campmobile.snow,False,1542452429062,False
+1557819137949,com.android.wallpapercropper,1230735600000,com.android.wallpapercropper,True,1230735600000,False
+1557819137949,com.samsung.android.wallpaper.res,1230735600000,com.samsung.android.wallpaper.res,True,1230735600000,False
+1557819137949,Smart View,1230735600000,com.samsung.android.smartmirroring,True,1230735600000,False
+1557819137949,SKMSAgentService,1230735600000,com.skms.android.agent,True,1230735600000,False
+1557819137949,DeX community,1230735600000,com.sec.android.desktopcommunity,True,1230735600000,False
+1557819137949,안전 지킴이,1230735600000,com.sec.android.app.safetyassurance,True,1230735600000,False
+1557819137949,LGU_GPSnWPS,1230735600000,com.lguplus.lgugpsnwps,True,1230735600000,False
+1557819137949,전화,1230735600000,com.samsung.android.incallui,True,1230735600000,False
+1557819137949,퍼스널 홈,1230735600000,com.samsung.android.knox.containercore,True,1230735600000,False
+1557819137949,키즈 홈 인스톨러,1230735600000,com.samsung.android.kidsinstaller,True,1230735600000,False
+1557819137949,FactoryCamera,1230735600000,com.sec.factory.camera,True,1230735600000,False
+1557819137949,com.sec.internal.vsim.VSimServiceApp,1230735600000,com.sec.vsimservice,True,1230735600000,False
+1557819137949,USBSettings,1230735600000,com.sec.usbsettings,True,1230735600000,False
+1557819137949,SmartThings,1230735600000,com.samsung.android.easysetup,True,1230735600000,False
+1557819137949,파일,1230735600000,com.android.documentsui,True,1230735600000,False
+1557819137949,고속버스 모바일,1556651852685,com.kscc.scxb.mbl,False,1556258062548,False
+1557819137949,android.auto_generated_rro__,1230735600000,android.auto_generated_rro__,True,1230735600000,False
+1557819137949,외부 저장소,1230735600000,com.android.externalstorage,True,1230735600000,False
+1557819137949,EasyOneHand,1230735600000,com.sec.android.easyonehand,True,1230735600000,False
+1557819137949,DeviceTest,1230735600000,com.sec.factory,True,1230735600000,False
+1557819137949,StickerProvider,1230735600000,com.samsung.android.provider.stickerprovider,True,1230735600000,False
+1557819137949,HTML 뷰어,1230735600000,com.android.htmlviewer,True,1230735600000,False
+1557819137949,Naver V Panel,1551920003475,com.samsung.android.app.panel.naver.v,False,1514732582352,False
+1557819137949,삼성 인터넷 패널,1230735600000,com.samsung.android.app.sbrowseredge,True,1230735600000,False
+1557819137949,Companion Device Manager,1230735600000,com.android.companiondevicemanager,True,1230735600000,False
+1557819137949,MmsService,1230735600000,com.android.mms.service,True,1230735600000,False
+1557819137949,맞춤형 서비스,1230735600000,com.samsung.android.rubin.app,True,1230735600000,False
+1557819137949,배경화면,1230735600000,com.sec.android.wallpapercropper2,True,1230735600000,False
+1557819137949,마이 이모지 메이커,1230735600000,com.sec.android.app.camera.avatarauth,True,1230735600000,False
+1557819137949,다운로드 관리자,1230735600000,com.android.providers.downloads,True,1230735600000,False
+1557819137949,사전,1230735600000,com.diotek.sec.lookup.dictionary,True,1230735600000,False
+1557819137949,LED Cover Service,1230735600000,com.sec.android.cover.ledcover,True,1230735600000,False
+1557819137949,Smart Switch 에이전트,1230735600000,com.sec.android.easyMover.Agent,True,1230735600000,False
+1557819137949,bootagent,1230735600000,com.samsung.ucs.agent.boot,True,1230735600000,False
+1557819137949,설정메시지,1230735600000,com.wsomacp,True,1230735600000,False
+1557819137949,com.samsung.faceservice,1230735600000,com.samsung.faceservice,True,1230735600000,False
+1557819137949,음성 녹음,1555729071365,com.sec.android.app.voicenote,False,1541352616961,False
+1557819137949,AhnLab V3 Mobile Plus 2.0,1555105305022,com.ahnlab.v3mobileplus,False,1541570301679,False
+1557819137949,Foundation,1230735600000,com.monotype.android.font.foundation,True,1230735600000,False
+1557819137949,즐겨찾는 연락처,1230735600000,com.sec.android.widgetapp.easymodecontactswidget,True,1230735600000,False
+1557819137949,MTP 애플리케이션,1230735600000,com.samsung.android.MtpApplication,True,1230735600000,False
+1557819137949,DeviceKeystring,1230735600000,com.sec.android.app.factorykeystring,True,1230735600000,False
+1557819137949,Galaxy Store,1556650215215,com.sec.android.app.samsungapps,True,1230735600000,True
+1557819137949,EmergencyManagerService,1230735600000,com.sec.android.emergencymode.service,True,1230735600000,False
+1557819137949,ConfigUpdater,1230735600000,com.google.android.configupdater,True,1230735600000,False
+1557819137949,WlanTest,1230735600000,com.sec.android.app.wlantest,True,1230735600000,False
+1557819137949,기본 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear.preload,True,1230735600000,False
+1557819137949,SettingsBixby,1230735600000,com.samsung.android.app.settings.bixby,True,1230735600000,False
+1557819137949,삼성 결제,1557254412656,com.sec.android.app.billing,True,1230735600000,True
+1557819137949,모션 와이드 셀프 샷 뷰어,1230735600000,com.samsung.android.app.selfmotionpanoramaviewer,True,1230735600000,False
+1557819137949,EpdgTestApp,1230735600000,com.sec.epdgtestapp,True,1230735600000,False
+1557819137949,Samsung Time Zone Data,1230735600000,com.samsung.android.timezone.data_P,True,1230735600000,False
+1557819137949,게임런처,1554233063807,com.samsung.android.game.gamehome,True,1230735600000,True
+1557819137949,Samsung DeX 홈,1230735600000,com.sec.android.app.desktoplauncher,True,1230735600000,False
+1557819137949,Polar Beat,1557200841996,fi.polar.beat,False,1557200841996,False
+1557819137949,패키지 액세스 도움말,1230735600000,com.android.defcontainer,True,1230735600000,False
+1557819137949,AppleMint,1230735600000,com.monotype.android.font.applemint,True,1230735600000,False
+1557819137949,날씨,1230735600000,com.sec.android.daemonapp,True,1230735600000,False
+1557819137949,com.samsung.daydream.customization,1230735600000,com.samsung.daydream.customization,True,1230735600000,False
+1557819137949,ARCore,1554914833966,com.google.ar.core,True,1230735600000,True
+1557819137949,com.sec.ims,1230735600000,com.sec.ims,True,1230735600000,False
+1557819137949,SecVideoEngineService,1230735600000,com.sec.sve,True,1230735600000,False
+1557819137949,com.sec.enterprise.knox.attestation,1230735600000,com.sec.enterprise.knox.attestation,True,1230735600000,False
+1557819137949,다운로드,1230735600000,com.android.providers.downloads.ui,True,1230735600000,False
+1557819137949,Google Play 스토어,1557199240412,com.android.vending,True,1230735600000,True
+1557819137949,PacProcessor,1230735600000,com.android.pacprocessor,True,1230735600000,False
+1557819137949,Sim App Dialog,1230735600000,com.android.simappdialog,True,1230735600000,False
+1557819137949,SystemUIBixby2,1230735600000,com.samsung.systemui.bixby2,True,1230735600000,False
+1557819137949,ANT Radio Service,1557547670584,com.dsi.ant.service.socket,True,1230735600000,True
+1557819137949,AutoPreconfig,1230735600000,com.sec.android.AutoPreconfig,True,1230735600000,False
+1557819137949,설정,1230735600000,com.samsung.android.SettingsReceiver,True,1230735600000,False
+1557819137949,Daum 스포츠,1551919995033,com.samsung.android.widgetapp.daumedge.sports,False,1514732578619,False
+1557819137949,세로로 긴 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.tall,True,1230735600000,False
+1557819137949,SoundAlive,1230735600000,com.sec.android.app.soundalive,True,1230735600000,False
+1557819137949,보안 저장소,1230735600000,com.sec.android.providers.security,True,1230735600000,False
+1557819137949,BadgeProvider,1230735600000,com.sec.android.provider.badge,True,1230735600000,False
+1557819137949,인증서 설치 마법사,1230735600000,com.android.certinstaller,True,1230735600000,False
+1557819137949,SecurityLogAgent,1230735600000,com.samsung.android.securitylogagent,True,1230735600000,False
+1557819137949,com.android.carrierconfig,1230735600000,com.android.carrierconfig,True,1230735600000,False
+1557819137949,원스토어,1556588015538,com.lguplus.appstore,True,1230735600000,True
+1557819137949,설정,1230735600000,com.samsung.android.knox.containeragent,True,1230735600000,False
+1557819137949,Assistant menu,1230735600000,com.samsung.android.app.assistantmenu,True,1230735600000,False
+1557819137949,삼성 TTS 엔진,1230735600000,com.samsung.SMT,True,1230735600000,False
+1557819137949,CMHProvider,1230735600000,com.samsung.cmh,True,1230735600000,False
+1557819137949,mlp,1230735600000,com.samsung.mlp,True,1230735600000,False
+1557819137949,아웃 포커스,1230735600000,com.sec.android.ofviewer,True,1230735600000,False
+1557819137949,Camera Iris User Test,1230735600000,com.sec.factory.iris.usercamera,True,1230735600000,False
+1557819137949,CarmodeStub,1230735600000,com.samsung.android.drivelink.stub,True,1230735600000,False
+1557819137949,안드로이드 시스템,1230735600000,android,True,1230735600000,False
+1557819137949,X Google enrollment,1230735600000,com.android.hotwordenrollment.xgoogle,True,1230735600000,False
+1557819137949,Knox Key Chain,1230735600000,com.samsung.knox.keychain,True,1230735600000,False
+1557819137949,러브데이,1557429424804,com.wonderabbit.lovedays,False,1552049533113,False
+1557819137949,디바이스 보호,1230735600000,com.samsung.android.sm.devicesecurity,True,1230735600000,False
+1557819137949,기본 프레임,1230735600000,com.samsung.android.app.camera.sticker.facearframe.preload,True,1230735600000,False
+1557819137949,ANT + DUT,1230735600000,com.dsi.ant.sample.acquirechannels,True,1230735600000,False
+1557819137949,AirCommandManager,1230735600000,com.samsung.android.aircommandmanager,True,1230735600000,False
+1557819137949,Wi-Fi 사용 팁,1230735600000,com.samsung.android.net.wifi.wifiguider,True,1230735600000,False
+1557819137949,빅스비 서비스,1555196483580,com.samsung.android.bixby.service,True,1230735600000,True
+1557819137949,SmartFaceService,1230735600000,com.samsung.android.smartface,True,1230735600000,False
+1557819137949,Android Easter Egg,1230735600000,com.android.egg,True,1230735600000,False
+1557819137949,MTP 호스트,1230735600000,com.android.mtp,True,1230735600000,False
+1557819137949,NFC,1230735600000,com.android.nfc,True,1230735600000,False
+1557819137949,SIM 툴킷,1230735600000,com.android.stk,True,1230735600000,False
+1557819137949,메시지,1555526844963,com.samsung.android.messaging,True,1230735600000,True
+1557819137949,emojiupdater,1230735600000,com.samsung.android.emojiupdater,True,1230735600000,False
+1557819137949,com.android.backupconfirm,1230735600000,com.android.backupconfirm,True,1230735600000,False
+1557819137949,KLMS Agent,1230735600000,com.samsung.klmsagent,True,1230735600000,False
+1557819137949,카톡 프리뷰,1555874253613,com.taeyoung.jimoon.kakaopreview,False,1543590975989,False
+1557819137949,Naver TV Cast Panel,1551919984807,com.samsung.android.app.panel.naver.tv,False,1514732581114,False
+1557819137949,SmartFittingService,1230735600000,com.samsung.android.smartfitting,True,1230735600000,False
+1557819137949,삼성 설정 마법사,1230735600000,com.sec.android.app.SecSetupWizard,True,1230735600000,False
+1557819137949,전화,1230735600000,com.samsung.android.app.telephonyui,True,1230735600000,False
+1557819137949,앱 추가 설치,1230735600000,com.samsung.preloadapp,True,1230735600000,False
+1557819137949,SamsungPositioning,1230735600000,com.samsung.android.samsungpositioning,True,1230735600000,False
+1557819137949,Intent Filter Verification Service,1230735600000,com.android.statementservice,True,1230735600000,False
+1557819137949,Gmail,1555729312310,com.google.android.gm,True,1230735600000,True
+1557819137949,빅스비 보이스,1555969823972,com.samsung.android.bixby.agent,True,1230735600000,True
+1557819137949,어피치,1555785597188,com.kakao.talk.theme.apeach,False,1545225688089,False
+1557819137949,UsimDownload,1230735600000,com.sec.android.UsimRegistrationKOR,True,1230735600000,False
+1557819137949,Microsoft Health,1557200054867,com.microsoft.kapp,False,1557200054867,False
+1557819137949,HwModuleTest,1230735600000,com.sec.android.app.hwmoduletest,True,1230735600000,False
+1557819137949,Settings Suggestions,1230735600000,com.android.settings.intelligence,True,1230735600000,False
+1557819137949,com.sec.bcservice,1230735600000,com.sec.bcservice,True,1230735600000,False
+1557819137949,SilentLogging,1230735600000,com.sec.modem.settings,True,1230735600000,False
+1557819137949,홍채,1230735600000,com.samsung.android.server.iris,True,1230735600000,False
+1557819137949,LGUHiddenMenu,1230735600000,com.samsung.hidden.LGU,True,1230735600000,False
+1557819137949,어두움,1230735600000,com.android.systemui.theme.dark,True,1230735600000,False
+1557819137949,Dropsync,1557201776408,com.ttxapps.dropsync,False,1557201776408,False
+1557819137949,Context Service,1230735600000,com.samsung.android.providers.context,True,1230735600000,False
+1557819137949,Service mode,1230735600000,com.sec.android.app.servicemodeapp,True,1230735600000,False
+1557819137949,앱 설치 마법사,1230735600000,com.sec.android.preloadinstaller,True,1230735600000,False
+1557819137949,UIBCVirtualSoftkey,1230735600000,com.sec.android.uibcvirtualsoftkey,True,1230735600000,False
+1557819137949,Android 설정,1230735600000,com.google.android.setupwizard,True,1230735600000,False
+1557819137949,갤러리,1553627324611,com.sec.android.gallery3d,True,1230735600000,True
+1557819137949,설정 저장소,1230735600000,com.android.providers.settings,True,1230735600000,False
+1557819137949,접근성,1230735600000,com.samsung.accessibility,True,1230735600000,False
+1557819137949,IMS Service,1230735600000,com.sec.imsservice,True,1230735600000,False
+1557819137949,com.android.sharedstoragebackup,1230735600000,com.android.sharedstoragebackup,True,1230735600000,False
+1557819137949,U+ 고객센터,1556478984307,com.lguplus.mobile.cs,True,1230735600000,True
+1557819137949,Samsung Experience Service,1556650304777,com.samsung.android.mobileservice,True,1230735600000,True
+1557819137949,인쇄 스풀러,1230735600000,com.android.printspooler,True,1230735600000,False
+1557819137949,OK Google enrollment,1230735600000,com.android.hotwordenrollment.okgoogle,True,1230735600000,False
+1557819137949,Gear VR Service,1230735600000,com.samsung.android.hmt.vrsvc,True,1230735600000,False
+1557819137949,Bixby Global Action,1540770362026,com.samsung.android.bixby.es.globalaction,False,1230735600000,False
+1557819137949,갤러리 스토리,1230735600000,com.samsung.storyservice,True,1230735600000,False
+1557819137949,기본 화면 보호기,1230735600000,com.android.dreams.basic,True,1230735600000,False
+1557819137949,Samsung Music,1557427587687,com.sec.android.app.music,False,1540700790904,False
+1557819137949,SecureElementApplication,1230735600000,com.android.se,True,1230735600000,False
+1557819137949,입력 기기,1230735600000,com.android.inputdevices,True,1230735600000,False
+1557819137949,Daum 뉴스,1551919972187,com.samsung.android.widgetapp.daumedge.news,False,1514732576308,False
+1557819137949,Payment Services,1230735600000,com.samsung.android.kgclient,True,1230735600000,False
+1557819137949,보안 폴더,1230735600000,com.samsung.knox.securefolder,True,1230735600000,False
+1557819137949,컬러노트,1556368896231,com.socialnmobile.dictapps.notepad.color.note,False,1551015473605,False
+1557819137949,Voice Assistant,1230735600000,com.samsung.android.app.talkback,True,1230735600000,False
+1557819137949,기본 인쇄 서비스,1230735600000,com.android.bips,True,1230735600000,False
+1557819137949,게임툴즈,1230735600000,com.samsung.android.game.gametools,True,1230735600000,False
+1557819137949,Samsung DeX 시스템 UI,1230735600000,com.samsung.desktopsystemui,True,1230735600000,False
+1557819137949,링크 공유,1230735600000,com.samsung.android.app.simplesharing,True,1230735600000,False
+1557819137949,Hidden Network Setting,1230735600000,com.samsung.hiddennetworksetting,True,1230735600000,False
+1557819137949,People edge,1230735600000,com.samsung.android.service.peoplestripe,True,1230735600000,False
+1557819137949,서라운드 샷,1230735600000,com.sec.android.gallery3d.panorama360view,True,1230735600000,False
+1557819137949,듀얼 메신저,1230735600000,com.samsung.android.da.daagent,True,1230735600000,False
+1557819137949,리마인더,1554406435968,com.samsung.android.app.reminder,True,1230735600000,True
+1557819137949,슬로우 모션 에디터,1230735600000,com.samsung.app.slowmotion,True,1230735600000,False
+1557819137949,Time Zone Updater,1542827404377,com.samsung.android.timezone.autoupdate_O,False,1230735600000,False
+1557819137949,Smart Call,1230735600000,com.samsung.android.smartcallprovider,True,1230735600000,False
+1557819137949,삼성 캡처,1230735600000,com.samsung.android.app.smartcapture,True,1230735600000,False
+1557819137949,Samsung DeX,1230735600000,com.sec.android.desktopmode.uiservice,True,1230735600000,False
+1557819137949,U+ 편의기능,1230735600000,com.lguplus.lgusetting,True,1230735600000,False
+1557819137949,지도,1556738367848,com.google.android.apps.maps,True,1230735600000,True
+1557819137949,ANT+ Plugins Service,1541127923541,com.dsi.ant.plugins.antplus,True,1230735600000,True
+1557819137949,Tasks edge,1230735600000,com.samsung.android.app.taskedge,True,1230735600000,False
+1557819137949,Paco,1557199095250,com.pacoapp.paco,False,1557199095250,False
+1557819137949,IMS Settings,1230735600000,com.samsung.advp.imssettings,True,1230735600000,False
+1557819137949,slocation,1230735600000,com.samsung.android.location,True,1230735600000,False
+1557819137949,삼성 키보드,1557254494913,com.sec.android.inputmethod,True,1230735600000,True
+1557819137949,Sound detectors,1230735600000,com.samsung.android.app.advsounddetector,True,1230735600000,False
+1557819137949,시계,1556634810566,com.sec.android.app.clockpackage,True,1230735600000,True
+1557819137949,Service mode RIL,1230735600000,com.sec.android.RilServiceModeApp,True,1230735600000,False
+1557819137949,Android System WebView,1230735600000,com.google.android.webview,True,1230735600000,False
+1557819137949,SIM 카드 관리자,1230735600000,com.sec.android.app.simsettingmgr,True,1230735600000,False
+1557819137949,Samsung MirrorLink 1.1,1230735600000,com.samsung.android.app.mirrorlink,True,1230735600000,False
+1557819137949,전화,1230735600000,com.android.server.telecom,True,1230735600000,False
+1557819137949,Google 주소록 동기화,1230735600000,com.google.android.syncadapters.contacts,True,1230735600000,False
+1557819137949,ImsLogger,1230735600000,com.sec.imslogger,True,1230735600000,False
+1557819137949,ClipboardUIService,1230735600000,com.samsung.android.clipboarduiservice,True,1230735600000,False
+1557819137949,키 체인,1230735600000,com.android.keychain,True,1230735600000,False
+1557819137949,다방,1556652297079,kr.co.station3.dabang,False,1554568326210,False
+1557819137949,Chrome,1556911245031,com.android.chrome,True,1230735600000,True
+1557819137949,IpsGeofence,1230735600000,com.samsung.android.ipsgeofence,True,1230735600000,False
+1557819137949,Samsung Themes,1230735600000,com.samsung.android.themecenter,True,1230735600000,False
+1557819137949,패키지 설치 프로그램,1230735600000,com.google.android.packageinstaller,True,1230735600000,False
+1557819137949,Google Play 서비스,1557343137845,com.google.android.gms,True,1230735600000,True
+1557819137949,Google Services Framework,1230735600000,com.google.android.gsf,True,1230735600000,False
+1557819137949,Google TTS 엔진,1554483223917,com.google.android.tts,True,1230735600000,True
+1557819137949,ConfigAPK,1540581344230,android.autoinstalls.config.samsung,True,1230735600000,True
+1557819137949,Call Log Backup/Restore,1230735600000,com.android.calllogbackup,True,1230735600000,False
+1557819137949,Google Partner Setup,1230735600000,com.google.android.partnersetup,True,1230735600000,False
+1557819137949,에브리타임,1556651770942,com.everytime.v2,False,1551014047566,False
+1557819137949,DiagMonAgent,1230735600000,com.sec.android.diagmonagent,True,1230735600000,False
+1557819137949,KnoxContainerDesktop,1230735600000,com.samsung.android.knox.containerdesktop,True,1230735600000,False
+1557819137949,USIM Agent,1230735600000,com.lguplus.tsmproxy,True,1230735600000,False
+1557819137949,Samsung Push Service,1230735600000,com.sec.spp.push,True,1230735600000,False
+1557819137949,이동통신사 기본 앱,1230735600000,com.android.carrierdefaultapp,True,1230735600000,False
+1557819137949,ANT+ HAL 서비스,1230735600000,com.dsi.ant.server,True,1230735600000,False
+1557819137949,Intelligent Scan,1230735600000,com.samsung.android.biometrics.service,True,1230735600000,False
+1557819137949,내 파일,1230735600000,com.sec.android.app.myfiles,True,1230735600000,False
+1557819137949,ProxyHandler,1230735600000,com.android.proxyhandler,True,1230735600000,False
+1557819137949,한컴오피스 viewer,1555615142942,com.tf.thinkdroid.viewer,False,1540965071484,False
+1557819137949,Wi-Fi 다이렉트,1230735600000,com.samsung.android.allshare.service.fileshare,True,1230735600000,False
+1557819137949,Daum 검색,1551919979658,com.samsung.android.widgetapp.daumedge.kakao,False,1514732574451,False
+1557819137949,포토 에디터,1230735600000,com.sec.android.mimage.photoretouching,True,1230735600000,False
+1557819137949,Samsung Experience 홈,1230735600000,com.sec.android.app.launcher,True,1230735600000,False
+1557819137949,Universal switch,1230735600000,com.samsung.android.universalswitch,True,1230735600000,False
+1557819137949,Samsung ApexService,1230735600000,com.sec.android.app.apex,True,1230735600000,False
+1557819137949,Briefing,1557522411072,flipboard.boxer.app,True,1230735600000,True
+1557819137949,마켓 피드백 에이전트,1230735600000,com.google.android.feedback,True,1230735600000,False
+1557819137949,Print Service Recommendation Service,1230735600000,com.google.android.printservice.recommendation,True,1230735600000,False
+1557819137949,Tinker,1230735600000,com.monotype.android.font.tinkerbell,True,1230735600000,False
+1557819137949,캘린더,1557170336013,com.google.android.calendar,False,1551012693294,False
+1557819137949,Google 캘린더 동기화,1230735600000,com.google.android.syncadapters.calendar,True,1230735600000,False
+1557819137949,직장 프로필 설정,1230735600000,com.android.managedprovisioning,True,1230735600000,False
+1557819137949,앱 소리 분리 재생,1230735600000,com.samsung.android.setting.multisound,True,1230735600000,False
+1557819137949,VisionProvider,1230735600000,com.samsung.visionprovider,True,1230735600000,False
+1557819137949,Authentication Framework,1230735600000,com.samsung.android.authfw,True,1230735600000,False
+1557819137949,ChocoEUKor,1230735600000,com.monotype.android.font.chococooky,True,1230735600000,False
+1557819137949,사진 스크린세이버,1230735600000,com.android.dreams.phototable,True,1230735600000,False
+1557819137949,기본 3D 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear3d.preload,True,1230735600000,False
+1557819137949,BixbyVision Framework,1230735600000,com.samsung.android.bixbyvision.framework,True,1230735600000,False
+1557819137949,Health Service,1230735600000,com.sec.android.service.health,True,1230735600000,False
+1557819137949,안전정보,1230735600000,com.samsung.safetyinformation,True,1230735600000,False
+1557819137949,전화,1555969802039,com.samsung.android.dialer,True,1230735600000,True
+1557819137949,DQA,1230735600000,com.samsung.android.dqagent,True,1230735600000,False
+1557819137949,스토리 비디오 에디터,1230735600000,com.samsung.app.highlightplayer,True,1230735600000,False
+1557819137949,ringtonebackup,1230735600000,com.sec.android.app.ringtoneBR,True,1230735600000,False
+1557819137949,Game Optimizing Service,1556143145687,com.samsung.android.game.gos,True,1230735600000,True
+1557819137949,비디오 에디터,1230735600000,com.sec.android.app.vepreload,True,1230735600000,False
+1557819137949,Galaxy Graphics Driver,1230735600000,com.samsung.gpudriver.S9MaliG72_90,True,1230735600000,False
+1557819137949,com.android.providers.partnerbookmarks,1230735600000,com.android.providers.partnerbookmarks,True,1230735600000,False
+1557819137949,SEMFactoryApp,1230735600000,com.sem.factoryapp,True,1230735600000,False
+1557819137949,Keyguard Wallpaper Updator,1230735600000,com.samsung.android.keyguardwallpaperupdator,True,1230735600000,False
+1557819137949,TeeService,1230735600000,com.trustonic.teeservice,True,1230735600000,False
+1557819137949,라이브 배경화면 선택기,1230735600000,com.android.wallpaper.livepicker,True,1230735600000,False
+1557819137949,SmartThings,1230735600000,com.samsung.android.beaconmanager,True,1230735600000,False
+1557819137949,밥대생,1551722621385,kr.ac.kaist.bab,False,1545725718018,False
+1557819137949,Enterprise Sim Pin Service,1230735600000,com.sec.enterprise.mdm.services.simpin,True,1230735600000,False
+1557819137949,태그,1230735600000,com.android.apps.tag,True,1230735600000,False
+1557819137949,Messenger,1556911194705,com.facebook.orca,False,1542123481817,False
+1557819137949,IMS DM,1230735600000,com.ims.dm,True,1230735600000,False
+1557819137949,StickerCenter,1230735600000,com.samsung.android.stickercenter,True,1230735600000,False
+1557819137949,번호 안내 서비스,1230735600000,com.samsung.kt114provider2,True,1230735600000,False
+1557819137949,소프트웨어 업데이트,1230735600000,com.sec.android.soagent,True,1230735600000,False
+1557819137949,com.google.android.gms.policy_sidecar_aps,1230735600000,com.google.android.gms.policy_sidecar_aps,True,1230735600000,False
+1557819137949,빠른 도구 모음,1230735600000,com.sec.android.app.quicktool,True,1230735600000,False
+1557819137949,내 디바이스 찾기,1555709989334,com.samsung.android.fmm,True,1230735600000,True
+1557819137949,MDMApp,1230735600000,com.samsung.android.mdm,True,1230735600000,False
+1557819137949,Wi-Fi 전화,1230735600000,com.sec.unifiedwfc,True,1230735600000,False
+1557819137949,com.sec.phone,1230735600000,com.sec.phone,True,1230735600000,False
+1557819137949,MLDAPlog,1230735600000,com.sec.mldapchecker,True,1230735600000,False
+1557819137949,음성 호출,1555196503536,com.samsung.android.bixby.wakeup,True,1230735600000,True
+1557819137949,Adobe Acrobat,1555442825164,com.adobe.reader,False,1540910659965,False
+1557819137949,Google 백업 전송,1230735600000,com.google.android.backuptransport,True,1230735600000,False
+1557819137949,Samsung Pass,1551306729202,com.samsung.android.samsungpass,True,1230735600000,True
+1557819137949,Bixby Service,1540770365453,com.samsung.android.bixby.plmsync,False,1230735600000,False
+1557819137949,저장용량 관리자,1230735600000,com.android.storagemanager,True,1230735600000,False
+1557819137949,삼성 클라우드,1230735600000,com.samsung.android.scloud,True,1230735600000,False
+1557819137949,사운드 선택기,1230735600000,com.samsung.android.app.soundpicker,True,1230735600000,False
+1557819137949,통신상태알림,1230735600000,com.sec.app.RilErrorNotifier,True,1230735600000,False
+1557819137949,Samsung PaymentFramework,1230735600000,com.samsung.android.spayfw,True,1230735600000,False
+1557819137949,Logger,1557201160374,iclab.kaist.ac.kr.msband_logger,False,1557201160374,False
+1557819137949,Bookmark Provider,1230735600000,com.android.bookmarkprovider,True,1230735600000,False
+1557819137949,설정,1230735600000,com.android.settings,True,1230735600000,False
+1557819137949,동영상 잘라내기,1230735600000,com.samsung.app.newtrim,True,1230735600000,False
+1557819137949,Dsms,1230735600000,com.samsung.android.dsms,True,1230735600000,False
+1557819137949,디바이스 케어,1556056426577,com.samsung.android.lool,True,1230735600000,True
+1557819137949,BluetoothTest,1230735600000,com.sec.android.app.bluetoothtest,True,1230735600000,False
+1557819137949,Samsung Device Health Manager Service,1230735600000,com.sec.android.sdhms,True,1230735600000,False
+1557819137949,빅스비 홈,1553957253322,com.samsung.android.app.spage,True,1230735600000,True
+1557819137949,Knox Analytics Uploader,1230735600000,com.samsung.android.knox.analytics.uploader,True,1230735600000,False
+1557819137949,SCPM Client,1230735600000,com.samsung.android.sm.policy,True,1230735600000,False
+1557819137949,실행 프로그램,1230735600000,com.sec.android.emergencylauncher,True,1230735600000,False
+1557819137949,카카오톡,1556824948437,com.kakao.talk,False,1540702663384,False
+1557819137949,Adapt sound,1230735600000,com.sec.hearingadjust,True,1230735600000,False
+1557819137949,Smart Switch,1551920014733,com.sec.android.easyMover,False,1514732587622,False
+1557819137949,Device Health Services,1554233443741,com.google.android.apps.turbo,True,1230735600000,True
+1557819137949,블루라이트 필터,1230735600000,com.samsung.android.bluelightfilter,True,1230735600000,False
+1557819137949,BBCAgent,1230735600000,com.samsung.android.bbc.bbcagent,True,1230735600000,False
+1557819137949,빅스비 비전,1553957281005,com.samsung.android.visionintelligence,True,1230735600000,True
+1557819137949,KnoxVpnPacProcessor,1230735600000,com.knox.vpn.proxyhandler,True,1230735600000,False
+1557819137949,com.android.cts.ctsshim,1230735600000,com.android.cts.ctsshim,True,1230735600000,False
+1557819137949,SplitSoundService,1230735600000,com.sec.android.splitsound,True,1230735600000,False
+1557819137949,Wearable Manager Installer,1230735600000,com.samsung.android.app.watchmanagerstub,True,1230735600000,False
+1557819137949,SVC Agent,1230735600000,com.samsung.android.svcagent,True,1230735600000,False
+1557819137949,삼성 음성 입력,1230735600000,com.samsung.android.svoiceime,True,1230735600000,False
+1557819137949,Samsung Galaxy Friends,1230735600000,com.samsung.android.mateagent,True,1230735600000,False
+1557819137949,NetworkDiagnostic,1230735600000,com.samsung.android.networkdiagnostic,True,1230735600000,False
+1557819137949,GOS Legacy,1230735600000,com.enhance.gameservice,True,1230735600000,False
+1557819137949,ShortcutBNR,1230735600000,com.samsung.android.shortcutbackupservice,True,1230735600000,False
+1557819137949,VpnDialogs,1230735600000,com.android.vpndialogs,True,1230735600000,False
+1557819137949,eSE UCS Plugin,1230735600000,com.samsung.ucs.agent.ese,True,1230735600000,False
+1557819137949,연락처 저장공간,1230735600000,com.samsung.android.providers.contacts,True,1230735600000,False
+1557819137949,원스토어 서비스,1556587983905,com.skt.skaf.OA00018282,True,1230735600000,True
+1557819137949,전화,1230735600000,com.android.phone,True,1230735600000,False
+1557819137949,Google VR 서비스,1551727172107,com.google.vr.vrcore,True,1230735600000,True
+1557819137949,셸,1230735600000,com.android.shell,True,1230735600000,False
+1557819137949,com.android.wallpaperbackup,1230735600000,com.android.wallpaperbackup,True,1230735600000,False
+1557819137949,차단된 번호 스토리지,1230735600000,com.android.providers.blockednumber,True,1230735600000,False
+1557819137949,구성 업데이트,1230735600000,com.samsung.android.app.omcagent,True,1230735600000,False
+1557819137949,사용자 사전,1230735600000,com.android.providers.userdictionary,True,1230735600000,False
+1557819137949,DMB,1230735600000,com.samsung.android.app.dtv.dmb,True,1230735600000,False
+1557819137949,Knox Enrollment Service,1230735600000,com.sec.enterprise.knox.cloudmdm.smdms,True,1230735600000,False
+1557819137949,기본 스탬프,1230735600000,com.samsung.android.app.camera.sticker.stamp.preload,True,1230735600000,False
+1557819137949,긴급 상황 정보,1230735600000,com.android.emergency,True,1230735600000,False
+1557819137949,소프트웨어 업데이트,1230735600000,com.wssyncmldm,True,1230735600000,False
+1557819137949,소프트웨어 업데이트,1230735600000,com.skt.skaf.OA00412131,True,1230735600000,False
+1557819137949,Fused Location,1230735600000,com.android.location.fused,True,1230735600000,False
+1557819137949,Apps edge,1230735600000,com.samsung.android.app.appsedge,True,1230735600000,False
+1557819137949,Samsung Pass 자동 완성,1549048445054,com.samsung.android.samsungpassautofill,True,1230735600000,True
+1557819137949,com.sec.epdg,1230735600000,com.sec.epdg,True,1230735600000,False
+1557819137949,시스템 UI,1230735600000,com.android.systemui,True,1230735600000,False
+1557819137949,Perso,1230735600000,com.sec.android.app.personalization,True,1230735600000,False
+1557819137949,Bluetooth MIDI Service,1230735600000,com.android.bluetoothmidiservice,True,1230735600000,False
+1557819137949,HandwritingService,1230735600000,com.samsung.android.sdk.handwriting,True,1230735600000,False
+1557819137949,미세미세,1556738271933,cheehoon.ha.particulateforecaster,False,1551498069153,False
+1557819137949,AASAservice,1230735600000,com.samsung.aasaservice,True,1230735600000,False
+1557819137949,시스템 추적,1230735600000,com.android.traceur,True,1230735600000,False
+1557819137949,Nearby Service,1230735600000,com.samsung.android.allshare.service.mediashare,True,1230735600000,False
+1557819137949,라디오,1230735600000,com.sec.android.app.fm,True,1230735600000,False
+1557819137949,Camera Iris Factory Test,1230735600000,com.sec.factory.iris.camera,True,1230735600000,False
+1557819137949,EmergencyProvider,1230735600000,com.sec.android.provider.emergencymode,True,1230735600000,False
+1557819137949,AppLinker,1230735600000,com.sec.android.app.applinker,True,1230735600000,False
+1557819137949,원터치개인,1556368588738,com.wooribank.pib.smart,False,1541570263092,False
+1557819137949,카메라,1230735600000,com.sec.android.app.camera,True,1230735600000,False
+1557819137949,블루투스,1230735600000,com.android.bluetooth,True,1230735600000,False
+1557819137949,연락처,1555969774820,com.samsung.android.contacts,True,1230735600000,True
+1557819137949,Clipboard edge,1230735600000,com.samsung.android.app.clipboardedge,True,1230735600000,False
+1557819137949,IPService,1230735600000,com.samsung.ipservice,True,1230735600000,False
+1557819137949,QRreader,1230735600000,com.sec.android.QRreader,True,1230735600000,False
+1557819137949,돋보기,1230735600000,com.sec.android.app.magnifier,True,1230735600000,False
+1557819137949,사용 설명서,1230735600000,com.sec.android.widgetapp.webmanual,True,1230735600000,False
+1557819137949,CSC,1230735600000,com.samsung.sec.android.application.csc,True,1230735600000,False
+1557819137949,CaptivePortalLogin,1230735600000,com.android.captiveportallogin,True,1230735600000,False
+1557819137949,구성 업데이트,1230735600000,com.samsung.android.sdm.config,True,1230735600000,False
+1557819137949,모션 파노라마 뷰어,1230735600000,com.samsung.android.app.motionpanoramaviewer,True,1230735600000,False
+1557819137949,라이브 포커스,1230735600000,com.samsung.android.app.dofviewer,True,1230735600000,False
+1557819137949,Face,1230735600000,com.samsung.android.bio.face.service,True,1230735600000,False
+1557819137949,Bixby Voice Stub,1230735600000,com.samsung.android.bixby.agent.dummy,True,1230735600000,False
+1557819137949,비디오 플레이어,1556332833583,com.samsung.android.video,True,1230735600000,True
+1557819137949,Android 설정,1230735600000,com.google.android.apps.restore,True,1230735600000,False
+1557829946294,Filter Provider,1230735600000,com.samsung.android.provider.filterprovider,True,1230735600000,False
+1557829946294,Automation Test,1230735600000,com.sec.android.app.DataCreate,True,1230735600000,False
+1557829946294,LED 아이콘 편집,1230735600000,com.samsung.android.app.ledcoverdream,True,1230735600000,False
+1557829946294,com.android.cts.priv.ctsshim,1230735600000,com.android.cts.priv.ctsshim,True,1230735600000,False
+1557829946294,RootPA,1230735600000,com.gd.mobicore.pa,True,1230735600000,False
+1557829946294,Galaxy Essentials 위젯,1230735600000,com.sec.android.widgetapp.samsungapps,True,1230735600000,False
+1557829946294,com.samsung.android.smartswitchassistant,1230735600000,com.samsung.android.smartswitchassistant,True,1230735600000,False
+1557829946294,NSDSWebApp,1230735600000,com.sec.vsim.ericssonnsds.webapp,True,1230735600000,False
+1557829946294,SetupWizardLegalProvider,1230735600000,com.sec.android.app.setupwizardlegalprovider,True,1230735600000,False
+1557829946294,YouTube,1556824773803,com.google.android.youtube,True,1230735600000,True
+1557829946294,직방,1556911091737,com.chbreeze.jikbang4a,False,1551429718241,False
+1557829946294,파인더,1230735600000,com.samsung.android.app.galaxyfinder,True,1230735600000,False
+1557829946294,Samsung Location SDK,1230735600000,com.sec.location.nsflp2,True,1230735600000,False
+1557829946294,Galaxy Themes,1552075278508,com.samsung.android.themestore,True,1230735600000,True
+1557829946294,com.sec.android.app.chromecustomizations,1230735600000,com.sec.android.app.chromecustomizations,True,1230735600000,False
+1557829946294,Always On Display,1556368541149,com.samsung.android.app.aodservice,True,1230735600000,True
+1557829946294,Edge screen,1556143080179,com.samsung.android.app.cocktailbarservice,True,1230735600000,True
+1557829946294,모서리 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.corner,True,1230735600000,False
+1557829946294,Android Services Library,1230735600000,com.google.android.ext.services,True,1230735600000,False
+1557829946294,SuwScriptPlayer,1230735600000,com.sec.android.app.suwscriptplayer,True,1230735600000,False
+1557829946294,더블 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.double,True,1230735600000,False
+1557829946294,다이얼러 저장소,1230735600000,com.android.providers.telephony,True,1230735600000,False
+1557829946294,DRParser Mode,1230735600000,com.sec.android.app.parser,True,1230735600000,False
+1557829946294,음성 서비스,1230735600000,com.samsung.svoice.sync,True,1230735600000,False
+1557829946294,Google,1556652061184,com.google.android.googlequicksearchbox,True,1230735600000,True
+1557829946294,캘린더,1554146442128,com.samsung.android.calendar,True,1230735600000,True
+1557829946294,시간대 업데이터,1230735600000,com.samsung.android.timezone.updater,True,1230735600000,False
+1557829946294,캘린더 저장공간,1230735600000,com.android.providers.calendar,True,1230735600000,False
+1557829946294,삼성 계정,1230735600000,com.osp.app.signin,True,1230735600000,False
+1557829946294,ABC Logger,1557201337228,kaist.iclab.abclogger,False,1557201337228,False
+1557829946294,Puffin,1556220326093,com.cloudmosa.puffinFree,False,1549993162171,False
+1557829946294,ClipboardSaveService,1230735600000,com.samsung.clipboardsaveservice,True,1230735600000,False
+1557829946294,TetheringAutomation,1230735600000,com.sec.automation,True,1230735600000,False
+1557829946294,도돌 키보드,1557343197339,com.fiberthemax.OpQ2keyboard,False,1540718257290,False
+1557829946294,미디어 저장공간,1230735600000,com.android.providers.media,True,1230735600000,False
+1557829946294,새 소식,1230735600000,com.samsung.android.app.social,True,1230735600000,False
+1557829946294,Google One Time Init,1230735600000,com.google.android.onetimeinitializer,True,1230735600000,False
+1557829946294,360° 포토 에디터,1230735600000,com.sec.android.mimage.gear360editor,True,1230735600000,False
+1557829946294,Android Shared Library,1230735600000,com.google.android.ext.shared,True,1230735600000,False
+1557829946294,보안정책 업데이트,1230735600000,com.samsung.android.spdclient,True,1230735600000,False
+1557829946294,SNOW,1555528431919,com.campmobile.snow,False,1542452429062,False
+1557829946294,com.android.wallpapercropper,1230735600000,com.android.wallpapercropper,True,1230735600000,False
+1557829946294,com.samsung.android.wallpaper.res,1230735600000,com.samsung.android.wallpaper.res,True,1230735600000,False
+1557829946294,Smart View,1230735600000,com.samsung.android.smartmirroring,True,1230735600000,False
+1557829946294,SKMSAgentService,1230735600000,com.skms.android.agent,True,1230735600000,False
+1557829946294,DeX community,1230735600000,com.sec.android.desktopcommunity,True,1230735600000,False
+1557829946294,안전 지킴이,1230735600000,com.sec.android.app.safetyassurance,True,1230735600000,False
+1557829946294,LGU_GPSnWPS,1230735600000,com.lguplus.lgugpsnwps,True,1230735600000,False
+1557829946294,전화,1230735600000,com.samsung.android.incallui,True,1230735600000,False
+1557829946294,퍼스널 홈,1230735600000,com.samsung.android.knox.containercore,True,1230735600000,False
+1557829946294,키즈 홈 인스톨러,1230735600000,com.samsung.android.kidsinstaller,True,1230735600000,False
+1557829946294,FactoryCamera,1230735600000,com.sec.factory.camera,True,1230735600000,False
+1557829946294,com.sec.internal.vsim.VSimServiceApp,1230735600000,com.sec.vsimservice,True,1230735600000,False
+1557829946294,USBSettings,1230735600000,com.sec.usbsettings,True,1230735600000,False
+1557829946294,SmartThings,1230735600000,com.samsung.android.easysetup,True,1230735600000,False
+1557829946294,파일,1230735600000,com.android.documentsui,True,1230735600000,False
+1557829946294,고속버스 모바일,1556651852685,com.kscc.scxb.mbl,False,1556258062548,False
+1557829946294,android.auto_generated_rro__,1230735600000,android.auto_generated_rro__,True,1230735600000,False
+1557829946294,외부 저장소,1230735600000,com.android.externalstorage,True,1230735600000,False
+1557829946294,EasyOneHand,1230735600000,com.sec.android.easyonehand,True,1230735600000,False
+1557829946294,DeviceTest,1230735600000,com.sec.factory,True,1230735600000,False
+1557829946294,StickerProvider,1230735600000,com.samsung.android.provider.stickerprovider,True,1230735600000,False
+1557829946294,HTML 뷰어,1230735600000,com.android.htmlviewer,True,1230735600000,False
+1557829946294,Naver V Panel,1551920003475,com.samsung.android.app.panel.naver.v,False,1514732582352,False
+1557829946294,삼성 인터넷 패널,1230735600000,com.samsung.android.app.sbrowseredge,True,1230735600000,False
+1557829946294,Companion Device Manager,1230735600000,com.android.companiondevicemanager,True,1230735600000,False
+1557829946294,MmsService,1230735600000,com.android.mms.service,True,1230735600000,False
+1557829946294,맞춤형 서비스,1230735600000,com.samsung.android.rubin.app,True,1230735600000,False
+1557829946294,배경화면,1230735600000,com.sec.android.wallpapercropper2,True,1230735600000,False
+1557829946294,마이 이모지 메이커,1230735600000,com.sec.android.app.camera.avatarauth,True,1230735600000,False
+1557829946294,다운로드 관리자,1230735600000,com.android.providers.downloads,True,1230735600000,False
+1557829946294,사전,1230735600000,com.diotek.sec.lookup.dictionary,True,1230735600000,False
+1557829946294,LED Cover Service,1230735600000,com.sec.android.cover.ledcover,True,1230735600000,False
+1557829946294,Smart Switch 에이전트,1230735600000,com.sec.android.easyMover.Agent,True,1230735600000,False
+1557829946294,bootagent,1230735600000,com.samsung.ucs.agent.boot,True,1230735600000,False
+1557829946294,설정메시지,1230735600000,com.wsomacp,True,1230735600000,False
+1557829946294,com.samsung.faceservice,1230735600000,com.samsung.faceservice,True,1230735600000,False
+1557829946294,음성 녹음,1555729071365,com.sec.android.app.voicenote,False,1541352616961,False
+1557829946294,AhnLab V3 Mobile Plus 2.0,1555105305022,com.ahnlab.v3mobileplus,False,1541570301679,False
+1557829946294,Foundation,1230735600000,com.monotype.android.font.foundation,True,1230735600000,False
+1557829946294,즐겨찾는 연락처,1230735600000,com.sec.android.widgetapp.easymodecontactswidget,True,1230735600000,False
+1557829946294,MTP 애플리케이션,1230735600000,com.samsung.android.MtpApplication,True,1230735600000,False
+1557829946294,DeviceKeystring,1230735600000,com.sec.android.app.factorykeystring,True,1230735600000,False
+1557829946294,Galaxy Store,1556650215215,com.sec.android.app.samsungapps,True,1230735600000,True
+1557829946294,EmergencyManagerService,1230735600000,com.sec.android.emergencymode.service,True,1230735600000,False
+1557829946294,ConfigUpdater,1230735600000,com.google.android.configupdater,True,1230735600000,False
+1557829946294,WlanTest,1230735600000,com.sec.android.app.wlantest,True,1230735600000,False
+1557829946294,기본 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear.preload,True,1230735600000,False
+1557829946294,SettingsBixby,1230735600000,com.samsung.android.app.settings.bixby,True,1230735600000,False
+1557829946294,삼성 결제,1557254412656,com.sec.android.app.billing,True,1230735600000,True
+1557829946294,모션 와이드 셀프 샷 뷰어,1230735600000,com.samsung.android.app.selfmotionpanoramaviewer,True,1230735600000,False
+1557829946294,EpdgTestApp,1230735600000,com.sec.epdgtestapp,True,1230735600000,False
+1557829946294,Samsung Time Zone Data,1230735600000,com.samsung.android.timezone.data_P,True,1230735600000,False
+1557829946294,게임런처,1554233063807,com.samsung.android.game.gamehome,True,1230735600000,True
+1557829946294,Samsung DeX 홈,1230735600000,com.sec.android.app.desktoplauncher,True,1230735600000,False
+1557829946294,Polar Beat,1557200841996,fi.polar.beat,False,1557200841996,False
+1557829946294,패키지 액세스 도움말,1230735600000,com.android.defcontainer,True,1230735600000,False
+1557829946294,AppleMint,1230735600000,com.monotype.android.font.applemint,True,1230735600000,False
+1557829946294,날씨,1230735600000,com.sec.android.daemonapp,True,1230735600000,False
+1557829946294,com.samsung.daydream.customization,1230735600000,com.samsung.daydream.customization,True,1230735600000,False
+1557829946294,ARCore,1554914833966,com.google.ar.core,True,1230735600000,True
+1557829946294,com.sec.ims,1230735600000,com.sec.ims,True,1230735600000,False
+1557829946294,SecVideoEngineService,1230735600000,com.sec.sve,True,1230735600000,False
+1557829946294,com.sec.enterprise.knox.attestation,1230735600000,com.sec.enterprise.knox.attestation,True,1230735600000,False
+1557829946294,다운로드,1230735600000,com.android.providers.downloads.ui,True,1230735600000,False
+1557829946294,Google Play 스토어,1557199240412,com.android.vending,True,1230735600000,True
+1557829946294,PacProcessor,1230735600000,com.android.pacprocessor,True,1230735600000,False
+1557829946294,Sim App Dialog,1230735600000,com.android.simappdialog,True,1230735600000,False
+1557829946294,SystemUIBixby2,1230735600000,com.samsung.systemui.bixby2,True,1230735600000,False
+1557829946294,ANT Radio Service,1557547670584,com.dsi.ant.service.socket,True,1230735600000,True
+1557829946294,AutoPreconfig,1230735600000,com.sec.android.AutoPreconfig,True,1230735600000,False
+1557829946294,설정,1230735600000,com.samsung.android.SettingsReceiver,True,1230735600000,False
+1557829946294,Daum 스포츠,1551919995033,com.samsung.android.widgetapp.daumedge.sports,False,1514732578619,False
+1557829946294,세로로 긴 디스플레이 컷아웃,1230735600000,com.android.internal.display.cutout.emulation.tall,True,1230735600000,False
+1557829946294,SoundAlive,1230735600000,com.sec.android.app.soundalive,True,1230735600000,False
+1557829946294,보안 저장소,1230735600000,com.sec.android.providers.security,True,1230735600000,False
+1557829946294,BadgeProvider,1230735600000,com.sec.android.provider.badge,True,1230735600000,False
+1557829946294,인증서 설치 마법사,1230735600000,com.android.certinstaller,True,1230735600000,False
+1557829946294,SecurityLogAgent,1230735600000,com.samsung.android.securitylogagent,True,1230735600000,False
+1557829946294,com.android.carrierconfig,1230735600000,com.android.carrierconfig,True,1230735600000,False
+1557829946294,원스토어,1556588015538,com.lguplus.appstore,True,1230735600000,True
+1557829946294,설정,1230735600000,com.samsung.android.knox.containeragent,True,1230735600000,False
+1557829946294,Assistant menu,1230735600000,com.samsung.android.app.assistantmenu,True,1230735600000,False
+1557829946294,삼성 TTS 엔진,1230735600000,com.samsung.SMT,True,1230735600000,False
+1557829946294,CMHProvider,1230735600000,com.samsung.cmh,True,1230735600000,False
+1557829946294,mlp,1230735600000,com.samsung.mlp,True,1230735600000,False
+1557829946294,아웃 포커스,1230735600000,com.sec.android.ofviewer,True,1230735600000,False
+1557829946294,Camera Iris User Test,1230735600000,com.sec.factory.iris.usercamera,True,1230735600000,False
+1557829946294,CarmodeStub,1230735600000,com.samsung.android.drivelink.stub,True,1230735600000,False
+1557829946294,안드로이드 시스템,1230735600000,android,True,1230735600000,False
+1557829946294,X Google enrollment,1230735600000,com.android.hotwordenrollment.xgoogle,True,1230735600000,False
+1557829946294,Knox Key Chain,1230735600000,com.samsung.knox.keychain,True,1230735600000,False
+1557829946294,러브데이,1557429424804,com.wonderabbit.lovedays,False,1552049533113,False
+1557829946294,디바이스 보호,1230735600000,com.samsung.android.sm.devicesecurity,True,1230735600000,False
+1557829946294,기본 프레임,1230735600000,com.samsung.android.app.camera.sticker.facearframe.preload,True,1230735600000,False
+1557829946294,ANT + DUT,1230735600000,com.dsi.ant.sample.acquirechannels,True,1230735600000,False
+1557829946294,AirCommandManager,1230735600000,com.samsung.android.aircommandmanager,True,1230735600000,False
+1557829946294,Wi-Fi 사용 팁,1230735600000,com.samsung.android.net.wifi.wifiguider,True,1230735600000,False
+1557829946294,빅스비 서비스,1555196483580,com.samsung.android.bixby.service,True,1230735600000,True
+1557829946294,SmartFaceService,1230735600000,com.samsung.android.smartface,True,1230735600000,False
+1557829946294,Android Easter Egg,1230735600000,com.android.egg,True,1230735600000,False
+1557829946294,MTP 호스트,1230735600000,com.android.mtp,True,1230735600000,False
+1557829946294,NFC,1230735600000,com.android.nfc,True,1230735600000,False
+1557829946294,SIM 툴킷,1230735600000,com.android.stk,True,1230735600000,False
+1557829946294,메시지,1555526844963,com.samsung.android.messaging,True,1230735600000,True
+1557829946294,emojiupdater,1230735600000,com.samsung.android.emojiupdater,True,1230735600000,False
+1557829946294,com.android.backupconfirm,1230735600000,com.android.backupconfirm,True,1230735600000,False
+1557829946294,KLMS Agent,1230735600000,com.samsung.klmsagent,True,1230735600000,False
+1557829946294,카톡 프리뷰,1555874253613,com.taeyoung.jimoon.kakaopreview,False,1543590975989,False
+1557829946294,Naver TV Cast Panel,1551919984807,com.samsung.android.app.panel.naver.tv,False,1514732581114,False
+1557829946294,SmartFittingService,1230735600000,com.samsung.android.smartfitting,True,1230735600000,False
+1557829946294,삼성 설정 마법사,1230735600000,com.sec.android.app.SecSetupWizard,True,1230735600000,False
+1557829946294,전화,1230735600000,com.samsung.android.app.telephonyui,True,1230735600000,False
+1557829946294,앱 추가 설치,1230735600000,com.samsung.preloadapp,True,1230735600000,False
+1557829946294,SamsungPositioning,1230735600000,com.samsung.android.samsungpositioning,True,1230735600000,False
+1557829946294,Intent Filter Verification Service,1230735600000,com.android.statementservice,True,1230735600000,False
+1557829946294,Gmail,1555729312310,com.google.android.gm,True,1230735600000,True
+1557829946294,빅스비 보이스,1555969823972,com.samsung.android.bixby.agent,True,1230735600000,True
+1557829946294,어피치,1555785597188,com.kakao.talk.theme.apeach,False,1545225688089,False
+1557829946294,UsimDownload,1230735600000,com.sec.android.UsimRegistrationKOR,True,1230735600000,False
+1557829946294,Microsoft Health,1557200054867,com.microsoft.kapp,False,1557200054867,False
+1557829946294,HwModuleTest,1230735600000,com.sec.android.app.hwmoduletest,True,1230735600000,False
+1557829946294,Settings Suggestions,1230735600000,com.android.settings.intelligence,True,1230735600000,False
+1557829946294,com.sec.bcservice,1230735600000,com.sec.bcservice,True,1230735600000,False
+1557829946294,SilentLogging,1230735600000,com.sec.modem.settings,True,1230735600000,False
+1557829946294,홍채,1230735600000,com.samsung.android.server.iris,True,1230735600000,False
+1557829946294,LGUHiddenMenu,1230735600000,com.samsung.hidden.LGU,True,1230735600000,False
+1557829946294,어두움,1230735600000,com.android.systemui.theme.dark,True,1230735600000,False
+1557829946294,Dropsync,1557201776408,com.ttxapps.dropsync,False,1557201776408,False
+1557829946294,Context Service,1230735600000,com.samsung.android.providers.context,True,1230735600000,False
+1557829946294,Service mode,1230735600000,com.sec.android.app.servicemodeapp,True,1230735600000,False
+1557829946294,앱 설치 마법사,1230735600000,com.sec.android.preloadinstaller,True,1230735600000,False
+1557829946294,UIBCVirtualSoftkey,1230735600000,com.sec.android.uibcvirtualsoftkey,True,1230735600000,False
+1557829946294,Android 설정,1230735600000,com.google.android.setupwizard,True,1230735600000,False
+1557829946294,갤러리,1553627324611,com.sec.android.gallery3d,True,1230735600000,True
+1557829946294,설정 저장소,1230735600000,com.android.providers.settings,True,1230735600000,False
+1557829946294,접근성,1230735600000,com.samsung.accessibility,True,1230735600000,False
+1557829946294,IMS Service,1230735600000,com.sec.imsservice,True,1230735600000,False
+1557829946294,com.android.sharedstoragebackup,1230735600000,com.android.sharedstoragebackup,True,1230735600000,False
+1557829946294,U+ 고객센터,1556478984307,com.lguplus.mobile.cs,True,1230735600000,True
+1557829946294,Samsung Experience Service,1556650304777,com.samsung.android.mobileservice,True,1230735600000,True
+1557829946294,인쇄 스풀러,1230735600000,com.android.printspooler,True,1230735600000,False
+1557829946294,OK Google enrollment,1230735600000,com.android.hotwordenrollment.okgoogle,True,1230735600000,False
+1557829946294,Gear VR Service,1230735600000,com.samsung.android.hmt.vrsvc,True,1230735600000,False
+1557829946294,Bixby Global Action,1540770362026,com.samsung.android.bixby.es.globalaction,False,1230735600000,False
+1557829946294,갤러리 스토리,1230735600000,com.samsung.storyservice,True,1230735600000,False
+1557829946294,기본 화면 보호기,1230735600000,com.android.dreams.basic,True,1230735600000,False
+1557829946294,Samsung Music,1557427587687,com.sec.android.app.music,False,1540700790904,False
+1557829946294,SecureElementApplication,1230735600000,com.android.se,True,1230735600000,False
+1557829946294,입력 기기,1230735600000,com.android.inputdevices,True,1230735600000,False
+1557829946294,Daum 뉴스,1551919972187,com.samsung.android.widgetapp.daumedge.news,False,1514732576308,False
+1557829946294,Payment Services,1230735600000,com.samsung.android.kgclient,True,1230735600000,False
+1557829946294,보안 폴더,1230735600000,com.samsung.knox.securefolder,True,1230735600000,False
+1557829946294,컬러노트,1556368896231,com.socialnmobile.dictapps.notepad.color.note,False,1551015473605,False
+1557829946294,Voice Assistant,1230735600000,com.samsung.android.app.talkback,True,1230735600000,False
+1557829946294,기본 인쇄 서비스,1230735600000,com.android.bips,True,1230735600000,False
+1557829946294,게임툴즈,1230735600000,com.samsung.android.game.gametools,True,1230735600000,False
+1557829946294,Samsung DeX 시스템 UI,1230735600000,com.samsung.desktopsystemui,True,1230735600000,False
+1557829946294,링크 공유,1230735600000,com.samsung.android.app.simplesharing,True,1230735600000,False
+1557829946294,Hidden Network Setting,1230735600000,com.samsung.hiddennetworksetting,True,1230735600000,False
+1557829946294,People edge,1230735600000,com.samsung.android.service.peoplestripe,True,1230735600000,False
+1557829946294,서라운드 샷,1230735600000,com.sec.android.gallery3d.panorama360view,True,1230735600000,False
+1557829946294,듀얼 메신저,1230735600000,com.samsung.android.da.daagent,True,1230735600000,False
+1557829946294,리마인더,1554406435968,com.samsung.android.app.reminder,True,1230735600000,True
+1557829946294,슬로우 모션 에디터,1230735600000,com.samsung.app.slowmotion,True,1230735600000,False
+1557829946294,Time Zone Updater,1542827404377,com.samsung.android.timezone.autoupdate_O,False,1230735600000,False
+1557829946294,Smart Call,1230735600000,com.samsung.android.smartcallprovider,True,1230735600000,False
+1557829946294,삼성 캡처,1230735600000,com.samsung.android.app.smartcapture,True,1230735600000,False
+1557829946294,Samsung DeX,1230735600000,com.sec.android.desktopmode.uiservice,True,1230735600000,False
+1557829946294,U+ 편의기능,1230735600000,com.lguplus.lgusetting,True,1230735600000,False
+1557829946294,지도,1556738367848,com.google.android.apps.maps,True,1230735600000,True
+1557829946294,ANT+ Plugins Service,1541127923541,com.dsi.ant.plugins.antplus,True,1230735600000,True
+1557829946294,Tasks edge,1230735600000,com.samsung.android.app.taskedge,True,1230735600000,False
+1557829946294,Paco,1557199095250,com.pacoapp.paco,False,1557199095250,False
+1557829946294,IMS Settings,1230735600000,com.samsung.advp.imssettings,True,1230735600000,False
+1557829946294,slocation,1230735600000,com.samsung.android.location,True,1230735600000,False
+1557829946294,삼성 키보드,1557254494913,com.sec.android.inputmethod,True,1230735600000,True
+1557829946294,Sound detectors,1230735600000,com.samsung.android.app.advsounddetector,True,1230735600000,False
+1557829946294,시계,1556634810566,com.sec.android.app.clockpackage,True,1230735600000,True
+1557829946294,Service mode RIL,1230735600000,com.sec.android.RilServiceModeApp,True,1230735600000,False
+1557829946294,Android System WebView,1230735600000,com.google.android.webview,True,1230735600000,False
+1557829946294,SIM 카드 관리자,1230735600000,com.sec.android.app.simsettingmgr,True,1230735600000,False
+1557829946294,Samsung MirrorLink 1.1,1230735600000,com.samsung.android.app.mirrorlink,True,1230735600000,False
+1557829946294,전화,1230735600000,com.android.server.telecom,True,1230735600000,False
+1557829946294,Google 주소록 동기화,1230735600000,com.google.android.syncadapters.contacts,True,1230735600000,False
+1557829946294,ImsLogger,1230735600000,com.sec.imslogger,True,1230735600000,False
+1557829946294,ClipboardUIService,1230735600000,com.samsung.android.clipboarduiservice,True,1230735600000,False
+1557829946294,키 체인,1230735600000,com.android.keychain,True,1230735600000,False
+1557829946294,다방,1556652297079,kr.co.station3.dabang,False,1554568326210,False
+1557829946294,Chrome,1556911245031,com.android.chrome,True,1230735600000,True
+1557829946294,IpsGeofence,1230735600000,com.samsung.android.ipsgeofence,True,1230735600000,False
+1557829946294,Samsung Themes,1230735600000,com.samsung.android.themecenter,True,1230735600000,False
+1557829946294,패키지 설치 프로그램,1230735600000,com.google.android.packageinstaller,True,1230735600000,False
+1557829946294,Google Play 서비스,1557343137845,com.google.android.gms,True,1230735600000,True
+1557829946294,Google Services Framework,1230735600000,com.google.android.gsf,True,1230735600000,False
+1557829946294,Google TTS 엔진,1554483223917,com.google.android.tts,True,1230735600000,True
+1557829946294,ConfigAPK,1540581344230,android.autoinstalls.config.samsung,True,1230735600000,True
+1557829946294,Call Log Backup/Restore,1230735600000,com.android.calllogbackup,True,1230735600000,False
+1557829946294,Google Partner Setup,1230735600000,com.google.android.partnersetup,True,1230735600000,False
+1557829946294,에브리타임,1556651770942,com.everytime.v2,False,1551014047566,False
+1557829946294,DiagMonAgent,1230735600000,com.sec.android.diagmonagent,True,1230735600000,False
+1557829946294,KnoxContainerDesktop,1230735600000,com.samsung.android.knox.containerdesktop,True,1230735600000,False
+1557829946294,USIM Agent,1230735600000,com.lguplus.tsmproxy,True,1230735600000,False
+1557829946294,Samsung Push Service,1230735600000,com.sec.spp.push,True,1230735600000,False
+1557829946294,이동통신사 기본 앱,1230735600000,com.android.carrierdefaultapp,True,1230735600000,False
+1557829946294,ANT+ HAL 서비스,1230735600000,com.dsi.ant.server,True,1230735600000,False
+1557829946294,Intelligent Scan,1230735600000,com.samsung.android.biometrics.service,True,1230735600000,False
+1557829946294,내 파일,1230735600000,com.sec.android.app.myfiles,True,1230735600000,False
+1557829946294,ProxyHandler,1230735600000,com.android.proxyhandler,True,1230735600000,False
+1557829946294,한컴오피스 viewer,1555615142942,com.tf.thinkdroid.viewer,False,1540965071484,False
+1557829946294,Wi-Fi 다이렉트,1230735600000,com.samsung.android.allshare.service.fileshare,True,1230735600000,False
+1557829946294,Daum 검색,1551919979658,com.samsung.android.widgetapp.daumedge.kakao,False,1514732574451,False
+1557829946294,포토 에디터,1230735600000,com.sec.android.mimage.photoretouching,True,1230735600000,False
+1557829946294,Samsung Experience 홈,1230735600000,com.sec.android.app.launcher,True,1230735600000,False
+1557829946294,Universal switch,1230735600000,com.samsung.android.universalswitch,True,1230735600000,False
+1557829946294,Samsung ApexService,1230735600000,com.sec.android.app.apex,True,1230735600000,False
+1557829946294,Briefing,1557522411072,flipboard.boxer.app,True,1230735600000,True
+1557829946294,마켓 피드백 에이전트,1230735600000,com.google.android.feedback,True,1230735600000,False
+1557829946294,Print Service Recommendation Service,1230735600000,com.google.android.printservice.recommendation,True,1230735600000,False
+1557829946294,Tinker,1230735600000,com.monotype.android.font.tinkerbell,True,1230735600000,False
+1557829946294,캘린더,1557170336013,com.google.android.calendar,False,1551012693294,False
+1557829946294,Google 캘린더 동기화,1230735600000,com.google.android.syncadapters.calendar,True,1230735600000,False
+1557829946294,직장 프로필 설정,1230735600000,com.android.managedprovisioning,True,1230735600000,False
+1557829946294,앱 소리 분리 재생,1230735600000,com.samsung.android.setting.multisound,True,1230735600000,False
+1557829946294,VisionProvider,1230735600000,com.samsung.visionprovider,True,1230735600000,False
+1557829946294,Authentication Framework,1230735600000,com.samsung.android.authfw,True,1230735600000,False
+1557829946294,ChocoEUKor,1230735600000,com.monotype.android.font.chococooky,True,1230735600000,False
+1557829946294,사진 스크린세이버,1230735600000,com.android.dreams.phototable,True,1230735600000,False
+1557829946294,기본 3D 라이브 스티커,1230735600000,com.samsung.android.app.camera.sticker.facear3d.preload,True,1230735600000,False
+1557829946294,BixbyVision Framework,1230735600000,com.samsung.android.bixbyvision.framework,True,1230735600000,False
+1557829946294,Health Service,1230735600000,com.sec.android.service.health,True,1230735600000,False
+1557829946294,안전정보,1230735600000,com.samsung.safetyinformation,True,1230735600000,False
+1557829946294,전화,1555969802039,com.samsung.android.dialer,True,1230735600000,True
+1557829946294,DQA,1230735600000,com.samsung.android.dqagent,True,1230735600000,False
+1557829946294,스토리 비디오 에디터,1230735600000,com.samsung.app.highlightplayer,True,1230735600000,False
+1557829946294,ringtonebackup,1230735600000,com.sec.android.app.ringtoneBR,True,1230735600000,False
+1557829946294,Game Optimizing Service,1556143145687,com.samsung.android.game.gos,True,1230735600000,True
+1557829946294,비디오 에디터,1230735600000,com.sec.android.app.vepreload,True,1230735600000,False
+1557829946294,Galaxy Graphics Driver,1230735600000,com.samsung.gpudriver.S9MaliG72_90,True,1230735600000,False
+1557829946294,com.android.providers.partnerbookmarks,1230735600000,com.android.providers.partnerbookmarks,True,1230735600000,False
+1557829946294,SEMFactoryApp,1230735600000,com.sem.factoryapp,True,1230735600000,False
+1557829946294,Keyguard Wallpaper Updator,1230735600000,com.samsung.android.keyguardwallpaperupdator,True,1230735600000,False
+1557829946294,TeeService,1230735600000,com.trustonic.teeservice,True,1230735600000,False
+1557829946294,라이브 배경화면 선택기,1230735600000,com.android.wallpaper.livepicker,True,1230735600000,False
+1557829946294,SmartThings,1230735600000,com.samsung.android.beaconmanager,True,1230735600000,False
+1557829946294,밥대생,1551722621385,kr.ac.kaist.bab,False,1545725718018,False
+1557829946294,Enterprise Sim Pin Service,1230735600000,com.sec.enterprise.mdm.services.simpin,True,1230735600000,False
+1557829946294,태그,1230735600000,com.android.apps.tag,True,1230735600000,False
+1557829946294,Messenger,1556911194705,com.facebook.orca,False,1542123481817,False
+1557829946294,IMS DM,1230735600000,com.ims.dm,True,1230735600000,False
+1557829946294,StickerCenter,1230735600000,com.samsung.android.stickercenter,True,1230735600000,False
+1557829946294,번호 안내 서비스,1230735600000,com.samsung.kt114provider2,True,1230735600000,False
+1557829946294,소프트웨어 업데이트,1230735600000,com.sec.android.soagent,True,1230735600000,False
+1557829946294,com.google.android.gms.policy_sidecar_aps,1230735600000,com.google.android.gms.policy_sidecar_aps,True,1230735600000,False
+1557829946294,빠른 도구 모음,1230735600000,com.sec.android.app.quicktool,True,1230735600000,False
+1557829946294,내 디바이스 찾기,1555709989334,com.samsung.android.fmm,True,1230735600000,True
+1557829946294,MDMApp,1230735600000,com.samsung.android.mdm,True,1230735600000,False
+1557829946294,Wi-Fi 전화,1230735600000,com.sec.unifiedwfc,True,1230735600000,False
+1557829946294,com.sec.phone,1230735600000,com.sec.phone,True,1230735600000,False
+1557829946294,MLDAPlog,1230735600000,com.sec.mldapchecker,True,1230735600000,False
+1557829946294,음성 호출,1555196503536,com.samsung.android.bixby.wakeup,True,1230735600000,True
+1557829946294,Adobe Acrobat,1555442825164,com.adobe.reader,False,1540910659965,False
+1557829946294,Google 백업 전송,1230735600000,com.google.android.backuptransport,True,1230735600000,False
+1557829946294,Samsung Pass,1551306729202,com.samsung.android.samsungpass,True,1230735600000,True
+1557829946294,Bixby Service,1540770365453,com.samsung.android.bixby.plmsync,False,1230735600000,False
+1557829946294,저장용량 관리자,1230735600000,com.android.storagemanager,True,1230735600000,False
+1557829946294,삼성 클라우드,1230735600000,com.samsung.android.scloud,True,1230735600000,False
+1557829946294,사운드 선택기,1230735600000,com.samsung.android.app.soundpicker,True,1230735600000,False
+1557829946294,통신상태알림,1230735600000,com.sec.app.RilErrorNotifier,True,1230735600000,False
+1557829946294,Samsung PaymentFramework,1230735600000,com.samsung.android.spayfw,True,1230735600000,False
+1557829946294,Logger,1557201160374,iclab.kaist.ac.kr.msband_logger,False,1557201160374,False
+1557829946294,Bookmark Provider,1230735600000,com.android.bookmarkprovider,True,1230735600000,False
+1557829946294,설정,1230735600000,com.android.settings,True,1230735600000,False
+1557829946294,동영상 잘라내기,1230735600000,com.samsung.app.newtrim,True,1230735600000,False
+1557829946294,Dsms,1230735600000,com.samsung.android.dsms,True,1230735600000,False
+1557829946294,디바이스 케어,1556056426577,com.samsung.android.lool,True,1230735600000,True
+1557829946294,BluetoothTest,1230735600000,com.sec.android.app.bluetoothtest,True,1230735600000,False
+1557829946294,Samsung Device Health Manager Service,1230735600000,com.sec.android.sdhms,True,1230735600000,False
+1557829946294,빅스비 홈,1553957253322,com.samsung.android.app.spage,True,1230735600000,True
+1557829946294,Knox Analytics Uploader,1230735600000,com.samsung.android.knox.analytics.uploader,True,1230735600000,False
+1557829946294,SCPM Client,1230735600000,com.samsung.android.sm.policy,True,1230735600000,False
+1557829946294,실행 프로그램,1230735600000,com.sec.android.emergencylauncher,True,1230735600000,False
+1557829946294,카카오톡,1556824948437,com.kakao.talk,False,1540702663384,False
+1557829946294,Adapt sound,1230735600000,com.sec.hearingadjust,True,1230735600000,False
+1557829946294,Smart Switch,1551920014733,com.sec.android.easyMover,False,1514732587622,False
+1557829946294,Device Health Services,1554233443741,com.google.android.apps.turbo,True,1230735600000,True
+1557829946294,블루라이트 필터,1230735600000,com.samsung.android.bluelightfilter,True,1230735600000,False
+1557829946294,BBCAgent,1230735600000,com.samsung.android.bbc.bbcagent,True,1230735600000,False
+1557829946294,빅스비 비전,1553957281005,com.samsung.android.visionintelligence,True,1230735600000,True
+1557829946294,KnoxVpnPacProcessor,1230735600000,com.knox.vpn.proxyhandler,True,1230735600000,False
+1557829946294,com.android.cts.ctsshim,1230735600000,com.android.cts.ctsshim,True,1230735600000,False
+1557829946294,SplitSoundService,1230735600000,com.sec.android.splitsound,True,1230735600000,False
+1557829946294,Wearable Manager Installer,1230735600000,com.samsung.android.app.watchmanagerstub,True,1230735600000,False
+1557829946294,SVC Agent,1230735600000,com.samsung.android.svcagent,True,1230735600000,False
+1557829946294,삼성 음성 입력,1230735600000,com.samsung.android.svoiceime,True,1230735600000,False
+1557829946294,Samsung Galaxy Friends,1230735600000,com.samsung.android.mateagent,True,1230735600000,False
+1557829946294,NetworkDiagnostic,1230735600000,com.samsung.android.networkdiagnostic,True,1230735600000,False
+1557829946294,GOS Legacy,1230735600000,com.enhance.gameservice,True,1230735600000,False
+1557829946294,ShortcutBNR,1230735600000,com.samsung.android.shortcutbackupservice,True,1230735600000,False
+1557829946294,VpnDialogs,1230735600000,com.android.vpndialogs,True,1230735600000,False
+1557829946294,eSE UCS Plugin,1230735600000,com.samsung.ucs.agent.ese,True,1230735600000,False
+1557829946294,연락처 저장공간,1230735600000,com.samsung.android.providers.contacts,True,1230735600000,False
+1557829946294,원스토어 서비스,1556587983905,com.skt.skaf.OA00018282,True,1230735600000,True
+1557829946294,전화,1230735600000,com.android.phone,True,1230735600000,False
+1557829946294,Google VR 서비스,1551727172107,com.google.vr.vrcore,True,1230735600000,True
+1557829946294,셸,1230735600000,com.android.shell,True,1230735600000,False
+1557829946294,com.android.wallpaperbackup,1230735600000,com.android.wallpaperbackup,True,1230735600000,False
+1557829946294,차단된 번호 스토리지,1230735600000,com.android.providers.blockednumber,True,1230735600000,False
+1557829946294,구성 업데이트,1230735600000,com.samsung.android.app.omcagent,True,1230735600000,False
+1557829946294,사용자 사전,1230735600000,com.android.providers.userdictionary,True,1230735600000,False
+1557829946294,DMB,1230735600000,com.samsung.android.app.dtv.dmb,True,1230735600000,False
+1557829946294,Knox Enrollment Service,1230735600000,com.sec.enterprise.knox.cloudmdm.smdms,True,1230735600000,False
+1557829946294,기본 스탬프,1230735600000,com.samsung.android.app.camera.sticker.stamp.preload,True,1230735600000,False
+1557829946294,긴급 상황 정보,1230735600000,com.android.emergency,True,1230735600000,False
+1557829946294,소프트웨어 업데이트,1230735600000,com.wssyncmldm,True,1230735600000,False
+1557829946294,소프트웨어 업데이트,1230735600000,com.skt.skaf.OA00412131,True,1230735600000,False
+1557829946294,Fused Location,1230735600000,com.android.location.fused,True,1230735600000,False
+1557829946294,Apps edge,1230735600000,com.samsung.android.app.appsedge,True,1230735600000,False
+1557829946294,Samsung Pass 자동 완성,1549048445054,com.samsung.android.samsungpassautofill,True,1230735600000,True
+1557829946294,com.sec.epdg,1230735600000,com.sec.epdg,True,1230735600000,False
+1557829946294,시스템 UI,1230735600000,com.android.systemui,True,1230735600000,False
+1557829946294,Perso,1230735600000,com.sec.android.app.personalization,True,1230735600000,False
+1557829946294,Bluetooth MIDI Service,1230735600000,com.android.bluetoothmidiservice,True,1230735600000,False
+1557829946294,HandwritingService,1230735600000,com.samsung.android.sdk.handwriting,True,1230735600000,False
+1557829946294,미세미세,1556738271933,cheehoon.ha.particulateforecaster,False,1551498069153,False
+1557829946294,AASAservice,1230735600000,com.samsung.aasaservice,True,1230735600000,False
+1557829946294,시스템 추적,1230735600000,com.android.traceur,True,1230735600000,False
+1557829946294,Nearby Service,1230735600000,com.samsung.android.allshare.service.mediashare,True,1230735600000,False
+1557829946294,라디오,1230735600000,com.sec.android.app.fm,True,1230735600000,False
+1557829946294,Camera Iris Factory Test,1230735600000,com.sec.factory.iris.camera,True,1230735600000,False
+1557829946294,EmergencyProvider,1230735600000,com.sec.android.provider.emergencymode,True,1230735600000,False
+1557829946294,AppLinker,1230735600000,com.sec.android.app.applinker,True,1230735600000,False
+1557829946294,원터치개인,1556368588738,com.wooribank.pib.smart,False,1541570263092,False
+1557829946294,카메라,1230735600000,com.sec.android.app.camera,True,1230735600000,False
+1557829946294,블루투스,1230735600000,com.android.bluetooth,True,1230735600000,False
+1557829946294,연락처,1555969774820,com.samsung.android.contacts,True,1230735600000,True
+1557829946294,Clipboard edge,1230735600000,com.samsung.android.app.clipboardedge,True,1230735600000,False
+1557829946294,IPService,1230735600000,com.samsung.ipservice,True,1230735600000,False
+1557829946294,QRreader,1230735600000,com.sec.android.QRreader,True,1230735600000,False
+1557829946294,돋보기,1230735600000,com.sec.android.app.magnifier,True,1230735600000,False
+1557829946294,사용 설명서,1230735600000,com.sec.android.widgetapp.webmanual,True,1230735600000,False
+1557829946294,CSC,1230735600000,com.samsung.sec.android.application.csc,True,1230735600000,False
+1557829946294,CaptivePortalLogin,1230735600000,com.android.captiveportallogin,True,1230735600000,False
+1557829946294,구성 업데이트,1230735600000,com.samsung.android.sdm.config,True,1230735600000,False
+1557829946294,모션 파노라마 뷰어,1230735600000,com.samsung.android.app.motionpanoramaviewer,True,1230735600000,False
+1557829946294,라이브 포커스,1230735600000,com.samsung.android.app.dofviewer,True,1230735600000,False
+1557829946294,Face,1230735600000,com.samsung.android.bio.face.service,True,1230735600000,False
+1557829946294,Bixby Voice Stub,1230735600000,com.samsung.android.bixby.agent.dummy,True,1230735600000,False
+1557829946294,비디오 플레이어,1556332833583,com.samsung.android.video,True,1230735600000,True
+1557829946294,Android 설정,1230735600000,com.google.android.apps.restore,True,1230735600000,False
