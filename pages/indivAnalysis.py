@@ -41,7 +41,7 @@ layout = html.Div(children=[
         dcc.DatePickerSingle(
         id='start-date',
         date=date(2023,3,1),
-        initial_visible_month = date(2023,3,1)
+        initial_visible_month = date(2019,5,8)
         )
     ],
     ),
@@ -51,7 +51,7 @@ layout = html.Div(children=[
         dcc.DatePickerSingle(
         id='end-date',
         date=date(2023,3,1),
-        initial_visible_month = date(2023,3,1)
+        initial_visible_month = date(2019,5,8)
         )
     ],
 
