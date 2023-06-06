@@ -1,4 +1,3 @@
-#hello hello abc
 import dash
 from dash import dcc
 from dash import html
@@ -9,10 +8,20 @@ import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
 from server import app
-
+import os
 
 layout = html.Div(children=[
-    html.Header(className='header', children='Individual Statistics'),
+    html.Header(className='header2', children='Individual Statistics'),
+    html.Br(),
+    html.Div([
+        "Person ID : ",
+        dcc.Input(
+        id='person-id',
+        value = 'P0701',
+        type = 'text'
+        )
+    ],),
+    html.Div(id = 'check-person'),
     html.Div(
         [
             dcc.Dropdown(
@@ -32,7 +41,7 @@ layout = html.Div(children=[
         dcc.DatePickerSingle(
         id='start-date',
         date=date(2023,3,1),
-        initial_visible_month = date(2023,3,1)
+        initial_visible_month = date(2019,5,8)
         )
     ],
     ),
@@ -42,9 +51,10 @@ layout = html.Div(children=[
         dcc.DatePickerSingle(
         id='end-date',
         date=date(2023,3,1),
-        initial_visible_month = date(2023,3,1)
+        initial_visible_month = date(2019,5,8)
         )
     ],
+
     ),
 
     html.Div([
@@ -70,14 +80,36 @@ layout = html.Div(children=[
 ])
 
 @app.callback(
+    Output('check-person', 'children'),
+    Input('person-id', 'value')
+)
+def if_person(user_id):
+    file_name = 'data/Processed/' + user_id + '_PAT.csv'
+    if os.path.isfile(file_name) == False:
+        return "Person ID is wrong"
+    else:
+        return "This is "+user_id+"'s information"
+
+
+@app.callback(
     Output('graph1', 'figure'),
+    Input('person-id', 'value'),
     Input('User', 'value'),
     Input('start-time', 'value'),
     Input('end-time', 'value'),
     Input('start-date', 'date'),
     Input('end-date', 'date')
 )
-def update_graph(User, starttime,endtime,startdate, enddate):
+def update_graph(user_id,User, starttime,endtime,startdate, enddate):
+    file_name = 'data/Processed/' + user_id + '_PAT.csv'
+    fig = go.Figure()
+    if os.path.isfile(file_name) == False:
+        return fig
+    else:
+        df = pd.read_csv(file_name)
+        df.columns = ['Resource', 'Start', 'Finish']
+        fig3 = px.timeline(df, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime], title = "Timeline")
+        return fig3
     df1 = pd.DataFrame([
     dict(Resource="Walk", Start='2023-03-01 12:00:00', Finish='2023-03-01 15:00:00'),
     dict(Resource="App A", Start='2023-03-01 10:00:00', Finish='2023-03-01 13:00:00'),
