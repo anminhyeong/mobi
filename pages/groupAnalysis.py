@@ -44,31 +44,70 @@ fig2.update_traces(hoverinfo='label+percent+text', text = (app_usage_stats['days
                   marker=dict(line=dict(color='#000000', width=2)))
 fig2.update_layout(width = 600, height = 400)
 
+AUE_PAT = pd.DataFrame()
+for person in groups:
+    temp = pd.read_csv(f'data/Processed/{person}_AUEwithPAT.csv')
+    temp.start_time = pd.to_datetime(temp.start_time)
+    temp.end_time = pd.to_datetime(temp.end_time)
+    temp['duration'] = temp.end_time - temp.start_time
+    temp['person'] = person
+    AUE_PAT = AUE_PAT.append(temp)
+
+topappusing = AUE_PAT.groupby('name')['duration'].sum().sort_values(ascending=False).head(15)
+topappusing = pd.concat([topappusing, topappusing.dt.components], axis = 1)
+topappusing.hours = 24 * topappusing.days + topappusing.hours
+
+fig3 = go.Figure(data = [go.Bar(name = 'AppUsed',
+                                x = topappusing.index, 
+                                y = topappusing['duration'], 
+                                text = topappusing.hours.astype(str) + 'h ' + topappusing.minutes.astype(str) + 'm ' + topappusing.seconds.astype(str) + 's',
+                                textposition = 'none',
+                                hovertemplate = 'AppName : %{x}<br>Total App Used : %{text}')])
+fig3.update_yaxes(visible=False)
+    
+top5app = AUE_PAT.groupby(['name','actionType'])['duration'].sum().loc[AUE_PAT.groupby('name')['duration'].sum().sort_values(ascending=False).head(5).index].reset_index(drop = False)
+top5app = pd.concat([top5app, top5app.duration.dt.components], axis = 1)
+top5app.hours = 24 * top5app.days + top5app.hours
+
+fig4 = px.bar(top5app, x = 'name', y = 'duration', color = 'actionType', text=top5app.hours.astype(str) + 'h ' + top5app.minutes.astype(str) + 'm ' + top5app.seconds.astype(str) + 's', barmode = 'group')
+fig4.update_layout(legend = dict(yanchor = 'bottom', y = 0.01, xanchor = 'right', x = 0.99))
+fig4.update_traces(hovertemplate = "AppName : %{x}<br>AppUsingTime : %{text}", textposition = "none")
+fig4.update_xaxes(categoryorder = 'total descending')
+fig4.update_yaxes(autorange = 'reversed')
+fig4.update_yaxes(visible=False)
+
 layout = html.Div([
     html.Div(html.P(html.B('Group Stats')), className='Header'),
     html.Div(children = [
-        dcc.Graph(figure = fig),
-        dcc.Graph(figure = fig2)
-    ], style={'display':'inline-flex'}),
-    html.Div(children = [
-        dcc.Dropdown(id = 'x_axis',
-                     options = [{'label' : i, 'value' : i} for i in PATE.actionType.unique()],
-                     multi = True,
-                     clearable = False,
-                     value = None,
-                     style = {'width' : '200pt'}),
-        dcc.Dropdown(id = 'y_axis',
-                     options = [{'label' : i, 'value' : i} for i in AUEE.name.unique()],
-                     multi = True,
-                     clearable = False,
-                     value = None,
-                     style = {'width' : '200pt'})
-    ], style = {'display':'flex'}),
-    html.Div(children = [
-        dcc.Graph(id = 'graph', style = {'width':'600pt', 'height':'300pt'}),
-        html.Div(id = 'click-data', style = {'width':'100pt', 'height':'300pt'}),
-        #dcc.Link('test', href = '/indiv')
-    ], style = {'display':'flex'}),
+        html.Div(children = [
+            html.Div(children = [
+                dcc.Graph(figure = fig),
+                dcc.Graph(figure = fig2),
+            ], style={'display':'inline-flex'}),
+            html.Div(children = [
+                dcc.Dropdown(id = 'x_axis',
+                            options = [{'label' : i, 'value' : i} for i in PATE.actionType.unique()],
+                            multi = True,
+                            clearable = False,
+                            value = None,
+                            style = {'width' : '100%'}),
+                dcc.Dropdown(id = 'y_axis',
+                            options = [{'label' : i, 'value' : i} for i in AUEE.name.unique()],
+                            multi = True,
+                            clearable = False,
+                            value = None,
+                            style = {'width' : '100%'})
+            ], style = {'display':'flex'}),
+            html.Div(children = [
+                dcc.Graph(id = 'graph', style = {'width':'85%', 'height':'300pt'}),
+                html.Div(id = 'click-data', style = {'width':'100pt', 'height':'300pt'})
+            ], style = {'display':'flex', 'flex-direction' : 'column'})
+        ], style = {'display':'flex', 'witdh' : '60%', 'flex-direction' : 'column'}),
+        html.Div(children = [
+            dcc.Graph(figure = fig3),
+            dcc.Graph(figure = fig4)
+        ], style={'display':'inline-flex', 'flex-direction' : 'column'})
+    ], style = {'display' : 'flex', 'width' : '100%'})
     #dash.page_container
 ], style = {'display' : 'flex', 'width' : '100%', 'flex-direction' : 'column', 'flex-wrap':'wrap'})
 
