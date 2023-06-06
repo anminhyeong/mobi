@@ -4,6 +4,7 @@ from dash import html
 from dash.dependencies import Input, Output
 from datetime import date
 from datetime import datetime, timedelta
+import datetime
 import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
@@ -22,25 +23,13 @@ layout = html.Div(children=[
         )
     ],),
     html.Div(id = 'check-person'),
-    html.Div(
-        [
-            dcc.Dropdown(
-                id="User",
-                options = [
-                    {'label' : "User A", 'value' : "UA"},
-                    {'label' : "User B", 'value' : "UB"}
-                ],
-                value = "UA",
-                ),
-        ],
-        style={'width': '25%',
-               'display': 'inline-block'}),
+    
 
     html.Div([
         "Select Start Date : ",
         dcc.DatePickerSingle(
         id='start-date',
-        date=date(2023,3,1),
+        date=date(2019,5,8),
         initial_visible_month = date(2019,5,8)
         )
     ],
@@ -50,7 +39,7 @@ layout = html.Div(children=[
         "Select End Date : ",
         dcc.DatePickerSingle(
         id='end-date',
-        date=date(2023,3,1),
+        date=date(2019,5,8),
         initial_visible_month = date(2019,5,8)
         )
     ],
@@ -77,7 +66,11 @@ layout = html.Div(children=[
     
     dcc.Graph(id='graph1'),
     dcc.Graph(id='graph2'),
+
+
 ])
+
+
 
 @app.callback(
     Output('check-person', 'children'),
@@ -94,13 +87,12 @@ def if_person(user_id):
 @app.callback(
     Output('graph1', 'figure'),
     Input('person-id', 'value'),
-    Input('User', 'value'),
     Input('start-time', 'value'),
     Input('end-time', 'value'),
     Input('start-date', 'date'),
     Input('end-date', 'date')
 )
-def update_graph(user_id,User, starttime,endtime,startdate, enddate):
+def update_graph(user_id, starttime,endtime,startdate, enddate):
     file_name = 'data/Processed/' + user_id + '_PAT.csv'
     fig = go.Figure()
     if os.path.isfile(file_name) == False:
@@ -110,69 +102,65 @@ def update_graph(user_id,User, starttime,endtime,startdate, enddate):
         df.columns = ['Resource', 'Start', 'Finish']
         fig3 = px.timeline(df, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime], title = "Timeline")
         return fig3
-    df1 = pd.DataFrame([
-    dict(Resource="Walk", Start='2023-03-01 12:00:00', Finish='2023-03-01 15:00:00'),
-    dict(Resource="App A", Start='2023-03-01 10:00:00', Finish='2023-03-01 13:00:00'),
-    dict(Resource="App Usage", Start='2023-03-01 11:00:00', Finish='2023-03-01 12:00:00'),
-    dict(Resource="Walk", Start='2023-03-01 09:00:00', Finish='2023-03-01 11:00:00'),
-    dict(Resource="Walk", Start='2023-03-02 13:00:00', Finish='2023-03-02 14:00:00'),
-    dict(Resource="Walk", Start='2023-03-02 16:00:00', Finish='2023-03-02 17:00:00'),
-    dict(Resource="App Usage", Start='2023-03-02 11:00:00', Finish='2023-03-02 12:00:00'),
-    dict(Resource="App Usage", Start='2023-03-02 14:30:00', Finish='2023-03-02 15:30:00'),
-    dict(Resource="App A", Start='2023-03-02 14:40:00', Finish='2023-03-02 15:00:00'),
-    ])
-    
-    fig1 = px.timeline(df1, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime],title = "Timeline")
-    fig1.update_yaxes(autorange="reversed") 
-    df2 = pd.DataFrame([
-    dict(Resource="Walk", Start='2023-03-01 10:00:00', Finish='2023-03-01 11:00:00'),
-    dict(Resource="Walk", Start='2023-03-01 13:00:00', Finish='2023-03-01 14:00:00'),
-    dict(Resource="App Usage", Start='2023-03-01 10:30:00', Finish='2023-03-01 11:00:00'),
-    dict(Resource="App Usage", Start='2023-03-01 12:30:00', Finish='2023-03-01 12:20:00'),
-    dict(Resource="App B", Start='2023-03-01 13:30:00', Finish='2023-03-01 14:30:00'),
-    dict(Resource="Walk", Start='2023-03-02 13:00:00', Finish='2023-03-02 13:20:00'),
-    dict(Resource="Walk", Start='2023-03-02 13:30:00', Finish='2023-03-02 13:40:00'),
-    dict(Resource="App Usage", Start='2023-03-02 13:00:00', Finish='2023-03-02 15:00:00'),
-    dict(Resource="App B", Start='2023-03-02 13:10:00', Finish='2023-03-02 13:30:00'),
-    dict(Resource="App B", Start='2023-03-02 14:20:00', Finish='2023-03-02 15:00:00'),
-    
-    ])
-    fig2 = px.timeline(df2, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime], title = "Timeline")
-    fig2.update_yaxes(autorange="reversed") 
-    if User == "UA":
-        return fig1
-    return fig2
 
 
 @app.callback(
-
     Output('graph2', 'figure'),
-    Input('User', 'value'),
+    Input('person-id', 'value'),
+    Input('start-time', 'value'),
+    Input('end-time', 'value'),
     Input('start-date', 'date'),
-    Input('end-date', 'date')
+    Input('end-date', 'date'),
 )
 
-def update_graph(user,startdate,enddate):
-    dates = pd.date_range(startdate,enddate)
-    newdates = list(map(str, dates))
-    df1 = pd.DataFrame([
-    dict(date="2023-03-01 00:00:00", App = 1.5 , Walk = 2.5),
-    dict(date="2023-03-02 00:00:00", App = 2 , Walk = 2),
-    dict(date="2023-03-03 00:00:00", App = 2.5 , Walk = 0.5),
-    dict(date="2023-03-04 00:00:00", App = 0.5 , Walk = 3),
-    dict(date="2023-03-05 00:00:00", App = 1.5 , Walk = 0.5),
-    ])
-    df2 = pd.DataFrame([
-    dict(date="2023-03-01 00:00:00", App = 3.0 , Walk = 0.5),
-    dict(date="2023-03-02 00:00:00", App = 2.5, Walk = 1),
-    dict(date="2023-03-03 00:00:00", App = 3.5 , Walk = 0.5),
-    dict(date="2023-03-04 00:00:00", App = 2 , Walk = 1),
-    dict(date="2023-03-05 00:00:00", App = 3 , Walk = 1.5),
-    ])
-    df11 = df1[df1['date'].isin(newdates)]
-    df22 = df2[df2['date'].isin(newdates)]
-    fig1 = px.line(df11, x = 'date', y = ['App', 'Walk'], markers = True, width = 800, title = "Line Graph")
-    fig2 = px.line(df22, x = newdates, y = ['App', 'Walk'], markers = True, width = 800, title = "Line Graph")
-    if user == "UA":
-        return fig1
-    return fig2
+def update_graph(user_id,starttime, endtime, startdate,enddate):
+    file_name = 'data/Processed/' + user_id + '_PAT.csv'
+    fig = go.Figure()
+    if os.path.isfile(file_name) == False:
+        return fig
+    else:
+        #print(startdate + ' ' +starttime)
+        st = startdate + ' ' + starttime
+        ed = enddate + ' ' + endtime
+        start_range = datetime.datetime.strptime(st, '%Y-%m-%d %H:%M')
+        end_range = datetime.datetime.strptime(ed, '%Y-%m-%d %H:%M')
+        df = pd.read_csv(file_name)
+        df.columns = ['name', 'start_time', 'end_time']
+        name_time_sum = dict()
+        for name, start, end in zip(df['name'], df['start_time'], df['end_time']):
+            start_time = datetime.datetime.strptime(start, '%Y-%m-%d %H:%M:%S.%f')
+            end_time = datetime.datetime.strptime(end, '%Y-%m-%d %H:%M:%S.%f')
+            if start_time <= start_range and end_time >= end_range:
+                time_duration = end_range - start_range
+            elif start_time <= start_range <= end_time:
+                time_duration = end_time - start_range
+            elif start_time <= end_range <= end_time:
+                time_duration = end_range - start_time
+            elif start_range <= start_time <= end_time <= end_range:
+                time_duration = end_time - start_time
+            else:
+                time_duration = datetime.timedelta(seconds = 0)
+
+            if name in name_time_sum:
+                name_time_sum[name] += time_duration
+            else:
+                name_time_sum[name] = time_duration
+        for name, time_sum in name_time_sum.items():
+            print(f"{name}: {time_sum}")
+            '''
+        for name in name_time_sum:
+            temp = name_time_sum[name]
+            tmep2 = datetime.datetime.strptime(temp, '')
+            '''
+        def convert(t):
+            t = int(t)
+            seconds = t % 60
+            temp = t // 60
+            minutes = temp % 60
+            temp = temp // 60
+            hours = temp
+            return datetime.timedelta(hours = hours, minutes = minutes, seconds = seconds)
+        newdf = pd.DataFrame(list(name_time_sum.items()), columns = ['moving_type', 'time'])
+        newdf['hours'] = newdf['time'].apply(lambda x:x.total_seconds()/3600)
+        fig2 = px.bar(newdf, x = 'moving_type', y = 'hours', color = 'moving_type')
+        return fig2
