@@ -1,3 +1,4 @@
+'''
 import dash
 import json
 from dash import dcc, html, Input, Output
@@ -6,6 +7,7 @@ import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
 import os
+from . import selectandanalyze
 
 #testing groups
 groups = ['P0701', 'P0702', 'P0703']
@@ -135,3 +137,4 @@ def display_click_data(clickData):
     if clickData == None:
         return None
     return groups[clickData['points'][0]['pointIndex']]
+'''

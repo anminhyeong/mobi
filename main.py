@@ -2,7 +2,7 @@ import os
 from dash import dcc, html, Input, Output
 import dash_bootstrap_components as dbc
 from server import app
-from pages import mainpage, groupAnalysis, indivAnalysis, selectgr
+from pages import mainpage, groupAnalysis, indivAnalysis, selectgr, selectandanalyze
 import pandas as pd
 
 #################
@@ -62,9 +62,9 @@ content = html.Div(id="page-content", style=CONTENT_STYLE)
 )
 def render_page_content(pathname):
     if pathname == "/":
-        return mainpage.layout
-    elif pathname == "/selectgr":
-        return selectgr.layout
+        return selectandanalyze.layout
+    #elif pathname == "/selectgr":
+        #return selectgr.layout
     elif pathname == "/groupAnalysis":
         return groupAnalysis.layout
     elif pathname == "/indivAnalysis":
