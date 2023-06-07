@@ -11,6 +11,7 @@ import plotly.graph_objects as go
 from server import app
 import os
 
+
 layout = html.Div(children=[
     html.Header(className='header2', children='Individual Statistics'),
     html.Br(),
@@ -49,7 +50,7 @@ layout = html.Div(children=[
     html.Div([
         "Select Start Time : ",
         dcc.Input(id = 'start-time', value = '06:00', type = 'text'),
-        " ex) 12:30 or 12:30:00"
+        " type ex) 12:30 or 12:30:00"
     ],
     style={'position' : 'relative',
            'left' : '300px',
@@ -63,12 +64,36 @@ layout = html.Div(children=[
            'left' : '300px',
            'bottom' : '80px'}),
     
+
     
+    html.H1("Movement Timeline"),
     dcc.Graph(id='graph1'),
+    html.H1("App Usage Timeline"),
+    html.Div(children = ["select apps ",
+                dcc.Dropdown(
+                            id = 'apps',
+                            multi = True,
+                            clearable = False,
+                            value = [],
+                            style = {'width' : '50%'}),
+            ], style = {'display':'flex'}),
+    dcc.Graph(id='graph3'),
+    html.H1("Total Time of Each Moving Type"),
+    html.Div(children = ["select moving type",
+                dcc.Dropdown(
+                            id = 'types',
+                            options = ['STILL', 'WALKING', 'ON_BICYCLE', 'IN_VEHICLE', 'RUNNING'],
+                            multi = True,
+                            clearable = False,
+                            value = [],
+                            style = {'width' : '50%'}),
+            ], style = {'display':'flex'}),
     dcc.Graph(id='graph2'),
 
 
 ])
+
+
 
 
 
@@ -82,6 +107,16 @@ def if_person(user_id):
         return "Person ID is wrong"
     else:
         return "This is "+user_id+"'s information"
+
+@app.callback(
+    Output('apps', 'options'),
+    Input('person-id', 'value')
+)
+def if_person(user_id):
+    file_name = 'data/Processed/' + user_id + '_AUE.csv'
+    df = pd.read_csv(file_name)
+    app_list = df.name.unique()
+    return [{'label' : i, 'value' : i} for i in app_list]
 
 
 @app.callback(
@@ -100,7 +135,29 @@ def update_graph(user_id, starttime,endtime,startdate, enddate):
     else:
         df = pd.read_csv(file_name)
         df.columns = ['Resource', 'Start', 'Finish']
-        fig3 = px.timeline(df, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime], title = "Timeline")
+        fig3 = px.timeline(df, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime])
+        return fig3
+
+@app.callback(
+    Output('graph3', 'figure'),
+    Input('person-id', 'value'),
+    Input('start-time', 'value'),
+    Input('end-time', 'value'),
+    Input('start-date', 'date'),
+    Input('end-date', 'date'),
+    Input('apps', 'value')
+)
+def update_graph(user_id, starttime,endtime,startdate, enddate, apps):
+    file_name = 'data/Processed/' + user_id + '_AUE.csv'
+    fig = go.Figure()
+    if os.path.isfile(file_name) == False:
+        return fig
+    else:
+        df = pd.read_csv(file_name)
+        df = df.drop(['packageName','isSystemApp','isUpdatedSystemApp'], axis = 1)
+        df.columns = ['Resource', 'Start', 'Finish']
+        df = df[df['Resource'].isin(apps)]
+        fig3 = px.timeline(df, x_start="Start", x_end="Finish", y="Resource", color = "Resource", range_x = [startdate+' '+starttime, enddate+' '+endtime])
         return fig3
 
 
@@ -111,19 +168,30 @@ def update_graph(user_id, starttime,endtime,startdate, enddate):
     Input('end-time', 'value'),
     Input('start-date', 'date'),
     Input('end-date', 'date'),
+    Input('types', 'value')
 )
 
-def update_graph(user_id,starttime, endtime, startdate,enddate):
+def update_graph(user_id,starttime, endtime, startdate,enddate, types):
     file_name = 'data/Processed/' + user_id + '_PAT.csv'
     fig = go.Figure()
+    fig.update_layout(width = 700)
+    if types == []:
+        fig = go.Figure()
+        return fig
     if os.path.isfile(file_name) == False:
         return fig
     else:
         #print(startdate + ' ' +starttime)
         st = startdate + ' ' + starttime
         ed = enddate + ' ' + endtime
-        start_range = datetime.datetime.strptime(st, '%Y-%m-%d %H:%M')
-        end_range = datetime.datetime.strptime(ed, '%Y-%m-%d %H:%M')
+        try:
+            start_range = datetime.datetime.strptime(st, '%Y-%m-%d %H:%M')
+        except:
+            start_range = datetime.datetime.strptime(st, '%Y-%m-%d %H:%M:%S')
+        try:
+            end_range = datetime.datetime.strptime(ed, '%Y-%m-%d %H:%M')
+        except:
+            end_range = datetime.datetime.strptime(ed, '%Y-%m-%d %H:%M:%S')
         df = pd.read_csv(file_name)
         df.columns = ['name', 'start_time', 'end_time']
         name_time_sum = dict()
@@ -145,8 +213,6 @@ def update_graph(user_id,starttime, endtime, startdate,enddate):
                 name_time_sum[name] += time_duration
             else:
                 name_time_sum[name] = time_duration
-        for name, time_sum in name_time_sum.items():
-            print(f"{name}: {time_sum}")
             '''
         for name in name_time_sum:
             temp = name_time_sum[name]
@@ -162,5 +228,7 @@ def update_graph(user_id,starttime, endtime, startdate,enddate):
             return datetime.timedelta(hours = hours, minutes = minutes, seconds = seconds)
         newdf = pd.DataFrame(list(name_time_sum.items()), columns = ['moving_type', 'time'])
         newdf['hours'] = newdf['time'].apply(lambda x:x.total_seconds()/3600)
+        newdf = newdf[newdf['moving_type'].isin(types)]
         fig2 = px.bar(newdf, x = 'moving_type', y = 'hours', color = 'moving_type')
+        fig2.update_layout(width = 700)
         return fig2
