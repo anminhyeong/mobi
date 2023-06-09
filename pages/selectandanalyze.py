@@ -180,13 +180,15 @@ group_layout = html.Div([
             ], style={'display':'inline-flex'}),
             html.Div(children = [
                 dcc.Dropdown(id = 'x_axis',
-                            options = [{'label' : i, 'value' : i} for i in PATE.actionType.unique()],
+                            options = [{'label' : html.Span([i.actionType, html.Span([' Total Time : ' + str(i.duration)[:-3]], style = {'color' : 'LightGray'})]), 
+                                        'value' : i.actionType} for _, i in PATE.groupby('actionType')['duration'].sum().sort_values(ascending = False).reset_index(drop = False).iterrows()],
                             multi = True,
                             clearable = False,
                             value = None,
                             style = {'width' : '100%'}),
                 dcc.Dropdown(id = 'y_axis',
-                            options = [{'label' : i, 'value' : i} for i in AUEE.name.unique()],
+                            options = [{'label' : html.Span([i['name'], html.Span([' Total Time : ' + str(i.duration)[:-3]], style = {'color' : 'LightGray'})]), 
+                                        'value' : i['name']} for _, i in AUEE.groupby('name')['duration'].sum().sort_values(ascending = False).reset_index(drop = False).iterrows()],
                             multi = True,
                             clearable = False,
                             value = None,
@@ -251,6 +253,50 @@ def filter_group_members(n_clicks, age_range, gender, movement_fraction_range, u
             return html.Div("No one meets the selected criteria.")
     
     return html.Div()
+
+#reset dropdown when group reassigned
+@app.callback(
+    Output('x_axis', 'options'),
+    Output('y_axis', 'options'),
+    Input("create-group-button", "n_clicks"),
+    State("group-name-input", "value")
+)
+def set_dropdown_options(n_clicks, group_name):
+    if n_clicks > 0 and group_name and len(groups) > 0:
+        AUE_PAT = pd.DataFrame()
+        for person in groups:
+            if len(str(person)) == 3:
+                temp = pd.read_csv(f'data/Processed/P0{person}_AUEwithPAT.csv')
+            else:
+                temp = pd.read_csv(f'data/Processed/P{person}_AUEwithPAT.csv')
+            temp.start_time = pd.to_datetime(temp.start_time)
+            temp.end_time = pd.to_datetime(temp.end_time)
+            temp['duration'] = temp.end_time - temp.start_time
+            temp['person'] = person
+            AUE_PAT = AUE_PAT.append(temp)
+        x_options = [{'label' : html.Span([i.actionType, html.Span([' Total Time : ' + str(i.duration)[:-3]], style = {'color' : 'LightGray'})]), 
+                    'value' : i.actionType} for _, i in AUE_PAT.groupby('actionType')['duration'].sum().sort_values(ascending = False).reset_index(drop = False).iterrows()]
+        y_options = [{'label' : html.Span([i['name'], html.Span([' Total Time : ' + str(i.duration)[:-3]], style = {'color' : 'LightGray'})]), 
+                                        'value' : i['name']} for _, i in AUE_PAT.groupby('name')['duration'].sum().sort_values(ascending = False).reset_index(drop = False).iterrows()]
+        return x_options, y_options
+    else:
+        raise dash.exceptions.PreventUpdate
+   
+#reset x axis dropdown when it was changed 
+@app.callback(
+    Output('x_axis', 'value'),
+    Input('x_axis', 'options')
+)
+def x_axis_reset(x_opt):
+    return None
+
+#reset y axis dropdown when it was changed
+@app.callback(
+    Output('y_axis', 'value'),
+    Input('y_axis', 'options')
+)
+def x_axis_reset(x_opt):
+    return None
 
 # Callback to display group creation message
 @app.callback(
@@ -341,7 +387,8 @@ def create_group(n_clicks, group_name):
         fig4.update_yaxes(visible=False)
         
         return html.Div(f"Group '{group_name}' created successfully!"), fig1, fig2, fig3, fig4
-    
+    else:
+        raise dash.exceptions.PreventUpdate
     return html.Div(), fig1, fig2, fig3, fig4
     
 
@@ -354,9 +401,20 @@ def update_graph(x_axis, y_axis):
     if not x_axis or not y_axis:
         fig = go.Figure(go.Scatter(x=pd.Series(dtype=object), y=pd.Series(dtype=object), mode="markers"))
         return fig
-    zeros = pd.Series(pd.Timedelta(0), index = groups)   
-    tmp = PATE[PATE['actionType'].isin(x_axis)].groupby(['person'])['duration'].sum().add(zeros, fill_value = 0)
-    tmp2 = AUEE[AUEE['name'].isin(y_axis)].groupby(['person'])['duration'].sum().add(zeros, fill_value = 0)
+    zeros = pd.Series(pd.Timedelta(0), index = groups)  
+    AUE_PAT = pd.DataFrame()
+    for person in groups:
+        if len(str(person)) == 3:
+            temp = pd.read_csv(f'data/Processed/P0{person}_AUEwithPAT.csv')
+        else:
+            temp = pd.read_csv(f'data/Processed/P{person}_AUEwithPAT.csv')
+        temp.start_time = pd.to_datetime(temp.start_time)
+        temp.end_time = pd.to_datetime(temp.end_time)
+        temp['duration'] = temp.end_time - temp.start_time
+        temp['person'] = person
+        AUE_PAT = AUE_PAT.append(temp)
+    tmp = AUE_PAT[AUE_PAT['actionType'].isin(x_axis)].groupby(['person'])['duration'].sum().add(zeros, fill_value = 0)
+    tmp2 = AUE_PAT[AUE_PAT['name'].isin(y_axis)].groupby(['person'])['duration'].sum().add(zeros, fill_value = 0)
     fig = px.scatter(x = tmp, y = tmp2)
     fig.update_traces(hoverinfo='x+y+text', text = groups)
     fig.update_layout(clickmode = 'event+select')
